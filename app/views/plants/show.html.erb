@@ -1,73 +1,85 @@
-<h1>
-  <span class="botanical_name"><%= @plant.botanical_name %></span>
-</h1>
+<div class="column_container">
+  <div>
+    <h1>
+      <span class="botanical_name"><%= @plant.botanical_name %></span>
+    </h1>
 
-<h2>How to pronounce</h2>
+    <h2>How to pronounce</h2>
 
-<p><%= @plant.pronunciation %></p>
+    <p><%= @plant.pronunciation %></p>
 
-<h2>Common Name</h2>
+    <h2>Common Name</h2>
 
-<p><%= @plant.common_name %></p>
+    <p><%= @plant.common_name %></p>
 
-<h2>Description</h2>
+    <h2>Description</h2>
 
-<p><%= @plant.description %></p>
+    <p><%= @plant.description %></p>
+  </div>
 
-<h2>Details</h2>
+  <div class="column_container">
+    <% @plant.images.each do |image| %>
+      <a href="<%= image_path image %>" target="_blank"><%= image_tag image %></a>
+    <% end %>
+  </div>
+</div>
 
-<dl>
-  <dt>Classification:</dt>
-  <dd><%= @plant.classification %></dd>
+<div>
+  <h2>Details</h2>
 
-  <dt>Hardiness level:</dt>
-  <dd><%= @plant.hardiness_level %></dd>
+  <dl>
+    <dt>Classification:</dt>
+    <dd><%= @plant.classification %></dd>
 
-  <dt>Light requirements:</dt>
-  <dd><%= @plant.light_requirements.join(", ") %></dd>
+    <dt>Hardiness level:</dt>
+    <dd><%= @plant.hardiness_level %></dd>
 
-  <dt>Foliage:</dt>
-  <dd><%= @plant.foliage %></dd>
+    <dt>Light requirements:</dt>
+    <dd><%= @plant.light_requirements.join(", ") %></dd>
 
-  <dt>Ultimate height:</dt>
-  <dd><%= @plant.ultimate_height %></dd>
+    <dt>Foliage:</dt>
+    <dd><%= @plant.foliage %></dd>
 
-  <dt>Ultimate spread:</dt>
-  <dd><%= @plant.ultimate_spread %></dd>
+    <dt>Ultimate height:</dt>
+    <dd><%= @plant.ultimate_height %></dd>
 
-  <dt>Time to ultimate height:</dt>
-  <dd><%= @plant.time_to_ultimate_height %></dd>
+    <dt>Ultimate spread:</dt>
+    <dd><%= @plant.ultimate_spread %></dd>
 
-  <dt>Harmful effects:</dt>
-  <dd><%= @plant.harmful_effects %></dd>
+    <dt>Time to ultimate height:</dt>
+    <dd><%= @plant.time_to_ultimate_height %></dd>
 
-  <dt>Habit:</dt>
-  <dd><%= @plant.habit %></dd>
+    <dt>Harmful effects:</dt>
+    <dd><%= @plant.harmful_effects %></dd>
 
-  <dt>Exposure:</dt>
-  <dd><%= @plant.exposure.join(", ") %></dd>
+    <dt>Habit:</dt>
+    <dd><%= @plant.habit %></dd>
 
-  <dt>AGM:</dt>
-  <dd><%= @plant.agm.humanize %></dd>
+    <dt>Exposure:</dt>
+    <dd><%= @plant.exposure.join(", ") %></dd>
 
-  <dt>Native to the UK:</dt>
-  <dd><%= @plant.native_to_uk.humanize %></dd>
+    <dt>AGM:</dt>
+    <dd><%= @plant.agm.humanize %></dd>
 
-  <dt>Suitable for hedging:</dt>
-  <dd><%= @plant.suitable_for_hedging.humanize %></dd>
+    <dt>Native to the UK:</dt>
+    <dd><%= @plant.native_to_uk.humanize %></dd>
 
-  <dt>Lime avoiding:</dt>
-  <dd><%= @plant.lime_avoiding.humanize %></dd>
+    <dt>Suitable for hedging:</dt>
+    <dd><%= @plant.suitable_for_hedging.humanize %></dd>
 
-  <dt>Major plant group:</dt>
-  <dd><%= @plant.major_plant_group %></dd>
+    <dt>Lime avoiding:</dt>
+    <dd><%= @plant.lime_avoiding.humanize %></dd>
 
-</dl>
+    <dt>Major plant group:</dt>
+    <dd><%= @plant.major_plant_group %></dd>
 
-<h2>Additional information</h2>
+  </dl>
 
-<ul>
-  <% @plant.additional_information.each do |info| %>
-    <li><%= info %></li>
-  <% end %>
-</ul>
+  <h2>Additional information</h2>
+
+  <ul>
+    <% @plant.additional_information.each do |info| %>
+      <li><%= info %></li>
+    <% end %>
+  </ul>
+</div>
