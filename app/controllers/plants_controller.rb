@@ -1,5 +1,5 @@
 class PlantsController < ApplicationController
   def show
-    @plant = Plant.find("cuprocyparis-leylandii")
+    @plant = Plant.find(params[:id])
   end
 end
