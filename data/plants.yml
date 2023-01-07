@@ -1,0 +1,28 @@
+- id: cuprocyparis-leylandii
+  botanical_name: Cuprocyparis leylandii
+  pronunciation: Cu-pro-cyparis
+  common_name: Leyland cypress
+  description: A large, fast-growing, dense conifer of columnar habit which can reach heights in excess of 30m if unchecked. Its dense foliage forms flattened, slightly drooping sprays of scale-like leaves.
+  classification: Tree
+  hardiness_level: H6
+  light_requirements:
+    - Full sun
+    - Partial shade
+  foliage: Evergreen
+  ultimate_height: Greater than 12 metres
+  ultimate_spread: 4–8 metres
+  time_to_ultimate_height: 10-20 years
+  harmful_effects: Can cause skin irritation
+  habit: Columnar upright
+  exposure:
+    - Exposed
+    - Sheltered
+  agm: false
+  native_to_uk: false
+  suitable_for_hedging: true
+  lime_avoiding: false
+  major_plant_group: Gymnosperm
+  additional_information:
+    - Must be trimmed a few times a season to maintain
+    - Does not grow back if old wood is cut back
+    - Good for air quality

@@ -46,6 +46,8 @@ GEM
       erubi (~> 1.4)
       rails-dom-testing (~> 2.0)
       rails-html-sanitizer (~> 1.1, >= 1.2.0)
+    active_hash (3.1.1)
+      activesupport (>= 5.0.0)
     activejob (7.0.4)
       activesupport (= 7.0.4)
       globalid (>= 0.3.6)
@@ -81,6 +83,8 @@ GEM
     erubi (1.12.0)
     globalid (1.0.0)
       activesupport (>= 5.0)
+    humanize_boolean (0.0.2)
+      i18n
     i18n (1.12.0)
       concurrent-ruby (~> 1.0)
     io-console (0.6.0)
@@ -179,9 +183,11 @@ PLATFORMS
   x86_64-darwin-21
 
 DEPENDENCIES
+  active_hash
   bootsnap
   cssbundling-rails
   debug
+  humanize_boolean
   jsbundling-rails
   puma (~> 5.0)
   rails (~> 7.0.4)
