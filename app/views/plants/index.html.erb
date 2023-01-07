@@ -1,0 +1,9 @@
+<ul>
+  <% @plants.each do |plant| %>
+    <li>
+      <span class="botanical_name">
+        <%= link_to plant.botanical_name, plant_path(plant) %>
+      </span>
+    </li>
+  <% end %>
+</ul>
