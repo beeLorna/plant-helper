@@ -320,3 +320,52 @@
     - plants/1/sarcococca-confusa/1.jpeg
     - plants/1/sarcococca-confusa/2.jpeg
     - plants/1/sarcococca-confusa/3.jpeg
+
+- id: viburnum-davidii
+  botanical_name: Viburnum davidii
+  pronunciation: dah-vid-ee-eye
+  common_name: David viburnum
+  description: A small spreading evergreen shrub, with elliptic, deep green, leathery, three-veined leaves and flattened heads of small dull white flowers followed on cross-pollinated plants by long-lasting 'metallic' blue-black berries.
+  classification:
+    - Shrub
+  climber_wall_shrub: false
+  fruit: true
+  scent: false
+  ground_cover: false
+  flowers: true
+  known_for_its_foliage: true
+  foliage_type: Evergreen
+  weed_invasive: false
+  seasonal_short_term: false
+  winter_interest: true
+  biodiversity_wildlife: false
+  interior_landscapes: false
+  suitable_for_hedging: true
+  ultimate_height: 1–1.5 metres
+  ultimate_spread: 1–1.5 metres
+  time_to_ultimate_height: 10-20 years
+  harmful_effects: None
+  native_to_uk: false
+  lime_avoiding: false
+  agm: true
+  light_requirements:
+    - Full sun
+    - Partial shade
+  hardiness_level: H5
+  habit: Bushy
+  exposure:
+    - Exposed
+    - Sheltered
+  major_plant_group: Angiosperm
+  rhs_url: https://www.rhs.org.uk/plants/18892/viburnum-davidii/details
+  additional_information:
+    - Susceptible to viburnum beetle
+    - Looks good all year round
+    - Low maintenance
+    - Originates from China
+
+  images:
+    - plants/1/viburnum-davidii/1.jpeg
+    - plants/1/viburnum-davidii/2.jpeg
+    - plants/1/viburnum-davidii/3.jpeg
+    - plants/1/viburnum-davidii/4.jpeg
