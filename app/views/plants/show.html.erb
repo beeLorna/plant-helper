@@ -29,16 +29,46 @@
 
   <dl>
     <dt>Classification:</dt>
-    <dd><%= @plant.classification %></dd>
+    <dd><%= @plant.classification.join(", ") %></dd>
 
-    <dt>Hardiness level:</dt>
-    <dd><%= @plant.hardiness_level %></dd>
+    <dt>Climber or a wall shrub:</dt>
+    <dd><%= @plant.climber_wall_shrub.humanize %></dd>
 
-    <dt>Light requirements:</dt>
-    <dd><%= @plant.light_requirements.join(", ") %></dd>
+    <dt>Fruits:</dt>
+    <dd><%= @plant.fruit.humanize %></dd>
 
-    <dt>Foliage:</dt>
-    <dd><%= @plant.foliage %></dd>
+    <dt>Scent:</dt>
+    <dd><%= @plant.scent.humanize %></dd>
+
+    <dt>Good for ground cover:</dt>
+    <dd><%= @plant.ground_cover.humanize %></dd>
+
+    <dt>Flowers:</dt>
+    <dd><%= @plant.flowers.humanize %></dd>
+
+    <dt>Known for its foliage:</dt>
+    <dd><%= @plant.known_for_its_foliage.humanize %></dd>
+
+    <dt>Foliage type:</dt>
+    <dd><%= @plant.foliage_type %></dd>
+
+    <dt>Considered a weed or invasive:</dt>
+    <dd><%= @plant.weed_invasive.humanize %></dd>
+
+    <dt>Seasonal short-term plant:</dt>
+    <dd><%= @plant.seasonal_short_term.humanize %></dd>
+
+    <dt>Winter interest:</dt>
+    <dd><%= @plant.winter_interest.humanize %></dd>
+
+    <dt>Beneficial to wildlife:</dt>
+    <dd><%= @plant.biodiversity_wildlife.humanize %></dd>
+
+    <dt>Used for interior landscapes:</dt>
+    <dd><%= @plant.interior_landscapes.humanize %></dd>
+
+    <dt>Suitable for hedging:</dt>
+    <dd><%= @plant.suitable_for_hedging.humanize %></dd>
 
     <dt>Ultimate height:</dt>
     <dd><%= @plant.ultimate_height %></dd>
@@ -52,26 +82,32 @@
     <dt>Harmful effects:</dt>
     <dd><%= @plant.harmful_effects %></dd>
 
+    <dt>Native to the UK:</dt>
+    <dd><%= @plant.native_to_uk.humanize %></dd>
+
+    <dt>Lime avoiding:</dt>
+    <dd><%= @plant.lime_avoiding.humanize %></dd>
+
+    <dt>AGM:</dt>
+    <dd><%= @plant.agm.humanize %></dd>
+
+    <dt>Light requirements:</dt>
+    <dd><%= @plant.light_requirements.join(", ") %></dd>
+
+    <dt>Hardiness level:</dt>
+    <dd><%= @plant.hardiness_level %></dd>
+
     <dt>Habit:</dt>
     <dd><%= @plant.habit %></dd>
 
     <dt>Exposure:</dt>
     <dd><%= @plant.exposure.join(", ") %></dd>
 
-    <dt>AGM:</dt>
-    <dd><%= @plant.agm.humanize %></dd>
-
-    <dt>Native to the UK:</dt>
-    <dd><%= @plant.native_to_uk.humanize %></dd>
-
-    <dt>Suitable for hedging:</dt>
-    <dd><%= @plant.suitable_for_hedging.humanize %></dd>
-
-    <dt>Lime avoiding:</dt>
-    <dd><%= @plant.lime_avoiding.humanize %></dd>
-
     <dt>Major plant group:</dt>
     <dd><%= @plant.major_plant_group %></dd>
+
+    <dt>RHS plant page:</dt>
+    <dd><%= link_to @plant.rhs_url, @plant.rhs_url, target: :_blank %></dd>
 
   </dl>
 

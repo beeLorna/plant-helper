@@ -3,29 +3,42 @@
   pronunciation: KOO-pro-ke-PA-ris ley-land-ee-eye
   common_name: Leyland cypress
   description: A large, fast-growing, dense conifer of columnar habit which can reach heights in excess of 30m if unchecked. Its dense foliage forms flattened, slightly drooping sprays of scale-like leaves.
-  classification: Tree
-  hardiness_level: H6
-  light_requirements:
-    - Full sun
-    - Partial shade
-  foliage: Evergreen
+  classification:
+    - Tree
+  climber_wall_shrub: false
+  fruit: false
+  scent: false
+  ground_cover: false
+  flowers: false
+  known_for_its_foliage: true
+  foliage_type: Evergreen
+  weed_invasive: false
+  seasonal_short_term: false
+  winter_interest: false
+  biodiversity_wildlife: false
+  interior_landscapes: false
+  suitable_for_hedging: true
   ultimate_height: Greater than 12 metres
   ultimate_spread: 4–8 metres
   time_to_ultimate_height: 10-20 years
   harmful_effects: Can cause skin irritation
+  native_to_uk: false
+  lime_avoiding: false
+  agm: false
+  light_requirements:
+    - Full sun
+    - Partial shade
+  hardiness_level: H6
   habit: Columnar upright
   exposure:
     - Exposed
     - Sheltered
-  agm: false
-  native_to_uk: false
-  suitable_for_hedging: true
-  lime_avoiding: false
   major_plant_group: Gymnosperm
+  rhs_url: https://www.rhs.org.uk/plants/190606/x-cuprocyparis-leylandii/details
   additional_information:
     - Must be trimmed a few times a season to maintain
     - Does not grow back if old wood is cut back
     - Good for air quality
   images:
     - plants/1/cuprocyparis-leylandii/1.jpeg
-    - plants/1/cuprocyparis-leylandii/1.jpeg
+    - plants/1/cuprocyparis-leylandii/2.jpeg
