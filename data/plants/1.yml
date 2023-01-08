@@ -223,3 +223,51 @@
     - plants/1/choisya-ternata-sundance/1.jpeg
     - plants/1/choisya-ternata-sundance/2.jpeg
     - plants/1/choisya-ternata-sundance/3.jpeg
+
+- id: cordyline-australis
+  botanical_name: Cordyline australis
+  pronunciation: cord-a-lin-eh
+  common_name: Cabbage palm
+  description: A small evergreen tree with several stout branches arising from a single trunk. Leaves long, sword-shaped, in dense clusters at the branch tips. Large panicles of small, fragrant cream flowers.
+  classification:
+    - Tree
+  climber_wall_shrub: false
+  fruit: true
+  scent: false
+  ground_cover: false
+  flowers: true
+  known_for_its_foliage: true
+  foliage_type: Evergreen
+  weed_invasive: false
+  seasonal_short_term: false
+  winter_interest: false
+  biodiversity_wildlife: false
+  interior_landscapes: false
+  suitable_for_hedging: false
+  ultimate_height: 4–8 metres
+  ultimate_spread: 2.5–4 metres
+  time_to_ultimate_height: 20-50 years
+  harmful_effects: None
+  native_to_uk: false
+  lime_avoiding: false
+  agm: true
+  light_requirements:
+    - Full sun
+  hardiness_level: H3
+  habit: Tufted
+  exposure:
+    - Sheltered
+  major_plant_group: Angiosperm
+  rhs_url: https://www.rhs.org.uk/plants/4361/cordyline-australis/details
+  additional_information:
+    - Root hardy
+    - Drought resistant
+    - Good for coastal areas
+    - Originates from New Zealand
+    - Palm-like evergreen
+    - Fragrant, cup-shaped flowers
+    - Followed by small. spherical berries
+  images:
+    - plants/1/cordyline-australis/1.jpeg
+    - plants/1/cordyline-australis/2.jpeg
+    - plants/1/cordyline-australis/3.jpeg
