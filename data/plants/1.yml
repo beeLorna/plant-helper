@@ -40,8 +40,8 @@
     - Does not grow back if old wood is cut back
     - Good for air quality
   images:
-    - plants/1/cuprocyparis-leylandii/1.jpeg
-    - plants/1/cuprocyparis-leylandii/2.jpeg
+    - plants/1/cuprocyparis-leylandii/1.jpg
+    - plants/1/cuprocyparis-leylandii/2.jpg
 
 - id: araucaria-araucana
   botanical_name: Araucaria araucana
@@ -83,7 +83,7 @@
     - Originates from the southern hemisphere - Chile / Argentina
     - Needs reasonable drainage
   images:
-    - plants/1/araucaria-araucana/1.jpeg
+    - plants/1/araucaria-araucana/1.jpg
     - plants/1/araucaria-araucana/2.png
 
 - id: arbutus-unedo
@@ -129,10 +129,10 @@
     - Tolerant of salt so good for coastal areas
     - Tolerant of pollution
   images:
-    - plants/1/arbutus-unedo/1.jpeg
-    - plants/1/arbutus-unedo/2.jpeg
-    - plants/1/arbutus-unedo/3.jpeg
-    - plants/1/arbutus-unedo/4.jpeg
+    - plants/1/arbutus-unedo/1.jpg
+    - plants/1/arbutus-unedo/2.jpg
+    - plants/1/arbutus-unedo/3.jpg
+    - plants/1/arbutus-unedo/4.jpg
 
 - id: berberis-dawinii
   botanical_name: Berberis dawinii
@@ -175,8 +175,8 @@
     - Good for coastal areas
     - From the Chile region
   images:
-    - plants/1/berberis-dawinii/1.jpeg
-    - plants/1/berberis-dawinii/2.jpeg
+    - plants/1/berberis-dawinii/1.jpg
+    - plants/1/berberis-dawinii/2.jpg
 
 - id: choisya-ternata-sundance
   botanical_name: Choisya ternata 'Sundance'
@@ -220,9 +220,9 @@
     - Drought resistant
     - Palmately divided ternate leaves
   images:
-    - plants/1/choisya-ternata-sundance/1.jpeg
-    - plants/1/choisya-ternata-sundance/2.jpeg
-    - plants/1/choisya-ternata-sundance/3.jpeg
+    - plants/1/choisya-ternata-sundance/1.jpg
+    - plants/1/choisya-ternata-sundance/2.jpg
+    - plants/1/choisya-ternata-sundance/3.jpg
 
 - id: cordyline-australis
   botanical_name: Cordyline australis
@@ -268,9 +268,9 @@
     - Fragrant, cup-shaped flowers
     - Followed by small. spherical berries
   images:
-    - plants/1/cordyline-australis/1.jpeg
-    - plants/1/cordyline-australis/2.jpeg
-    - plants/1/cordyline-australis/3.jpeg
+    - plants/1/cordyline-australis/1.jpg
+    - plants/1/cordyline-australis/2.jpg
+    - plants/1/cordyline-australis/3.jpg
 
 - id: sarcococca-confusa
   botanical_name: Sarcococca confusa
@@ -317,9 +317,9 @@
     - Tolerant of dry shade
     - Tolerant of neglect
   images:
-    - plants/1/sarcococca-confusa/1.jpeg
-    - plants/1/sarcococca-confusa/2.jpeg
-    - plants/1/sarcococca-confusa/3.jpeg
+    - plants/1/sarcococca-confusa/1.jpg
+    - plants/1/sarcococca-confusa/2.jpg
+    - plants/1/sarcococca-confusa/3.jpg
 
 - id: viburnum-davidii
   botanical_name: Viburnum davidii
@@ -365,7 +365,7 @@
     - Originates from China
 
   images:
-    - plants/1/viburnum-davidii/1.jpeg
-    - plants/1/viburnum-davidii/2.jpeg
-    - plants/1/viburnum-davidii/3.jpeg
-    - plants/1/viburnum-davidii/4.jpeg
+    - plants/1/viburnum-davidii/1.jpg
+    - plants/1/viburnum-davidii/2.jpg
+    - plants/1/viburnum-davidii/3.jpg
+    - plants/1/viburnum-davidii/4.jpg
