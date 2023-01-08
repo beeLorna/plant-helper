@@ -133,3 +133,47 @@
     - plants/1/arbutus-unedo/2.jpeg
     - plants/1/arbutus-unedo/3.jpeg
     - plants/1/arbutus-unedo/4.jpeg
+
+- id: berberis-dawinii
+  botanical_name: Berberis dawinii
+  pronunciation: ber-beris darwin-ee-eye
+  common_name: Darwin's Barberry
+  description: A dense, medium-sized evergreen shrub, with dark glossy green, broadly oblong, sparsely-spined leaves, and drooping racemes of rich orange flowers, tinged red in bud, followed by blue-black berries.
+  classification:
+    - Shrub
+  climber_wall_shrub: false
+  fruit: true
+  scent: false
+  ground_cover: false
+  flowers: true
+  known_for_its_foliage: true
+  foliage_type: Evergreen
+  weed_invasive: false
+  seasonal_short_term: false
+  winter_interest: true
+  biodiversity_wildlife: true
+  interior_landscapes: false
+  suitable_for_hedging: true
+  ultimate_height: 1.5–2.5 metres
+  ultimate_spread: 1.5–2.5 metres
+  time_to_ultimate_height: 10-20 years
+  harmful_effects: Ingestion may cause mild stomach upset.
+  native_to_uk: false
+  lime_avoiding: false
+  agm: true
+  light_requirements:
+    - Full sun
+    - Partial shade
+  hardiness_level: H5
+  habit: Bushy
+  exposure:
+    - Exposed
+    - Sheltered
+  major_plant_group: Angiosperm
+  rhs_url: https://www.rhs.org.uk/plants/2105/berberis-darwinii/details
+  additional_information:
+    - Good for coastal areas
+    - From the Chile region
+  images:
+    - plants/1/berberis-dawinii/1.jpeg
+    - plants/1/berberis-dawinii/2.jpeg
