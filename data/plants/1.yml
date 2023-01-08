@@ -177,3 +177,49 @@
   images:
     - plants/1/berberis-dawinii/1.jpeg
     - plants/1/berberis-dawinii/2.jpeg
+
+- id: choisya-ternata-sundance
+  botanical_name: Choisya ternata 'Sundance'
+  pronunciation: coy-sia ter-nata
+  common_name: Mexican orange blossom
+  description: A medium-sized evergreen shrub of rounded habit with glossy, aromatic bright yellow, ternate leaves and small clusters of fragrant white flowers.
+  classification:
+    - Shrub
+  climber_wall_shrub: false
+  fruit: false
+  scent: true
+  ground_cover: false
+  flowers: true
+  known_for_its_foliage: true
+  foliage_type: Evergreen
+  weed_invasive: false
+  seasonal_short_term: false
+  winter_interest: true
+  biodiversity_wildlife: false
+  interior_landscapes: false
+  suitable_for_hedging: false
+  ultimate_height: 1.5–2.5 metres
+  ultimate_spread: 1.5–2.5 metres
+  time_to_ultimate_height: 10-20 years
+  harmful_effects: None
+  native_to_uk: false
+  lime_avoiding: false
+  agm: true
+  light_requirements:
+    - Full sun
+  hardiness_level: H4
+  habit: Bushy
+  exposure:
+    - Sheltered
+  major_plant_group: Angiosperm
+  rhs_url: https://www.rhs.org.uk/plants/96024/choisya-ternata-sundance-(-lich-)/details
+  additional_information:
+    - Aromatic leaves
+    - Brighter yellow leaves than other Choisya plants
+    - Fragrant white flowers
+    - Drought resistant
+    - Palmately divided ternate leaves
+  images:
+    - plants/1/choisya-ternata-sundance/1.jpeg
+    - plants/1/choisya-ternata-sundance/2.jpeg
+    - plants/1/choisya-ternata-sundance/3.jpeg
