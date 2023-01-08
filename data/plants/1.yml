@@ -271,3 +271,52 @@
     - plants/1/cordyline-australis/1.jpeg
     - plants/1/cordyline-australis/2.jpeg
     - plants/1/cordyline-australis/3.jpeg
+
+- id: sarcococca-confusa
+  botanical_name: Sarcococca confusa
+  pronunciation: sarco-coh-ca
+  common_name: Sweet box
+  description: S. confusa is a bushy evergreen shrub to 2m, with glossy, deep green, wavy ovate leaves 3-5cm in length and, in winter, inconspicuous, very sweetly scented, creamy-white flowers, followed by glossy black berries.
+  classification:
+    - Shrub
+  climber_wall_shrub: false
+  fruit: true
+  scent: true
+  ground_cover: false
+  flowers: true
+  known_for_its_foliage: true
+  foliage_type: Evergreen
+  weed_invasive: false
+  seasonal_short_term: false
+  winter_interest: true
+  biodiversity_wildlife: true
+  interior_landscapes: false
+  suitable_for_hedging: true
+  ultimate_height: 1–1.5 metres
+  ultimate_spread: 1–1.5 metres
+  time_to_ultimate_height: 5-10 years
+  harmful_effects: None
+  native_to_uk: false
+  lime_avoiding: false
+  agm: true
+  light_requirements:
+    - Deep shade
+    - Partial shade
+  hardiness_level: H5
+  habit: Bushy
+  exposure:
+    - Sheltered
+  major_plant_group: Angiosperm
+  rhs_url: https://www.rhs.org.uk/plants/16452/sarcococca-confusa/details
+  additional_information:
+    - Tolerant of very dry soil
+    - Looks good all year round
+    - Part of the box family - Buxaceae
+    - Originates from China
+    - Tolerant of pollution
+    - Tolerant of dry shade
+    - Tolerant of neglect
+  images:
+    - plants/1/sarcococca-confusa/1.jpeg
+    - plants/1/sarcococca-confusa/2.jpeg
+    - plants/1/sarcococca-confusa/3.jpeg
