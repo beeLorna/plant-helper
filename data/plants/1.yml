@@ -2,22 +2,9 @@
   botanical_name: Cuprocyparis leylandii
   pronunciation: KOO-pro-ke-PA-ris ley-land-ee-eye
   common_name: Leyland cypress
-  description: A large, fast-growing, dense conifer of columnar habit which can reach heights in excess of 30m if unchecked. Its dense foliage forms flattened, slightly drooping sprays of scale-like leaves.
+  description: A large, fast-growing, dense conifer of columnar habit which can reach heights in excess of 30m if unchecked.
   classification:
     - Tree
-  climber_wall_shrub: false
-  fruit: false
-  scent: false
-  ground_cover: false
-  flowers: false
-  known_for_its_foliage: true
-  foliage_type: Evergreen
-  weed_invasive: false
-  seasonal_short_term: false
-  winter_interest: false
-  biodiversity_wildlife: false
-  interior_landscapes: false
-  suitable_for_hedging: true
   ultimate_height: Greater than 12 metres
   ultimate_spread: 4–8 metres
   time_to_ultimate_height: 10-20 years
@@ -29,19 +16,45 @@
     - Full sun
     - Partial shade
   hardiness_level: H6
-  habit: Columnar upright
   exposure:
     - Exposed
     - Sheltered
-  major_plant_group: Gymnosperm
+  major_plant_group: Gymnosperm, conifer
   rhs_url: https://www.rhs.org.uk/plants/190606/x-cuprocyparis-leylandii/details
+  climber_wall_shrub: false
+  known_for_its_fruit: false
+  known_for_its_scent: false
+  ground_cover: false
+  known_for_its_flowers: false
+  known_for_its_foliage: true
+  foliage_type: Evergreen
+  weed_invasive: false
+  seasonal_short_term: false
+  winter_interest: false
+  biodiversity_wildlife: false
+  interior_landscapes: false
+  suitable_for_hedging: true
+  habit: Columnar upright
+  flowers_present: false
+  flower_description:
+  fruit_present: false
+  fruit_description:
+  leaf_description:
+    - Compound leaf form
+    - Serrate leaf margin
+    - Alternate leaf arrangement on stem
+    - Scale-like soft leaves
+    - Dense foliage forms flattened, slightly drooping sprays of leaves
+    - There is a smell of resin when the foliage is crushed.
   additional_information:
-    - Must be trimmed a few times a season to maintain
+    - Pruning should be carried out between April and the end of August, with up to three cuts during the growing season
     - Does not grow back if old wood is cut back
     - Good for air quality
   images:
     - plants/1/cuprocyparis-leylandii/1.jpg
     - plants/1/cuprocyparis-leylandii/2.jpg
+    - plants/1/cuprocyparis-leylandii/3.jpg
+    - plants/1/cuprocyparis-leylandii/4.jpg
 
 - id: araucaria-araucana
   botanical_name: Araucaria araucana
@@ -50,19 +63,6 @@
   description: A stately evergreen tree with branches clothed in sharply pointed, triangular dark green leaves. Mature plants may bear cones on the upper branches, male and female usually on separate trees.
   classification:
     - Tree
-  climber_wall_shrub: false
-  fruit: false
-  scent: false
-  ground_cover: false
-  flowers: false
-  known_for_its_foliage: true
-  foliage_type: Evergreen
-  weed_invasive: false
-  seasonal_short_term: false
-  winter_interest: true
-  biodiversity_wildlife: false
-  interior_landscapes: false
-  suitable_for_hedging: false
   ultimate_height: Greater than 12 metres
   ultimate_spread: Wider than 8 metres
   time_to_ultimate_height: 20-50 years
@@ -74,17 +74,45 @@
     - Full sun
     - Partial shade
   hardiness_level: H7
-  habit: Bushy
   exposure:
     - Sheltered
-  major_plant_group: Gymnosperm
+  major_plant_group: Gymnosperm, conifer
   rhs_url: https://www.rhs.org.uk/plants/1456/araucaria-araucana/details
+  climber_wall_shrub: false
+  known_for_its_fruit: false
+  known_for_its_scent: false
+  ground_cover: false
+  known_for_its_flowers: false
+  known_for_its_foliage: true
+  foliage_type: Evergreen
+  weed_invasive: false
+  seasonal_short_term: false
+  winter_interest: true
+  biodiversity_wildlife: false
+  interior_landscapes: false
+  suitable_for_hedging: false
+  habit: Bushy
+  flowers_present: false
+  flower_description:
+  fruit_present: false
+  fruit_description:
+  leaf_description:
+    - Simple leaf form
+    - Ovate, Lanceolate leaf shape
+    - Entire leaf margin
+    - Alternate leaf arrangement on stem
+    - Green, stiff, spiky, leathery, glossy and triangular-shaped
+    - They are thick and broad at the base
+    - They are sharp at the edges and tips
+    - Are arranged in a spiral around the trunk
   additional_information:
     - Originates from the southern hemisphere - Chile / Argentina
     - Needs reasonable drainage
+    - Dioecious, male and female cones grow on separate trees
   images:
     - plants/1/araucaria-araucana/1.jpg
     - plants/1/araucaria-araucana/2.png
+    - plants/1/araucaria-araucana/3.jpg
 
 - id: arbutus-unedo
   botanical_name: Arbutus unedo
@@ -94,19 +122,6 @@
   classification:
     - Tree
     - Shrub
-  climber_wall_shrub: false
-  fruit: true
-  scent: false
-  ground_cover: false
-  flowers: true
-  known_for_its_foliage: true
-  foliage_type: Evergreen
-  weed_invasive: false
-  seasonal_short_term: false
-  winter_interest: true
-  biodiversity_wildlife: true
-  interior_landscapes: false
-  suitable_for_hedging: false
   ultimate_height: 4-8 metres
   ultimate_spread: 4-8 metres
   time_to_ultimate_height: 10-20 years
@@ -117,35 +132,15 @@
   light_requirements:
     - Full sun
   hardiness_level: H5
-  habit: Bushy
   exposure:
     - Sheltered
   major_plant_group: Angiosperm
   rhs_url: https://www.rhs.org.uk/plants/1473/arbutus-unedo/details
-  additional_information:
-    - Part of the Ericaceae family
-    - unedo means ‘eat only one’ - fruits are bitter so you will only want to eat once.
-    - It fruits on last years flowers
-    - Tolerant of salt so good for coastal areas
-    - Tolerant of pollution
-  images:
-    - plants/1/arbutus-unedo/1.jpg
-    - plants/1/arbutus-unedo/2.jpg
-    - plants/1/arbutus-unedo/3.jpg
-    - plants/1/arbutus-unedo/4.jpg
-
-- id: berberis-dawinii
-  botanical_name: Berberis dawinii
-  pronunciation: ber-beris darwin-ee-eye
-  common_name: Darwin's Barberry
-  description: A dense, medium-sized evergreen shrub, with dark glossy green, broadly oblong, sparsely-spined leaves, and drooping racemes of rich orange flowers, tinged red in bud, followed by blue-black berries.
-  classification:
-    - Shrub
   climber_wall_shrub: false
-  fruit: true
-  scent: false
+  known_for_its_fruit: true
+  known_for_its_scent: false
   ground_cover: false
-  flowers: true
+  known_for_its_flowers: true
   known_for_its_foliage: true
   foliage_type: Evergreen
   weed_invasive: false
@@ -153,7 +148,49 @@
   winter_interest: true
   biodiversity_wildlife: true
   interior_landscapes: false
-  suitable_for_hedging: true
+  suitable_for_hedging: false
+  habit: Bushy
+  flowers_present: true
+  flower_description:
+    - Simple flower
+    - Panicle inflorescence shape
+    - bell-shaped autumn flowers
+    - Resemble those of lily of the valley
+    - White, sometimes pink tinged
+    - Appearing in panicles to 5cm long
+  fruit_present: true
+  fruit_description:
+    - Resemble strawberries
+    - Fruit development is delayed for about five months after pollination
+    - Flowers appear while the previous year's fruit are ripening
+  leaf_description:
+    - Simple leaf form
+    - Serrate leaf margin
+    - Pinnate leaf venation
+    - Obovate, oblanceolate leaf shape
+    - Alternate leaf arrangement on stem
+    - dark green, leathery, red-stemmed leaves
+  additional_information:
+    - Part of the Ericaceae family
+    - unedo means ‘eat only one’ - fruits are bitter so you will only want to eat once.
+    - It fruits on last years flowers
+    - Tolerant of salt so good for coastal areas
+    - Tolerant of pollution
+    - Often seen multi-stemmed
+  images:
+    - plants/1/arbutus-unedo/1.jpg
+    - plants/1/arbutus-unedo/2.jpg
+    - plants/1/arbutus-unedo/3.jpg
+    - plants/1/arbutus-unedo/4.jpg
+    - plants/1/arbutus-unedo/5.jpg
+
+- id: berberis-dawinii
+  botanical_name: Berberis dawinii
+  pronunciation: ber-beris darwin-ee-eye
+  common_name: Darwin's Barberry
+  description: A dense, medium-sized evergreen shrub.
+  classification:
+    - Shrub
   ultimate_height: 1.5–2.5 metres
   ultimate_spread: 1.5–2.5 metres
   time_to_ultimate_height: 10-20 years
@@ -165,18 +202,54 @@
     - Full sun
     - Partial shade
   hardiness_level: H5
-  habit: Bushy
   exposure:
     - Exposed
     - Sheltered
   major_plant_group: Angiosperm
   rhs_url: https://www.rhs.org.uk/plants/2105/berberis-darwinii/details
+  climber_wall_shrub: false
+  known_for_its_fruit: true
+  known_for_its_scent: false
+  ground_cover: false
+  known_for_its_flowers: true
+  known_for_its_foliage: true
+  foliage_type: Evergreen
+  weed_invasive: false
+  seasonal_short_term: false
+  winter_interest: true
+  biodiversity_wildlife: true
+  interior_landscapes: false
+  suitable_for_hedging: true
+  habit: Bushy
+  flowers_present: true
+  flower_description:
+    - Simple flower
+    - Racemes inflorescence shape
+    - Rich orange flowers
+    - Tinged red in bud
+    - Flowers in 5" clusters on red stalks that are proliflic starting in the early spring
+  fruit_present: true
+  fruit_description:
+    - blue-black berries
+    - Edible fruit is very acidic
+  leaf_description:
+    - Simple leaf form
+    - Spiny leaf margin
+    - Whorled leaf arrangement on stem
+    - Pinnate leaf venation
+    - Dark glossy green, broadly oblong, sparsely-spined leaves
+    - The toothed leaves resemble holly
   additional_information:
     - Good for coastal areas
     - From the Chile region
+    - Grows in any soil except waterlogged
+    - A sunny position will encourage fruiting
+    - Once it is established it can be quite drought and heat tolerant
+    - Red branches are dense with 3-7 parted thorns.
   images:
     - plants/1/berberis-dawinii/1.jpg
     - plants/1/berberis-dawinii/2.jpg
+    - plants/1/berberis-dawinii/3.jpg
 
 - id: choisya-ternata-sundance
   botanical_name: Choisya ternata 'Sundance'
@@ -185,19 +258,6 @@
   description: A medium-sized evergreen shrub of rounded habit with glossy, aromatic bright yellow, ternate leaves and small clusters of fragrant white flowers.
   classification:
     - Shrub
-  climber_wall_shrub: false
-  fruit: false
-  scent: true
-  ground_cover: false
-  flowers: true
-  known_for_its_foliage: true
-  foliage_type: Evergreen
-  weed_invasive: false
-  seasonal_short_term: false
-  winter_interest: true
-  biodiversity_wildlife: false
-  interior_landscapes: false
-  suitable_for_hedging: false
   ultimate_height: 1.5–2.5 metres
   ultimate_spread: 1.5–2.5 metres
   time_to_ultimate_height: 10-20 years
@@ -208,42 +268,59 @@
   light_requirements:
     - Full sun
   hardiness_level: H4
-  habit: Bushy
   exposure:
     - Sheltered
   major_plant_group: Angiosperm
   rhs_url: https://www.rhs.org.uk/plants/96024/choisya-ternata-sundance-(-lich-)/details
-  additional_information:
-    - Aromatic leaves
+  climber_wall_shrub: false
+  known_for_its_fruit: false
+  known_for_its_scent: true
+  ground_cover: false
+  known_for_its_flowers: true
+  known_for_its_foliage: true
+  foliage_type: Evergreen
+  weed_invasive: false
+  seasonal_short_term: false
+  winter_interest: true
+  biodiversity_wildlife: false
+  interior_landscapes: false
+  suitable_for_hedging: false
+  habit: Bushy
+  flowers_present: true
+  flower_description:
+    - Clusters of fragrant white flowers appear in late spring
+    - Can flower spring and autumn
+    - Corymb inflorescence shape
+    - Flowers produced in a cluster of axillary corymbs
+    - Each corymb three to six flowers
+  fruit_present: false
+  fruit_description:
+  leaf_description:
+    - Compound leaf form
+    - Oposite leaf arrangement on stem
+    - Ternate leaf shape
+    - Elliptical leaflet shape
+    - Entire leaflet margin
+    - Pinnate leaflet venation
+    - Aromatic
+    - When crushed, the leaves have a distinctive smell, which reminds many gardeners of basil
+    - Bright yellow-green, glossy leaves
     - Brighter yellow leaves than other Choisya plants
-    - Fragrant white flowers
+  additional_information:
     - Drought resistant
-    - Palmately divided ternate leaves
   images:
     - plants/1/choisya-ternata-sundance/1.jpg
     - plants/1/choisya-ternata-sundance/2.jpg
     - plants/1/choisya-ternata-sundance/3.jpg
+    - plants/1/choisya-ternata-sundance/4.jpg
 
 - id: cordyline-australis
   botanical_name: Cordyline australis
   pronunciation: cord-a-lin-eh
   common_name: Cabbage palm
-  description: A small evergreen tree with several stout branches arising from a single trunk. Leaves long, sword-shaped, in dense clusters at the branch tips. Large panicles of small, fragrant cream flowers.
+  description: A small evergreen tree with several stout branches arising from a single trunk.
   classification:
     - Tree
-  climber_wall_shrub: false
-  fruit: true
-  scent: false
-  ground_cover: false
-  flowers: true
-  known_for_its_foliage: true
-  foliage_type: Evergreen
-  weed_invasive: false
-  seasonal_short_term: false
-  winter_interest: false
-  biodiversity_wildlife: false
-  interior_landscapes: false
-  suitable_for_hedging: false
   ultimate_height: 4–8 metres
   ultimate_spread: 2.5–4 metres
   time_to_ultimate_height: 20-50 years
@@ -254,23 +331,50 @@
   light_requirements:
     - Full sun
   hardiness_level: H3
-  habit: Tufted
   exposure:
     - Sheltered
   major_plant_group: Angiosperm
   rhs_url: https://www.rhs.org.uk/plants/4361/cordyline-australis/details
+  climber_wall_shrub: false
+  known_for_its_fruit: false
+  known_for_its_scent: false
+  ground_cover: false
+  known_for_its_flowers: true
+  known_for_its_foliage: true
+  foliage_type: Evergreen
+  weed_invasive: false
+  seasonal_short_term: false
+  winter_interest: false
+  biodiversity_wildlife: false
+  interior_landscapes: false
+  suitable_for_hedging: false
+  habit: Tufted
+  flowers_present: true
+  flower_description:
+    - Spike inflorescence shape
+    - Small, fragrant, cup-shaped, cream flowers
+  fruit_present: true
+  fruit_description:
+    - Small spherical berries
+  leaf_description:
+    - Simple leaf form
+    - Linear leaf shape
+    - Entire leaf margin
+    - Long, sword-shaped, in dense clusters at the branch tips
   additional_information:
     - Root hardy
     - Drought resistant
     - Good for coastal areas
     - Originates from New Zealand
     - Palm-like evergreen
-    - Fragrant, cup-shaped flowers
     - Followed by small. spherical berries
   images:
     - plants/1/cordyline-australis/1.jpg
     - plants/1/cordyline-australis/2.jpg
     - plants/1/cordyline-australis/3.jpg
+    - plants/1/cordyline-australis/4.jpg
+    - plants/1/cordyline-australis/5.jpg
+    - plants/1/cordyline-australis/6.jpg
 
 - id: sarcococca-confusa
   botanical_name: Sarcococca confusa
@@ -279,19 +383,6 @@
   description: S. confusa is a bushy evergreen shrub to 2m, with glossy, deep green, wavy ovate leaves 3-5cm in length and, in winter, inconspicuous, very sweetly scented, creamy-white flowers, followed by glossy black berries.
   classification:
     - Shrub
-  climber_wall_shrub: false
-  fruit: true
-  scent: true
-  ground_cover: false
-  flowers: true
-  known_for_its_foliage: true
-  foliage_type: Evergreen
-  weed_invasive: false
-  seasonal_short_term: false
-  winter_interest: true
-  biodiversity_wildlife: true
-  interior_landscapes: false
-  suitable_for_hedging: true
   ultimate_height: 1–1.5 metres
   ultimate_spread: 1–1.5 metres
   time_to_ultimate_height: 5-10 years
@@ -303,11 +394,38 @@
     - Deep shade
     - Partial shade
   hardiness_level: H5
-  habit: Bushy
   exposure:
     - Sheltered
   major_plant_group: Angiosperm
   rhs_url: https://www.rhs.org.uk/plants/16452/sarcococca-confusa/details
+  climber_wall_shrub: false
+  known_for_its_fruit: true
+  known_for_its_scent: true
+  ground_cover: false
+  known_for_its_flowers: false
+  known_for_its_foliage: true
+  foliage_type: Evergreen
+  weed_invasive: false
+  seasonal_short_term: false
+  winter_interest: true
+  biodiversity_wildlife: true
+  interior_landscapes: false
+  suitable_for_hedging: true
+  habit: Bushy
+  flowers_present: true
+  flower_description:
+    - Spikelet inflorescence shape
+    - Winter-flowering
+    - Sweetly scented, pure white blooms
+  fruit_present: true
+  fruit_description:
+    - Glossy black berries
+  leaf_description:
+    - Simple leaf form
+    - Ovate leaf shape
+    - Undulate leaf margin
+    - Pinnate  leaf venation
+    - Dark green leaves
   additional_information:
     - Tolerant of very dry soil
     - Looks good all year round
@@ -328,19 +446,6 @@
   description: A small spreading evergreen shrub, with elliptic, deep green, leathery, three-veined leaves and flattened heads of small dull white flowers followed on cross-pollinated plants by long-lasting 'metallic' blue-black berries.
   classification:
     - Shrub
-  climber_wall_shrub: false
-  fruit: true
-  scent: false
-  ground_cover: false
-  flowers: true
-  known_for_its_foliage: true
-  foliage_type: Evergreen
-  weed_invasive: false
-  seasonal_short_term: false
-  winter_interest: true
-  biodiversity_wildlife: false
-  interior_landscapes: false
-  suitable_for_hedging: true
   ultimate_height: 1–1.5 metres
   ultimate_spread: 1–1.5 metres
   time_to_ultimate_height: 10-20 years
@@ -352,18 +457,45 @@
     - Full sun
     - Partial shade
   hardiness_level: H5
-  habit: Bushy
   exposure:
     - Exposed
     - Sheltered
   major_plant_group: Angiosperm
   rhs_url: https://www.rhs.org.uk/plants/18892/viburnum-davidii/details
+  climber_wall_shrub: false
+  known_for_its_fruit: true
+  known_for_its_scent: false
+  ground_cover: false
+  known_for_its_flowers: true
+  known_for_its_foliage: true
+  foliage_type: Evergreen
+  weed_invasive: false
+  seasonal_short_term: false
+  winter_interest: true
+  biodiversity_wildlife: false
+  interior_landscapes: false
+  suitable_for_hedging: true
+  habit: Bushy
+  flowers_present: true
+  flower_description:
+    - Compound umbel inflorescence shape
+    - Flattened heads of small dull white flowers
+  fruit_present: true
+  fruit_description:
+    - Long-lasting 'metallic' blue-black berries
+    - Cross pollination needed for fruit
+  leaf_description:
+    - Simple leaf form
+    - Elliptic leaf shape
+    - Reticulate leaf venation
+    - Deep green
+    - Leathery
+    - Three-veined
   additional_information:
     - Susceptible to viburnum beetle
     - Looks good all year round
     - Low maintenance
     - Originates from China
-
   images:
     - plants/1/viburnum-davidii/1.jpg
     - plants/1/viburnum-davidii/2.jpg
