@@ -25,50 +25,11 @@
 </div>
 
 <div>
-  <h2>Details</h2>
+  <h2>Botanical Details</h2>
 
   <dl>
     <dt>Classification:</dt>
     <dd><%= @plant.classification.join(", ") %></dd>
-
-    <dt>Climber or a wall shrub:</dt>
-    <dd><%= @plant.climber_wall_shrub.humanize %></dd>
-
-    <dt>Fruits:</dt>
-    <dd><%= @plant.fruit.humanize %></dd>
-
-    <dt>Scent:</dt>
-    <dd><%= @plant.scent.humanize %></dd>
-
-    <dt>Good for ground cover:</dt>
-    <dd><%= @plant.ground_cover.humanize %></dd>
-
-    <dt>Flowers:</dt>
-    <dd><%= @plant.flowers.humanize %></dd>
-
-    <dt>Known for its foliage:</dt>
-    <dd><%= @plant.known_for_its_foliage.humanize %></dd>
-
-    <dt>Foliage type:</dt>
-    <dd><%= @plant.foliage_type %></dd>
-
-    <dt>Considered a weed or invasive:</dt>
-    <dd><%= @plant.weed_invasive.humanize %></dd>
-
-    <dt>Seasonal short-term plant:</dt>
-    <dd><%= @plant.seasonal_short_term.humanize %></dd>
-
-    <dt>Winter interest:</dt>
-    <dd><%= @plant.winter_interest.humanize %></dd>
-
-    <dt>Beneficial to wildlife:</dt>
-    <dd><%= @plant.biodiversity_wildlife.humanize %></dd>
-
-    <dt>Used for interior landscapes:</dt>
-    <dd><%= @plant.interior_landscapes.humanize %></dd>
-
-    <dt>Suitable for hedging:</dt>
-    <dd><%= @plant.suitable_for_hedging.humanize %></dd>
 
     <dt>Ultimate height:</dt>
     <dd><%= @plant.ultimate_height %></dd>
@@ -97,9 +58,6 @@
     <dt>Hardiness level:</dt>
     <dd><%= @plant.hardiness_level %></dd>
 
-    <dt>Habit:</dt>
-    <dd><%= @plant.habit %></dd>
-
     <dt>Exposure:</dt>
     <dd><%= @plant.exposure.join(", ") %></dd>
 
@@ -109,6 +67,86 @@
     <dt>RHS plant page:</dt>
     <dd><%= link_to @plant.rhs_url, @plant.rhs_url, target: :_blank %></dd>
 
+  </dl>
+
+  <h2>Useages the plant is often selected for</h2>
+
+  <dl>
+    <dt>Grown as a climber or a wall shrub:</dt>
+    <dd><%= @plant.climber_wall_shrub.humanize %></dd>
+
+    <dt>Grown for its fruits:</dt>
+    <dd><%= @plant.known_for_its_fruit.humanize %></dd>
+
+    <dt>Grown for its scent:</dt>
+    <dd><%= @plant.known_for_its_scent.humanize %></dd>
+
+    <dt>Good for ground cover:</dt>
+    <dd><%= @plant.ground_cover.humanize %></dd>
+
+    <dt>Grown for its flowers:</dt>
+    <dd><%= @plant.known_for_its_flowers.humanize %></dd>
+
+    <dt>Grown for its foliage:</dt>
+    <dd><%= @plant.known_for_its_foliage.humanize %></dd>
+
+    <dt>Foliage type:</dt>
+    <dd><%= @plant.foliage_type %></dd>
+
+    <dt>Considered a weed or invasive:</dt>
+    <dd><%= @plant.weed_invasive.humanize %></dd>
+
+    <dt>Seasonal short-term plant:</dt>
+    <dd><%= @plant.seasonal_short_term.humanize %></dd>
+
+    <dt>Winter interest:</dt>
+    <dd><%= @plant.winter_interest.humanize %></dd>
+
+    <dt>Beneficial to wildlife:</dt>
+    <dd><%= @plant.biodiversity_wildlife.humanize %></dd>
+
+    <dt>Used for interior landscapes:</dt>
+    <dd><%= @plant.interior_landscapes.humanize %></dd>
+
+    <dt>Suitable for hedging:</dt>
+    <dd><%= @plant.suitable_for_hedging.humanize %></dd>
+
+  </dl>
+
+  <h2>Appearance</h2>
+
+  <dl>
+    <dt>Habit:</dt>
+    <dd><%= @plant.habit %></dd>
+
+    <dt>Flowers:</dt>
+    <dd><%= @plant.flowers_present.humanize %></dd>
+
+    <% if @plant.flowers_present == true %>
+      <dt>Flower description:</dt>
+      <dd><% @plant.flower_description.each do |info| %>
+        <li><%= info %></li>
+      <% end %>
+      </dd>
+    <% end %>
+
+    <dt>Fruit:</dt>
+    <dd><%= @plant.fruit_present.humanize %></dd>
+
+    <% if @plant.fruit_present == true %>
+      <dt>Fruit description:</dt>
+      <dd><% @plant.fruit_description.each do |info| %>
+        <li><%= info %></li>
+      <% end %>
+      </dd>
+    <% end %>
+
+    <dt>Leaf description:</dt>
+    <dd>
+      <% @plant.leaf_description.each do |info| %>
+        <li><%= info %></li>
+      <% end %>
+    </dd>
   </dl>
 
   <h2>Additional information</h2>
