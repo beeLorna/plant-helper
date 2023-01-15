@@ -1,24 +1,17 @@
-# README
+# Plant Identification Helper
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+A Rails app designed to help record and learn the plant idents for the RHS Level 2 Certificate in Practical Horticulture.
 
-Things you may want to cover:
 
-* Ruby version
+## Running it locally
 
-* System dependencies
+Once the repo has been cloned, run `bundle install`
 
-* Configuration
+To run the server `bin/dev` and then go to `http://localhost:3000`
 
-* Database creation
 
-* Database initialization
+## Hosting
 
-* How to run the test suite
+It is hosted on render.com
 
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+`https://plant-identification-helper.onrender.com/`
