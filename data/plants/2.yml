@@ -1,0 +1,536 @@
+- id: asplenium-scolopendrium
+  botanical_name: Asplenium scolopendrium
+  pronunciation: ASs-plen-ium skull-a-pen-dree-um
+  common_name: hart's tongue fern
+  description: An evergreen fern forming a rosette of arching, rich green, strap-shaped fronds 30-75cm in length. Spores borne in conspicuous transverse stripes beneath the fronds.
+  classification:
+    - Perennial
+    - Fern
+  ultimate_height: 0.1–0.5 metres
+  ultimate_spread: 0.1–0.5 metres
+  time_to_ultimate_height: 5-10 years
+  harmful_effects: None
+  native_to_uk: false
+  lime_avoiding: false
+  agm: true
+  light_requirements:
+    - Deep shade
+    - Partial shade
+  hardiness_level: H6
+  exposure:
+    - Exposed
+    - Sheltered
+  major_plant_group: Pteridophytes, fern
+  rhs_url: https://www.rhs.org.uk/plants/25910/asplenium-scolopendrium/details
+  climber_wall_shrub: false
+  known_for_its_fruit: false
+  known_for_its_scent: false
+  ground_cover: true
+  known_for_its_flowers: false
+  known_for_its_foliage: true
+  foliage_type: Evergreen
+  weed_invasive: false
+  seasonal_short_term: false
+  winter_interest: true
+  biodiversity_wildlife: false
+  interior_landscapes: false
+  suitable_for_hedging: false
+  habit: Tufted
+  flowers_present: false
+  flower_description:
+  fruit_present: false
+  fruit_description:
+  leaf_description:
+    - Frond
+    - Simple form
+    - Undulate margin
+    - Pinnate venation
+    - Glossy
+    - Erect and up to 50cm long
+    - Slightly wavy edges and a pointed tip
+    - The fronds aren’t divided like most other ferns
+  additional_information:
+    - Can grow in the nooks and crannies of walls and paving
+    - Can be kept very small
+    - Good for a woodland garden
+    - Grows wild in shaded areas, often forming large drifts beneath trees among rocks and streams
+    - It is an ancient-woodland-indicator plant
+    - Grows well in humus-rich, moist but well-drained soil
+    - Bright mid-day sun can cause damage
+  images:
+    - plants/2/asplenium-scolopendrium/1.jpg
+    - plants/2/asplenium-scolopendrium/2.jpg
+    - plants/2/asplenium-scolopendrium/3.jpg
+    - plants/2/asplenium-scolopendrium/4.jpg
+
+- id: taxus-baccata
+  botanical_name: Taxus baccata
+  pronunciation: tax-us bh-CAR-ta
+  common_name: common yew
+  description: A medium-sized bushy evergreen tree with narrow, leathery, very dark green leaves arranged in two rows on the shoots, and insignificant flowers followed on female plants by fleshy red fruits.
+  classification:
+    - Tree
+  ultimate_height: Higher than 12 metres
+  ultimate_spread: Wider than 8 metres
+  time_to_ultimate_height: 20–50 years
+  harmful_effects: Highly toxic by ingestion. Most parts, seeds especially.
+  native_to_uk: true
+  lime_avoiding: false
+  agm: true
+  light_requirements:
+    - Deep shade
+    - Partial shade
+    - Full sun
+  hardiness_level: H7
+  exposure:
+    - Exposed
+    - Sheltered
+  major_plant_group: Gymnosperm, conifer
+  rhs_url: https://www.rhs.org.uk/plants/18001/taxus-baccata/details
+  climber_wall_shrub: false
+  known_for_its_fruit: true
+  known_for_its_scent: false
+  ground_cover: false
+  known_for_its_flowers: false
+  known_for_its_foliage: true
+  foliage_type: Evergreen
+  weed_invasive: false
+  seasonal_short_term: false
+  winter_interest: false
+  biodiversity_wildlife: false
+  interior_landscapes: false
+  suitable_for_hedging: true
+  habit: Bushy
+  flowers_present: true
+  flower_description:
+    - Spike inflorescence shape
+    - Dioecious, male and female flowers grow on separate trees
+    - The male flowers and not ‘true’ flowers but clusters of stamen
+    - Male flowers are insignificant white-yellow globe-like structures
+    - Female flowers, or ovule shoots, are bud-like and scaly, and green when young but becoming brown and acorn-like with age
+    - The ovule shoot is what develops into the aril covered seed.
+  fruit_present: true
+  fruit_description:
+    - Unlike other conifers, Taxus baccata doesn't bear its seeds in a cone.
+    - Each seed is enclosed in a bright red, fleshy structure called an “aril”, which is open at the tip.
+    - Good source of food for birds
+    - Present on female trees
+  leaf_description:
+    - Simple leaf form
+    - Aclcular or linear, needle like leaf shape
+    - Entire leaf margin
+    - Opposite leaf arrangement on stem
+    - Straight, small needles with a pointed tip
+    - Coloured dark green above and green-grey below.
+    - They grow in two rows on either side of each stem.
+    - Flattened leaf (can't be rolled between fingers)
+  additional_information:
+    - Tolerant of exposured sites
+    - Tolerant of dry soils
+    - Tolerant of urban pollution
+    - Good for topiary
+    - Wind pollinated
+  images:
+    - plants/2/taxus-baccata/1.jpg
+    - plants/2/taxus-baccata/2.jpg
+    - plants/2/taxus-baccata/3.jpg
+    - plants/2/taxus-baccata/4.jpg
+    - plants/2/taxus-baccata/5.jpg
+
+
+- id: skimmia-japonica
+  botanical_name: Skimmia japonica
+  pronunciation: SKIM-ee-ah ja-PON-i-ka
+  common_name: Japanese skimmia
+  description: A variable, evergreen, densely-branched, dome-shaped shrub, low and creeping or erect, from 0.5m to 7m in height (but typically up to 1.5m in cultivation).
+  classification:
+    - Shrub
+  ultimate_height: 1.5–2.5 metres
+  ultimate_spread: 1–1.5 metres
+  time_to_ultimate_height: 5–10 years
+  harmful_effects: None
+  native_to_uk: false
+  lime_avoiding: false
+  agm: false
+  light_requirements:
+    - Deep shade
+    - Partial shade
+  hardiness_level: H5
+  exposure:
+    - Sheltered
+  major_plant_group: Angiosperm
+  rhs_url: https://www.rhs.org.uk/plants/17401/skimmia-japonica/details
+  climber_wall_shrub: false
+  known_for_its_fruit: true
+  known_for_its_scent: false
+  ground_cover: false
+  known_for_its_flowers: false
+  known_for_its_foliage: true
+  foliage_type: Evergreen
+  weed_invasive: false
+  seasonal_short_term: false
+  winter_interest: true
+  biodiversity_wildlife: false
+  interior_landscapes: false
+  suitable_for_hedging: true
+  habit: Bushy
+  flowers_present: true
+  flower_description:
+    - Panicle inflorescence shape
+    - White flowers in spring
+    - Sometimes flushed pink or red on the outside
+    - Male flowerheads are large and conspicuous, up to 8cm long, very sweetly-scented
+    - Female flowerheads are smaller and fragrant
+  fruit_present: true
+  fruit_description:
+    - Bright red fruits, 8mm across
+    - Form from fertilised female flowers
+    - Usually last until the next flowers appear the following spring
+  leaf_description:
+    - Simple leaf form
+    - Obovate to Elliptic leaf shape
+    - Entire leaf margin
+    - Pinnate leaf venation
+    - Slightly-aromatic
+    - Dark green
+    - Leathery
+  additional_information:
+    - Yellowing or pale leaves, sometimes coupled with spindly growth, are likely to be a result of dry conditions or poor soil
+  images:
+    - plants/2/skimmia-japonica/1.jpg
+    - plants/2/skimmia-japonica/2.jpg
+    - plants/2/skimmia-japonica/3.jpg
+    - plants/2/skimmia-japonica/4.jpg
+    - plants/2/skimmia-japonica/5.jpg
+
+- id: vinca-major
+  botanical_name: Vinca major 'Variegata' (shuttleworth cv.)
+  pronunciation: vin-ka major
+  common_name: greater periwinkle
+  description: A vigorous evergreen sub-shrub forming a clump of erect stems bearing glossy ovate leaves and solitary violet-blue flowers.
+  classification:
+    - Sub-shrub
+    - Shrub
+    - Perennial
+  ultimate_height: 0.1–0.5 metres
+  ultimate_spread: 1.5–2.5 metres
+  time_to_ultimate_height: 2–5 years
+  harmful_effects: None
+  native_to_uk: false
+  lime_avoiding: false
+  agm: false
+  light_requirements:
+    - Deep shade
+    - Partial shade
+    - Full sun
+  hardiness_level: H6
+  exposure:
+    - Exposed
+    - Sheltered
+  major_plant_group: Angiosperm
+  rhs_url: https://www.rhs.org.uk/plants/18969/vinca-major/details
+  climber_wall_shrub: false
+  known_for_its_fruit: false
+  known_for_its_scent: false
+  ground_cover: true
+  known_for_its_flowers: true
+  known_for_its_foliage: true
+  foliage_type: Evergreen
+  weed_invasive: false
+  seasonal_short_term: false
+  winter_interest: false
+  biodiversity_wildlife: false
+  interior_landscapes: false
+  suitable_for_hedging: false
+  habit: Matforming
+  flowers_present: true
+  flower_description:
+    - Solitary violet-blue flowers
+    - Single flower to a pedicel, which attaches to the leaf axil.
+    - 4cm wide in the leaf axils
+  fruit_present: false
+  fruit_description:
+  leaf_description:
+    - Simple leaf form
+    - Glossy ovate leaves
+    - Elliptic leaf shape
+    - Entire leaf margin
+    - Pinnate leaf venation
+    - Opposite leaf arrangement on stem
+  additional_information:
+    - Shuttleworth cultivar
+    - Is vigorous and can be invasive
+    - Long rooting sterile stems makes it effective ground cover
+    - Easy to grow in all but the driest soils
+    - Flowers best in full sun but very useful for shady areas
+  images:
+    - plants/2/vinca-major/1.jpg
+    - plants/2/vinca-major/2.jpg
+    - plants/2/vinca-major/3.jpg
+
+- id: buxus-sempervirens
+  botanical_name: Buxus sempervirens
+  pronunciation: bux-us SEM-per-VEE-rehns
+  common_name: common box
+  description: A slow-growing, evergreen tree. Mature trees can grow to a height of 12m. They have a compact habit, with smooth grey bark which fissures with age, and green, downy stems.
+  classification:
+    - Tree
+    - Shrub
+  ultimate_height: 4–8 metres  metres
+  ultimate_spread: 4–8 metres  metres
+  time_to_ultimate_height: 10-20 years
+  harmful_effects: None
+  native_to_uk: true
+  lime_avoiding: false
+  agm: false
+  light_requirements:
+    - Partial shade
+    - Full sun
+  hardiness_level: H6
+  exposure:
+    - Exposed
+    - Sheltered
+  major_plant_group: Angiosperm
+  rhs_url: https://www.rhs.org.uk/plants/2579/buxus-sempervirens/details
+  climber_wall_shrub: false
+  known_for_its_fruit: false
+  known_for_its_scent: false
+  ground_cover: false
+  known_for_its_flowers: false
+  known_for_its_foliage: true
+  foliage_type: Evergreen
+  weed_invasive: false
+  seasonal_short_term: false
+  winter_interest: true
+  biodiversity_wildlife: true
+  interior_landscapes: false
+  suitable_for_hedging: true
+  habit: Bushy
+  flowers_present: true
+  flower_description:
+    - Spike inflorescence shape
+    - Small, yellowish flowers in clusters, produced in the leaf axils
+    - Monoecious, so both male and female flowers are found on the same tree in April and May
+    - Each cluster comprising several male flowers and a terminal female flower
+    - Pollinated by wind
+  fruit_present: true
+  fruit_description:
+    - Fruits are green to begin with, turning into a brown seed case
+  leaf_description:
+    - Simple leaf form
+    - Elliptic leaf shape
+    - Entire leaf margin
+    - Pinnate leaf venation
+    - Opposite leaf arrangement on the stem
+    - Glossy, dark green leaves to 3cm long
+  additional_information:
+    - Grows best in well-drained soil in partial shade
+    - Can be scorched by sun and strong winds in dry soils
+    - Susceptible to a number of box problems, such as box blight and the box tree caterpillar
+    - semperviren means 'always green'
+    - Great for bees
+    - Good for topiary
+  images:
+    - plants/2/buxus-sempervirens/1.jpg
+    - plants/2/buxus-sempervirens/2.jpg
+    - plants/2/buxus-sempervirens/3.jpg
+    - plants/2/buxus-sempervirens/4.jpg
+    - plants/2/buxus-sempervirens/5.jpg
+
+- id: salvia-rosmarinus
+  botanical_name: Salvia rosmarinus
+  pronunciation: sal-via roz-ma-rine-us
+  common_name: rosemary
+  description: A bushy mediterranean shrub with a dense, leafy habit. It is known for its culinary useages and aromatic smell.
+  classification:
+    - Shrub
+  ultimate_height: 1.5–2.5 metres
+  ultimate_spread: 1.5–2.5 metres
+  time_to_ultimate_height: 5-10 years
+  harmful_effects: None
+  native_to_uk: false
+  lime_avoiding: false
+  agm: false
+  light_requirements:
+    - Full sun
+  hardiness_level: H4
+  exposure:
+    - Exposed
+    - Sheltered
+  major_plant_group: Angiosperm
+  rhs_url: https://www.rhs.org.uk/plants/384211/i-salvia-rosmarinus-i-(ro)/details
+  climber_wall_shrub: false
+  known_for_its_fruit: false
+  known_for_its_scent: true
+  ground_cover: false
+  known_for_its_flowers: false
+  known_for_its_foliage: true
+  foliage_type: Evergreen
+  weed_invasive: false
+  seasonal_short_term: false
+  winter_interest: true
+  biodiversity_wildlife: false
+  interior_landscapes: false
+  suitable_for_hedging: false
+  habit: Bushy
+  flowers_present: true
+  flower_description:
+    - Raceme inflorescence shape
+    - Short, axillary raceme whorled around the stem
+    - Flowers usually pale violet-blue and white
+    - Bloom in clusters along the shoots of the prior year’s growth
+  fruit_present: false
+  fruit_description:
+  leaf_description:
+    - Simple leaf form
+    - Linear leaf shape
+    - Entire leaf margin
+    - Opposite leaf arrangement on stem
+    - Linear dark green leaves
+    - 1.5-5cm long
+    - Recurved margins
+    - Pale, felty undersides.
+  additional_information:
+    - Prefers poor, well-drained soil
+    - May be used as a formal or informal low hedge which should be trimmed after flowering
+    - Easy to grow aromatic, evergreen shrub
+    - Known as the 'wonder-herb
+    - Edible leaves
+    - New growth is soft and flexible but older stems become woody and form trunks with time
+    - Rosemary is drought-tolerant
+  images:
+    - plants/2/salvia-rosmarinus/1.jpg
+    - plants/2/salvia-rosmarinus/2.jpg
+    - plants/2/salvia-rosmarinus/3.jpg
+
+- id: abelia-x-grandiflora
+  botanical_name: Abelia x grandiflora
+  pronunciation: uh-BEEL-ee-uh gran-dif-FLOR-uh
+  common_name: glossy abelia
+  description: A medium-sized semi-evergreen shrub, with arching branches, bearing small glossy oval leaves and clusters of pale pink, slightly fragrant flowers over a long period from mid-summer.
+  classification:
+    - Shrub
+  ultimate_height: 2.5–4 metres
+  ultimate_spread: 2.5–4 metres
+  time_to_ultimate_height: 10-20 years
+  harmful_effects: None
+  native_to_uk: false
+  lime_avoiding: false
+  agm: false
+  light_requirements:
+    - Full sun
+  hardiness_level: H5
+  exposure:
+    - Sheltered
+  major_plant_group: Angiosperm
+  rhs_url: https://www.rhs.org.uk/plants/100036/abelia-x-grandiflora/details
+  climber_wall_shrub: false
+  known_for_its_fruit: false
+  known_for_its_scent: false
+  ground_cover: false
+  known_for_its_flowers: true
+  known_for_its_foliage: true
+  foliage_type: Evergreen
+  weed_invasive: false
+  seasonal_short_term: false
+  winter_interest: false
+  biodiversity_wildlife: false
+  interior_landscapes: false
+  suitable_for_hedging: false
+  habit: Bushy
+  flowers_present: true
+  flower_description:
+    - Cyme inflorescence shape
+    - Bell, tubular shaped
+    - Pale pink
+    - Slightly fragrant
+  fruit_present: true
+  fruit_description:
+    - Inconspicuous
+  leaf_description:
+    - Simple leaf form
+    - Ovate leaf shape
+    - Serrate leaf margin
+    - Reticulate leaf venation
+    - Opposite leaf arrangement on stem
+    - Glossy, smooth
+  additional_information:
+    - It's a good doer
+    - Very easy to grow in reasonable conditions although not fully hardy
+    - Needs a sheltered, sunny spot
+  images:
+    - plants/2/abelia-x-grandiflora/1.jpg
+    - plants/2/abelia-x-grandiflora/2.jpg
+    - plants/2/abelia-x-grandiflora/3.jpg
+    - plants/2/abelia-x-grandiflora/4.jpg
+    - plants/2/abelia-x-grandiflora/5.jpg
+
+- id: hedera-helix
+  botanical_name: Hedera helix 'Parsley Crested' (shuttleworth cv.)
+  pronunciation:
+  common_name: common ivy
+  description: A vigorous, self-clinging climber in its juvenile state, then produces bushy, non-clinging branches when becomes mature, along with flowers and fruits.
+  classification:
+    - Perennial
+  ultimate_height: 8–12 metres
+  ultimate_spread: 2.5–4 metres
+  time_to_ultimate_height: 10-20 years
+  harmful_effects: Ingestion may cause severe discomfort, contact may irritate the skin.
+  native_to_uk: true
+  lime_avoiding: false
+  agm: false
+  light_requirements:
+    - Full sun
+    - Partial sun
+    - Deep shade
+  hardiness_level: H5
+  exposure:
+    - Exposed
+    - Sheltered
+  major_plant_group: Angiosperm
+  rhs_url: https://www.rhs.org.uk/plants/43091/hedera-helix/details
+  climber_wall_shrub: true
+  known_for_its_fruit: false
+  known_for_its_scent: false
+  ground_cover: false
+  known_for_its_flowers: true
+  known_for_its_foliage: true
+  foliage_type: Evergreen
+  weed_invasive: false
+  seasonal_short_term: false
+  winter_interest: true
+  biodiversity_wildlife: true
+  interior_landscapes: false
+  suitable_for_hedging: false
+  habit: Climbing
+  flowers_present: true
+  flower_description:
+    - Umbel inflorescence shape
+    - Small, nectar-rich, greenish-yellow flowers
+    - Formed in clusters of rounded heads in autumn
+  fruit_present: true
+  fruit_description:
+    - Black berries in winter
+    - Only on adult growth
+  leaf_description:
+    - Simple leaf form
+    - Palmate-lobed leaf shape in juvenile leaves
+    - Entire leaf margin
+    - Palmate venation
+    - Ovate leaf shape in adult leaves
+  additional_information:
+    - Shuttleworth cultivar
+    - Drought resistant
+    - Valuable to wildlife, providing shelter, habitat, nectar, pollen and berries
+    - Shade tolerant
+    - Easy to grow
+    - Can help keep buildings cool in summer and less damp in winter
+    - Great ground cover
+    - Has two distinct phases of growth, juvenile and adult.
+    - Juvenile growth is vigorous and self-clinging and has a climbing habit
+    - Adult growth is bushy, non-climbing and produces flowers and fruits
+  images:
+    - plants/2/hedera-helix/1.jpg
+    - plants/2/hedera-helix/2.jpg
+    - plants/2/hedera-helix/3.jpg
+    - plants/2/hedera-helix/4.jpg
