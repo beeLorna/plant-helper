@@ -1,0 +1,475 @@
+- id: agave-americana
+  botanical_name: Agave americana
+  pronunciation: ah-GAH-vay a-mer-ih-KAH-na
+  common_name: century plant
+  description: An evergreen perennial forming handsome rosettes of spiny-edged, grey-green leaves.
+  classification:
+    - Succulent
+    - House
+  ultimate_height: 1–1.5 metres
+  ultimate_spread: 1–1.5 metres
+  time_to_ultimate_height: 10-20 years
+  harmful_effects: None
+  native_to_uk: false
+  lime_avoiding: true
+  agm: true
+  light_requirements:
+    - Full sun
+  hardiness_level: H2
+  exposure:
+    - Sheltered
+  major_plant_group: Angiosperm
+  rhs_url: https://www.rhs.org.uk/plants/95075/agave-americana/details
+  climber_wall_shrub: false
+  known_for_its_fruit: false
+  known_for_its_scent: false
+  ground_cover: false
+  known_for_its_flowers: false
+  known_for_its_foliage: false
+  foliage_type: Evergreen
+  weed_invasive: false
+  seasonal_short_term: false
+  winter_interest: false
+  biodiversity_wildlife: false
+  interior_landscapes: true
+  suitable_for_hedging: false
+  habit: Clump forming
+  flowers_present: true
+  flower_description:
+    - It only flowers once, and then dies.
+    - Panicles inflorescence shape
+    - Grow to to 8m in length
+    - Greenish-yellow flowers 8cm in length
+  fruit_present: false
+  fruit_description:
+  leaf_description:
+    - Simple leaf form
+    - Rosette leaf arrangement
+    - Spiny leaf margin
+    - Fleshy
+    - Smooth
+    - Prickly
+  additional_information:
+    - Part of the Asparagaceae family
+    - Acid to Neutral pH
+    - An agave plant can take 20-25 years to flourish. That led to the emergence of its popular name, “century plant.”
+    - Needs well drained, sandy loam soil
+    - Doesn't like chalky soil
+    - It is not hardy, 1 - 5 degrees C
+  images:
+    - plants/3/agave-americana/1.jpg
+    - plants/3/agave-americana/2.jpg
+    - plants/3/agave-americana/3.jpg
+
+- id: cyclamen-hederifolium
+  botanical_name: Cyclamen hederifolium
+  pronunciation: SICK-la-men hed-er-ih-FOH-lee-um
+  common_name: ivy-leaved cyclamen
+  description: A perennial to 12cm, with somewhat ivy-shaped leaves patterned with silvery-green, and pink, sometimes fragrant, flowers 2.5cm in width, darker around the mouth, opening before or with the leaves.
+  classification:
+    - Tuber
+  ultimate_height: Up to 10cm
+  ultimate_spread: 0.1–0.5 metres
+  time_to_ultimate_height: 5-10 years
+  harmful_effects: None
+  native_to_uk: false
+  lime_avoiding: false
+  agm: true
+  light_requirements:
+    - Partial shade
+  hardiness_level: H5
+  exposure:
+    - Sheltered
+  major_plant_group: Angiosperm
+  rhs_url: https://www.rhs.org.uk/plants/5145/cyclamen-hederifolium/details
+  climber_wall_shrub: false
+  known_for_its_fruit: false
+  known_for_its_scent: false
+  ground_cover: true
+  known_for_its_flowers: true
+  known_for_its_foliage: false
+  foliage_type: Deciduous
+  weed_invasive: false
+  seasonal_short_term: false
+  winter_interest: true
+  biodiversity_wildlife: false
+  interior_landscapes: false
+  suitable_for_hedging: false
+  habit: Tufted
+  flowers_present: true
+  flower_description:
+    - Pink, sometimes fragrant, flowers 2.5cm in width
+    - The corolla lobes are reflexed
+    - Generally 90-180 degrees twist
+    - Simple flower (not an inflorescence)
+    - Blooms one flower per stem
+  fruit_present: false
+  fruit_description:
+  leaf_description:
+    - Simple leaf form
+    - Cordate leaf shape
+    - Appear during flowering
+  additional_information:
+    - Part of the Primulaceae family, primrose
+    - "Ivy foliage"
+    - Likes humus rich, woodland soils
+  images:
+    - plants/3/cyclamen-hederifolium/1.jpg
+    - plants/3/cyclamen-hederifolium/2.jpg
+    - plants/3/cyclamen-hederifolium/3.jpg
+    - plants/3/cyclamen-hederifolium/4.jpg
+
+- id: ophiopogon-planiscapus
+  botanical_name: Ophiopogon planiscapus 'Kokuryū'
+  pronunciation: OFFY-op-o-gone plan-i-scape-us co-KU-re-u
+  common_name: black mondo
+  description: Kokuryu is an evergreen perennial to 20cm, forming dense tufts of arching, narrowly strap-shaped.
+  classification:
+    - Perennial
+  ultimate_height: 0.1–0.5 metres
+  ultimate_spread: 0.1–0.5 metres
+  time_to_ultimate_height: 2-5 years
+  harmful_effects: None
+  native_to_uk: false
+  lime_avoiding: false
+  agm: true
+  light_requirements:
+    - Full sun
+    - Partial shade
+  hardiness_level: H5
+  exposure:
+    - Exposed
+    - Sheltered
+  major_plant_group: Angiosperm
+  rhs_url: https://www.rhs.org.uk/plants/377774/ophiopogon-planiscapus-kokuryu/details
+  climber_wall_shrub: false
+  known_for_its_fruit: false
+  known_for_its_scent: false
+  ground_cover: true
+  known_for_its_flowers: false
+  known_for_its_foliage: true
+  foliage_type: Evergreen
+  weed_invasive: false
+  seasonal_short_term: false
+  winter_interest: true
+  biodiversity_wildlife: false
+  interior_landscapes: false
+  suitable_for_hedging: false
+  habit: Clump forming
+  flowers_present: true
+  flower_description:
+    - Racemes inflorescecne
+    - Small bell-shaped, purplish flowers
+  fruit_present: true
+  fruit_description:
+    - Glossy black berries
+  leaf_description:
+    - Simple leaf form
+    - Linear leaf shape
+    - Entire leaf margin
+    - Leathery black leaves 20-30cm in length
+  additional_information:
+    - Part of the Asparagaceae family.
+  images:
+    - plants/3/ophiopogon-planiscapus/1.jpg
+    - plants/3/ophiopogon-planiscapus/2.jpg
+    - plants/3/ophiopogon-planiscapus/3.jpg
+    - plants/3/ophiopogon-planiscapus/4.jpg
+    - plants/3/ophiopogon-planiscapus/5.jpg
+    - plants/3/ophiopogon-planiscapus/6.jpg
+
+- id: helleborus-x-hybridus
+  botanical_name: Helleborus x hybridus 'Harvington Pink' (suttleworth cv.)
+  pronunciation: hell-a-bor-us cross hybrid-us
+  common_name: hybrid Lenton rose
+  description: Harvington pink speckled is a clump-forming, semi-evergreen herbaceous perennial.
+  classification:
+    - Perennial
+  ultimate_height: 0.1–0.5 metres
+  ultimate_spread: 0.1–0.5 metres
+  time_to_ultimate_height: 2-5 years
+  harmful_effects: Ingestion may cause severe discomfort. Wear gloves and wash hands after handling
+  native_to_uk: false
+  lime_avoiding: false
+  agm: false
+  light_requirements:
+    - Full sun
+    - Partial shade
+  hardiness_level: H7
+  exposure:
+    - Sheltered
+  major_plant_group: Angiosperm
+  rhs_url: https://www.rhs.org.uk/plants/226444/helleborus-x-hybridus-harvington-pink-speckled/details
+  climber_wall_shrub: false
+  known_for_its_fruit: false
+  known_for_its_scent: false
+  ground_cover: true
+  known_for_its_flowers: true
+  known_for_its_foliage: true
+  foliage_type: Semi-evergreen, Herbaceous
+  weed_invasive: false
+  seasonal_short_term: false
+  winter_interest: true
+  biodiversity_wildlife: true
+  interior_landscapes: false
+  suitable_for_hedging: false
+  habit: Clump forming
+  flowers_present: true
+  flower_description:
+    - Single flower head
+  fruit_present: false
+  fruit_description:
+  leaf_description:
+    - Compound leaf form
+    - Palmate leaf shape
+    - Serrate leaf margin
+    - Reticulate leaf venation
+  additional_information:
+    - Shuttleworth cultivar
+    - Part of the Ranunculaceae family - Buttercup
+    - Will tolerate a wide range of conditions
+    - Does best in fertile, moisture-retentive, humus-rich but well-drained soil which is preferably heavy, and neutral or alkaline.
+    - Planted in a position with shelter from strong, cold winds and in dappled shade
+    - Mulched every autumn with leaf mould, chipped bark or other organic matter
+  images:
+    - plants/3/helleborus-x-hybridus/1.jpg
+    - plants/3/helleborus-x-hybridus/2.jpg
+    - plants/3/helleborus-x-hybridus/3.jpg
+
+- id: fatsia-japonica
+  botanical_name: Fatsia japonica
+  pronunciation:
+  common_name: Japanese aralia
+  description: A medium-sized evergreen shrub of open, spreading habit, with palmately-lobed leaves to 45cm in width and small white flowers in globose clusters. Fruits small, black.
+  classification:
+    - Shrub
+  ultimate_height: 2.5–4 metres
+  ultimate_spread: 2.5–4 metres
+  time_to_ultimate_height: 10–20 years
+  harmful_effects: None
+  native_to_uk: false
+  lime_avoiding: false
+  agm: true
+  light_requirements:
+    - Deep shade
+    - Full sun
+    - Partial shade
+  hardiness_level: H5
+  exposure:
+    - Sheltered
+  major_plant_group: Angiosperm
+  rhs_url: https://www.rhs.org.uk/plants/7147/fatsia-japonica/details
+  climber_wall_shrub: false
+  known_for_its_fruit: true
+  known_for_its_scent: false
+  ground_cover: false
+  known_for_its_flowers: true
+  known_for_its_foliage: true
+  foliage_type: Evergreen
+  weed_invasive: false
+  seasonal_short_term: false
+  winter_interest: true
+  biodiversity_wildlife: true
+  interior_landscapes: false
+  suitable_for_hedging: false
+  habit: Suckering
+  flowers_present: true
+  flower_description:
+    - Raceme inflorescence with Umbel pedicellate inflorescences
+    - Small white flowers
+  fruit_present: true
+  fruit_description:
+    - Small balck fruits
+  leaf_description:
+    - Simple leaf form
+    - Palmate leaf shape
+    - Alternate leaf arrangement
+    - Serrate leag margin
+    - Reticulate leaf venation
+  additional_information:
+    - Structural, architectural
+    - Hard frost can injure the leaves but plants will recover if the roots are protected from frost
+  images:
+    - plants/3/fatsia-japonica/1.jpg
+    - plants/3/fatsia-japonica/2.jpg
+    - plants/3/fatsia-japonica/3.jpg
+    - plants/3/fatsia-japonica/4.jpg
+    - plants/3/fatsia-japonica/5.jpg
+
+- id: photinia-x-fraseri
+  botanical_name: Photinia x fraseri 'Red Robin'
+  pronunciation: fo-TIN-ee-ah cross FRA-seh-ree
+  common_name: Christmas berry 'Red Robin'
+  description: A dense, medium-sized evergreen shrub with an erect habit.
+  classification:
+    - Shrub
+  ultimate_height: 2.5–4 metres
+  ultimate_spread: 2.5–4 metres
+  time_to_ultimate_height: 10–20 years
+  harmful_effects: None
+  native_to_uk: false
+  lime_avoiding: true
+  agm: true
+  light_requirements:
+    - Full sun
+    - Partial shade
+  hardiness_level: H5
+  exposure:
+    - Exposed
+    - Sheltered
+  major_plant_group: Angiosperm
+  rhs_url: https://www.rhs.org.uk/plants/94829/photinia-x-fraseri-red-robin/details
+  climber_wall_shrub: false
+  known_for_its_fruit: false
+  known_for_its_scent: false
+  ground_cover: false
+  known_for_its_flowers: false
+  known_for_its_foliage: true
+  foliage_type: Evergreen
+  weed_invasive: false
+  seasonal_short_term: false
+  winter_interest: true
+  biodiversity_wildlife: false
+  interior_landscapes: false
+  suitable_for_hedging: true
+  habit: Bushy
+  flowers_present: true
+  flower_description:
+    - Panicle inflorescence
+    - Small white flowers
+  fruit_present: false
+  fruit_description:
+  leaf_description:
+    - Simple leaf form
+    - Elliptic leaf shape
+    - Alternate leaf arrangement
+    - Serrate leaf margin
+    - Reticulate leaf venation
+    - Glossy
+    - 10cm in length
+    - Bright red when young
+    - Turn dark green
+  additional_information:
+    - Part of the Rosaceae family
+    - Clusters of creamy-white flowers appear in spring if left unpruned
+  images:
+    - plants/3/photinia-x-fraseri/1.jpg
+    - plants/3/photinia-x-fraseri/2.jpg
+    - plants/3/photinia-x-fraseri/3.jpg
+    - plants/3/photinia-x-fraseri/4.jpg
+    - plants/3/photinia-x-fraseri/5.jpg
+    - plants/3/photinia-x-fraseri/6.jpg
+
+- id: phyllostachys-aurea
+  botanical_name: Phyllostachys aurea
+  pronunciation: phill-o-stack-ee-us aw-ree-ah
+  common_name: fish-pole bamboo
+  description: A graceful evergreen bamboo producing large clumps of bright green canes 2.5-3.5m high becoming yellowish with age and exposure.
+  classification:
+    - Perennial
+  ultimate_height: 4–8 metres
+  ultimate_spread: 2.5–4 metres
+  time_to_ultimate_height: 5-10 years
+  harmful_effects: None
+  native_to_uk: false
+  lime_avoiding: true
+  agm: true
+  light_requirements:
+    - Full sun
+    - Partial shade
+  hardiness_level: H5
+  exposure:
+    - Sheltered
+  major_plant_group: Angiosperm
+  rhs_url: https://www.rhs.org.uk/plants/75274/phyllostachys-aurea-fish-pole-bamboo-golden-bamboo/details
+  climber_wall_shrub: false
+  known_for_its_fruit: false
+  known_for_its_scent: false
+  ground_cover: false
+  known_for_its_flowers: false
+  known_for_its_foliage: true
+  foliage_type: Evergreen
+  weed_invasive: false
+  seasonal_short_term: false
+  winter_interest: true
+  biodiversity_wildlife: false
+  interior_landscapes: false
+  suitable_for_hedging: true
+  habit: Suckering
+  flowers_present: false
+  flower_description:
+  fruit_present: false
+  fruit_description:
+  leaf_description:
+    - Simple leaf form
+    - Alternate leaf arrangement
+    - Lanceolate leaf shape
+    - Entire leaf margin
+  additional_information:
+    - May remain clump-forming in poor or dry soils but can become invasive in warm, moist or favourable conditions
+    - Part of the Poaceae family
+  images:
+    - plants/3/phyllostachys-aurea/1.jpg
+    - plants/3/phyllostachys-aurea/2.jpg
+    - plants/3/phyllostachys-aurea/3.jpg
+    - plants/3/phyllostachys-aurea/4.jpg
+    - plants/3/phyllostachys-aurea/5.jpg
+
+- id: cornus-sanguinea
+  botanical_name: Cornus sanguinea 'Midwinter Fire' (suttleworth cv.)
+  pronunciation:
+  common_name: common dogwood
+  description: A spreading shrub to 2m tall, with orange-red and yellow young shoot. Grown for the coloured stems which are brightest in winter.
+  classification:
+    - Shrub
+  ultimate_height: 1.5–2.5 metres
+  ultimate_spread: 1.5–2.5 metres
+  time_to_ultimate_height: 5-10 years
+  harmful_effects: None
+  native_to_uk: true
+  lime_avoiding: false
+  agm: false
+  light_requirements:
+    - Full sun
+    - Partial shade
+  hardiness_level: H6
+  exposure:
+    - Exposed
+    - Sheltered
+  major_plant_group: Angiosperm
+  rhs_url: https://www.rhs.org.uk/plants/57639/cornus-sanguinea-midwinter-fire/details
+  climber_wall_shrub: false
+  known_for_its_fruit: false
+  known_for_its_scent: false
+  ground_cover: false
+  known_for_its_flowers: false
+  known_for_its_foliage: true
+  foliage_type: Decidous
+  weed_invasive: false
+  seasonal_short_term: false
+  winter_interest: true
+  biodiversity_wildlife: true
+  interior_landscapes: false
+  suitable_for_hedging: true
+  habit: Suckering
+  flowers_present: true
+  flower_description:
+    - Compound umbel inflorescence
+    - Tiny flowers are borne in dense clusters
+  fruit_present: false
+  fruit_description:
+  leaf_description:
+    - Simple leaf form
+    - Opposite leaf arrangement
+    - Elliptic leaf shape
+    - Undulate leaf margin
+  additional_information:
+    - Shuttleworth cultivar
+    - Part of the Cornaceae family
+  images:
+    - plants/3/cornus-sanguinea/1.jpg
+    - plants/3/cornus-sanguinea/2.jpg
+    - plants/3/cornus-sanguinea/3.jpg
+    - plants/3/cornus-sanguinea/4.jpg
+    - plants/3/cornus-sanguinea/5.jpg
+    - plants/3/cornus-sanguinea/6.jpg
