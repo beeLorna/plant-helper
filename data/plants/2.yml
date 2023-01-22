@@ -62,6 +62,7 @@
     - plants/2/asplenium-scolopendrium/2.jpg
     - plants/2/asplenium-scolopendrium/3.jpg
     - plants/2/asplenium-scolopendrium/4.jpg
+  week: 2
 
 - id: taxus-baccata
   botanical_name: Taxus baccata
@@ -136,7 +137,7 @@
     - plants/2/taxus-baccata/3.jpg
     - plants/2/taxus-baccata/4.jpg
     - plants/2/taxus-baccata/5.jpg
-
+  week: 2
 
 - id: skimmia-japonica
   botanical_name: Skimmia japonica
@@ -202,6 +203,7 @@
     - plants/2/skimmia-japonica/3.jpg
     - plants/2/skimmia-japonica/4.jpg
     - plants/2/skimmia-japonica/5.jpg
+  week: 2
 
 - id: vinca-major
   botanical_name: Vinca major 'Variegata' (shuttleworth cv.)
@@ -267,6 +269,7 @@
     - plants/2/vinca-major/1.jpg
     - plants/2/vinca-major/2.jpg
     - plants/2/vinca-major/3.jpg
+  week: 2
 
 - id: buxus-sempervirens
   botanical_name: Buxus sempervirens
@@ -336,6 +339,7 @@
     - plants/2/buxus-sempervirens/3.jpg
     - plants/2/buxus-sempervirens/4.jpg
     - plants/2/buxus-sempervirens/5.jpg
+  week: 2
 
 - id: salvia-rosmarinus
   botanical_name: Salvia rosmarinus
@@ -402,6 +406,7 @@
     - plants/2/salvia-rosmarinus/1.jpg
     - plants/2/salvia-rosmarinus/2.jpg
     - plants/2/salvia-rosmarinus/3.jpg
+  week: 2
 
 - id: abelia-x-grandiflora
   botanical_name: Abelia x grandiflora
@@ -464,6 +469,7 @@
     - plants/2/abelia-x-grandiflora/3.jpg
     - plants/2/abelia-x-grandiflora/4.jpg
     - plants/2/abelia-x-grandiflora/5.jpg
+  week: 2
 
 - id: hedera-helix
   botanical_name: Hedera helix 'Parsley Crested' (shuttleworth cv.)
@@ -534,3 +540,4 @@
     - plants/2/hedera-helix/2.jpg
     - plants/2/hedera-helix/3.jpg
     - plants/2/hedera-helix/4.jpg
+  week: 2

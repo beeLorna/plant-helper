@@ -1,9 +1,14 @@
-<ul>
-  <% @plants.each do |plant| %>
-    <li>
-      <span class="botanical_name">
-        <%= link_to plant.botanical_name, plant_path(plant) %>
-      </span>
-    </li>
+<h1>Plant Idents</h1>
+<% grouped_plants = @plants.group_by {|plant| plant.week }%>
+<% grouped_plants.reverse_each do |week, plants| %>
+  <h2>Week <%= week %></h2>
+  <% plants.each do |plant| %>
+   <ul>
+      <li>
+        <span class="botanical_name">
+          <%= link_to plant.botanical_name, plant_path(plant) %>
+        </span>
+      </li>
+    </ul>
   <% end %>
-</ul>
+<% end %>

@@ -55,6 +55,7 @@
     - plants/1/cuprocyparis-leylandii/2.jpg
     - plants/1/cuprocyparis-leylandii/3.jpg
     - plants/1/cuprocyparis-leylandii/4.jpg
+  week: 1
 
 - id: araucaria-araucana
   botanical_name: Araucaria araucana
@@ -113,6 +114,7 @@
     - plants/1/araucaria-araucana/1.jpg
     - plants/1/araucaria-araucana/2.png
     - plants/1/araucaria-araucana/3.jpg
+  week: 1
 
 - id: arbutus-unedo
   botanical_name: Arbutus unedo
@@ -183,6 +185,7 @@
     - plants/1/arbutus-unedo/3.jpg
     - plants/1/arbutus-unedo/4.jpg
     - plants/1/arbutus-unedo/5.jpg
+  week: 1
 
 - id: berberis-dawinii
   botanical_name: Berberis dawinii
@@ -250,6 +253,7 @@
     - plants/1/berberis-dawinii/1.jpg
     - plants/1/berberis-dawinii/2.jpg
     - plants/1/berberis-dawinii/3.jpg
+  week: 1
 
 - id: choisya-ternata-sundance
   botanical_name: Choisya ternata 'Sundance'
@@ -313,6 +317,7 @@
     - plants/1/choisya-ternata-sundance/2.jpg
     - plants/1/choisya-ternata-sundance/3.jpg
     - plants/1/choisya-ternata-sundance/4.jpg
+  week: 1
 
 - id: cordyline-australis
   botanical_name: Cordyline australis
@@ -375,6 +380,7 @@
     - plants/1/cordyline-australis/4.jpg
     - plants/1/cordyline-australis/5.jpg
     - plants/1/cordyline-australis/6.jpg
+  week: 1
 
 - id: sarcococca-confusa
   botanical_name: Sarcococca confusa
@@ -438,6 +444,7 @@
     - plants/1/sarcococca-confusa/1.jpg
     - plants/1/sarcococca-confusa/2.jpg
     - plants/1/sarcococca-confusa/3.jpg
+  week: 1
 
 - id: viburnum-davidii
   botanical_name: Viburnum davidii
@@ -501,3 +508,4 @@
     - plants/1/viburnum-davidii/2.jpg
     - plants/1/viburnum-davidii/3.jpg
     - plants/1/viburnum-davidii/4.jpg
+  week: 1

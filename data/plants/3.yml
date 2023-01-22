@@ -60,6 +60,7 @@
     - plants/3/agave-americana/1.jpg
     - plants/3/agave-americana/2.jpg
     - plants/3/agave-americana/3.jpg
+  week: 3
 
 - id: cyclamen-hederifolium
   botanical_name: Cyclamen hederifolium
@@ -118,6 +119,7 @@
     - plants/3/cyclamen-hederifolium/2.jpg
     - plants/3/cyclamen-hederifolium/3.jpg
     - plants/3/cyclamen-hederifolium/4.jpg
+  week: 3
 
 - id: ophiopogon-planiscapus
   botanical_name: Ophiopogon planiscapus 'Kokuryū'
@@ -177,6 +179,7 @@
     - plants/3/ophiopogon-planiscapus/4.jpg
     - plants/3/ophiopogon-planiscapus/5.jpg
     - plants/3/ophiopogon-planiscapus/6.jpg
+  week: 3
 
 - id: helleborus-x-hybridus
   botanical_name: Helleborus x hybridus 'Harvington Pink' (suttleworth cv.)
@@ -235,6 +238,7 @@
     - plants/3/helleborus-x-hybridus/1.jpg
     - plants/3/helleborus-x-hybridus/2.jpg
     - plants/3/helleborus-x-hybridus/3.jpg
+  week: 3
 
 - id: fatsia-japonica
   botanical_name: Fatsia japonica
@@ -295,6 +299,7 @@
     - plants/3/fatsia-japonica/3.jpg
     - plants/3/fatsia-japonica/4.jpg
     - plants/3/fatsia-japonica/5.jpg
+  week: 3
 
 - id: photinia-x-fraseri
   botanical_name: Photinia x fraseri 'Red Robin'
@@ -359,6 +364,7 @@
     - plants/3/photinia-x-fraseri/4.jpg
     - plants/3/photinia-x-fraseri/5.jpg
     - plants/3/photinia-x-fraseri/6.jpg
+  week: 3
 
 - id: phyllostachys-aurea
   botanical_name: Phyllostachys aurea
@@ -414,6 +420,7 @@
     - plants/3/phyllostachys-aurea/3.jpg
     - plants/3/phyllostachys-aurea/4.jpg
     - plants/3/phyllostachys-aurea/5.jpg
+  week: 3
 
 - id: cornus-sanguinea
   botanical_name: Cornus sanguinea 'Midwinter Fire' (suttleworth cv.)
@@ -473,3 +480,4 @@
     - plants/3/cornus-sanguinea/4.jpg
     - plants/3/cornus-sanguinea/5.jpg
     - plants/3/cornus-sanguinea/6.jpg
+  week: 3
