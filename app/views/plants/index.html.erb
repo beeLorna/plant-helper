@@ -1,14 +1,80 @@
-<h1>Plant Idents</h1>
-<% grouped_plants = @plants.group_by {|plant| plant.week }%>
-<% grouped_plants.reverse_each do |week, plants| %>
-  <h2>Week <%= week %></h2>
-  <% plants.each do |plant| %>
-   <ul>
-      <li>
-        <span class="botanical_name">
-          <%= link_to plant.botanical_name, plant_path(plant) %>
-        </span>
-      </li>
-    </ul>
-  <% end %>
-<% end %>
+<div class="column_container">
+  <div>
+    <h1>Plant Idents</h1>
+    <% grouped_plants = @plants.group_by {|plant| plant.week }%>
+    <% grouped_plants.reverse_each do |week, plants| %>
+      <h2>Week <%= week %></h2>
+      <% plants.each do |plant| %>
+      <ul>
+          <li>
+            <span class="botanical_name">
+              <%= link_to plant.botanical_name, plant_path(plant) %>
+            </span>
+          </li>
+        </ul>
+      <% end %>
+    <% end %>
+  </div>
+
+  <div class="column_container">
+    <div>
+      <h3>Hardiness ratings</h3>
+      <table>
+        <thead>
+          <tr>
+            <th>Rating</th>
+            <th>Temperature ranges ºC </th>
+            <th>Category</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>H1a</td>
+            <td>warmer than 15</td>
+            <td>Heated glasshouse - tropical</td>
+          </tr>
+          <tr>
+            <td>H1b</td>
+            <td>10 to 15</td>
+            <td>Heated glasshouse - subtropical</td>
+          </tr>
+          <tr>
+            <td>H1c</td>
+            <td>5 to 10</td>
+            <td>Heated glasshouse - warm temperate</td>
+          </tr>
+          <tr>
+            <td>H2</td>
+            <td>1 to 5</td>
+            <td>Tender - cool or frost-free glasshouse</td>
+          </tr>
+          <tr>
+            <td>H3</td>
+            <td>-5 to 1</td>
+            <td>Half-hardy - unheated glasshouse / mild winter</td>
+          </tr>
+          <tr>
+            <td>H4</td>
+            <td>-10 to -5</td>
+            <td>Hardy - average winter</td>
+          </tr>
+          <tr>
+            <td>H5</td>
+            <td>-15 to -10</td>
+            <td>Hardy - cold winterr</td>
+          </tr>
+          <tr>
+            <td>H6</td>
+            <td>-20 to -15</td>
+            <td>Hardy - very cold winter</td>
+          </tr>
+          <tr>
+            <td>H7</td>
+            <td>colder than -20 </td>
+            <td>Very hardy</td>
+          </tr>
+        </tbody>
+      <table>
+    </div>
+  </div>
+</div>
