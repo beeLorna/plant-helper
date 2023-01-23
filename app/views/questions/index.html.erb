@@ -1,0 +1,10 @@
+<h1>List of questions</h1>
+<% @questions.each do |question| %>
+  <ul>
+    <li>
+      <span class="question_type">
+        <%= link_to "photo question", question_path(question) %>
+      </span>
+    </li>
+  </ul>
+<% end %>
