@@ -1,0 +1,466 @@
+- id: aesculus-hippocastanum
+  botanical_name: Aesculus hippocastanum
+  pronunciation: ees-cal-us hippo-cast-a-num
+  common_name: horse chestnut
+  description: A large, broad-crowned deciduous tree. Leaves large, with 5-7 leaflets, turning red-brown early in autumn. Flowers creamy-white with a yellow spot that turns red with age. Fruit large, spiny.
+  classification:
+    - Tree
+  ultimate_height: Higher than 12 metres
+  ultimate_spread: Wider than 8 metres
+  time_to_ultimate_height: 20-50 years
+  harmful_effects: Harmful if eaten. Wear gloves and other protective equipment when handling.
+  native_to_uk: false
+  lime_avoiding: false
+  agm: false
+  light_requirements:
+    - Full sun
+    - Partial shade
+  hardiness_level: H7
+  exposure:
+    - Exposed
+    - Sheltered
+  major_plant_group: Angiosperm
+  rhs_url: https://www.rhs.org.uk/plants/585/aesculus-hippocastanum/details
+  climber_wall_shrub: false
+  known_for_its_fruit: true
+  known_for_its_scent: false
+  ground_cover: false
+  known_for_its_flowers: true
+  known_for_its_foliage: false
+  foliage_type: Deciduous
+  weed_invasive: false
+  seasonal_short_term: false
+  winter_interest: false
+  biodiversity_wildlife: true
+  interior_landscapes: false
+  suitable_for_hedging: false
+  habit: Broad crowned
+  flowers_present: true
+  flower_description:
+    - Panicle inflorescence
+    - Candle like heads
+    - Flowers creamy-white with a yellow spot that turns red with age
+    - Pollinated by insects
+  fruit_present: true
+  fruit_description:
+    - Each flower develops into a glossy red-brown conker inside a spiky green husk
+  leaf_description:
+    - Compound leaf shape
+    - Palmate leaf arrangement
+    - Comprised of 5–7 leaflets.
+    - Doubly serrate leaflet margin
+  additional_information:
+    - Only suitable for large gardens
+    - Conkers are the seeds
+  images:
+    - plants/4/aesculus-hippocastanum/1.jpg
+    - plants/4/aesculus-hippocastanum/2.jpg
+    - plants/4/aesculus-hippocastanum/3.jpg
+    - plants/4/aesculus-hippocastanum/4.jpg
+    - plants/4/aesculus-hippocastanum/5.jpg
+    - plants/4/aesculus-hippocastanum/6.jpg
+    - plants/4/aesculus-hippocastanum/7.jpg
+  week: 4
+
+- id: sansevieria-trifasciate
+  botanical_name: Sansevieria trifasciate 'Variegata' (suttleworth cv.)
+  pronunciation:
+  common_name: mother-in-law's tongue / snake plant
+  description:
+  classification:
+    - Houseplant
+    - Succulent
+  ultimate_height: 1–1.5 metres
+  ultimate_spread: 0.1–0.5 metres
+  time_to_ultimate_height: 5-10 years
+  harmful_effects: Harmful if eaten. Wear gloves and other protective equipment when handling.
+  native_to_uk: false
+  lime_avoiding: false
+  agm: false
+  light_requirements:
+    - Full sun
+    - Partial shade
+  hardiness_level: H1b
+  exposure:
+    - Sheltered
+  major_plant_group: Angiosperm
+  rhs_url: https://www.rhs.org.uk/plants/16430/mother-in-law-s-tongue/details
+  climber_wall_shrub: false
+  known_for_its_fruit: false
+  known_for_its_scent: false
+  ground_cover: false
+  known_for_its_flowers: false
+  known_for_its_foliage: true
+  foliage_type: Evergreen
+  weed_invasive: false
+  seasonal_short_term: false
+  winter_interest: false
+  biodiversity_wildlife: false
+  interior_landscapes: true
+  suitable_for_hedging: false
+  habit: Clump forming
+  flowers_present: true
+  flower_description:
+    - Raceme inflorescence
+    - Spikes of small fragrant tubular greenish-white flowers
+  fruit_present: false
+  fruit_description:
+  leaf_description:
+    - Strap-shaped, leathery leaves
+  additional_information:
+    - Part of the Asparagaceae family
+  images:
+    - plants/4/sansevieria-trifasciate/1.jpg
+    - plants/4/sansevieria-trifasciate/2.jpg
+    - plants/4/sansevieria-trifasciate/3.jpg
+    - plants/4/sansevieria-trifasciate/4.jpg
+  week: 4
+
+- id: ilex-aquifolium
+  botanical_name: Ilex aquifolium
+  pronunciation:
+  common_name: common holly
+  description: I aquifolium is a large evergreen tree, slow-growing when young, with dark, glossy green, usually strongly spiny leaves. Small white flowers in spring are followed by bright red berries, on pollinated female plants.
+  classification:
+    - Tree
+  ultimate_height: Higher than 12 metres
+  ultimate_spread: 4–8 metres
+  time_to_ultimate_height: 20-50 years
+  harmful_effects: Berries may cause mild stomach upset if ingested. Wear gloves and other protective equipment when handling.
+  native_to_uk: true
+  lime_avoiding: false
+  agm: true
+  light_requirements:
+    - Full sun
+    - Partial shade
+  hardiness_level: H6
+  exposure:
+    - Exposed
+    - Sheltered
+  major_plant_group: Angiosperm
+  rhs_url: https://www.rhs.org.uk/plants/9087/ilex-aquifolium/details
+  climber_wall_shrub: false
+  known_for_its_fruit: true
+  known_for_its_scent: false
+  ground_cover: false
+  known_for_its_flowers: false
+  known_for_its_foliage: true
+  foliage_type: Evergreen
+  weed_invasive: false
+  seasonal_short_term: false
+  winter_interest: true
+  biodiversity_wildlife: true
+  interior_landscapes: false
+  suitable_for_hedging: true
+  habit: Bushy
+  flowers_present: true
+  flower_description:
+    - The flowers appear in clusters of small insignificant white fragrant blooms that bloom from May to June.
+    - Male and female plants are required to produce berries.
+  fruit_present: true
+  fruit_description:
+    - Male and female plants are required to produce berries.
+  leaf_description:
+    - Simple leaf form
+    - Young leaves have a spiny leaf margin
+    - Adult leaves have undulate leaf margin
+    - Elliptical leaf shape
+    - Opposite leaf arrangement
+    - Glossy
+  additional_information:
+    - Grow in moist but well-drained soil in a sunny position; also suitable for partial shade.
+  images:
+    - plants/4/ilex-aquifolium/1.jpg
+    - plants/4/ilex-aquifolium/2.jpg
+    - plants/4/ilex-aquifolium/3.jpg
+    - plants/4/ilex-aquifolium/4.jpg
+    - plants/4/ilex-aquifolium/5.jpg
+    - plants/4/ilex-aquifolium/6.jpg
+  week: 4
+
+- id: quercus-robur
+  botanical_name: Quercus robur
+  pronunciation:
+  common_name: common oak
+  description: Q. robur is a large deciduous tree developing a magnificent, broad crown, the leaves with shallow, rounded lobes, turning reddish-brown in autumn. Inconspicuous yellow-green catkins among the young leaves.
+  classification:
+    - Tree
+  ultimate_height: Higher than 12 metres
+  ultimate_spread: Wider than 8 metres
+  time_to_ultimate_height: 20-50 years
+  harmful_effects: None
+  native_to_uk: false
+  lime_avoiding: false
+  agm: false
+  light_requirements:
+    - Full sun
+    - Partial shade
+  hardiness_level: H6
+  exposure:
+    - Exposed
+    - Sheltered
+  major_plant_group: Angiosperm
+  rhs_url: https://www.rhs.org.uk/plants/14294/quercus-robur/details
+  climber_wall_shrub: false
+  known_for_its_fruit: false
+  known_for_its_scent: false
+  ground_cover: false
+  known_for_its_flowers: false
+  known_for_its_foliage: true
+  foliage_type: Deciduous
+  weed_invasive: false
+  seasonal_short_term: false
+  winter_interest: false
+  biodiversity_wildlife: false
+  interior_landscapes: false
+  suitable_for_hedging: true
+  habit: Broad crowned
+  flowers_present: true
+  flower_description:
+    - Hanging catkin
+  fruit_present: true
+  fruit_description:
+    - Acorns
+  leaf_description:
+    - Simple leaf form
+    - Lobate leaf margin
+    - Alternate leaf arrangement
+  additional_information:
+    - Grows well in most deep, fertile soils and is lime tolerant.
+  images:
+    - plants/4/quercus-robur/1.jpg
+    - plants/4/quercus-robur/2.jpg
+    - plants/4/quercus-robur/3.jpg
+    - plants/4/quercus-robur/4.jpg
+    - plants/4/quercus-robur/5.jpg
+    - plants/4/quercus-robur/6.jpg
+    - plants/4/quercus-robur/7.jpg
+  week: 4
+
+- id: prunus-serrula
+  botanical_name: Prunus serrula
+  pronunciation:
+  common_name: Tibetan cherry
+  description: P. serrula is a round-headed small deciduous tree, the trunk with shining coppery-brown young bark. Narrow leaves turn yellow in autumn. Flowers 2cm in width, white, in small clusters.
+  classification:
+    - Tree
+  ultimate_height: 8–12 metres
+  ultimate_spread: Wider than 8 metres
+  time_to_ultimate_height: 20-50 years
+  harmful_effects: None
+  native_to_uk: false
+  lime_avoiding: false
+  agm: false
+  light_requirements:
+    - Full sun
+  hardiness_level: H6
+  exposure:
+    - Exposed
+    - Sheltered
+  major_plant_group: Angiosperm
+  rhs_url: https://www.rhs.org.uk/plants/14025/prunus-serrula/details
+  climber_wall_shrub: false
+  known_for_its_fruit: false
+  known_for_its_scent: false
+  ground_cover: false
+  known_for_its_flowers: false
+  known_for_its_foliage: true
+  foliage_type: Deciduous
+  weed_invasive: false
+  seasonal_short_term: false
+  winter_interest: true
+  biodiversity_wildlife: false
+  interior_landscapes: false
+  suitable_for_hedging: false
+  habit: Bushy
+  flowers_present: true
+  flower_description:
+    - Small white flowers in clusters
+  fruit_present: false
+  fruit_description:
+  leaf_description:
+    - Simple leaf form
+    - Acuminate leaf shape
+  additional_information:
+    - Grow in moderately fertile soil in full sun.
+  images:
+    - plants/4/prunus-serrula/1.jpg
+    - plants/4/prunus-serrula/2.jpg
+    - plants/4/prunus-serrula/3.jpg
+    - plants/4/prunus-serrula/4.jpg
+  week: 4
+
+- id: ligustrum-ovalifolium
+  botanical_name: Ligustrum ovalifolium
+  pronunciation:
+  common_name: garden privet
+  description: A vigorous, upright glossy green ,oval-leaved bushy shrub. It is commonly used as 'privet' hedging, but left unpruned becomes a shaggy tree.
+  classification:
+    - Tree
+    - Shrub
+  ultimate_height: 4–8 metres
+  ultimate_spread: 2.5–4 metres
+  time_to_ultimate_height: 10–20 years
+  harmful_effects: Somewhat poisonous if ingested. Wear gloves and other protective equipment and wash hands after handling
+  native_to_uk: false
+  lime_avoiding: false
+  agm: false
+  light_requirements:
+    - Full sun
+  hardiness_level: H6
+  exposure:
+    - Exposed
+    - Sheltered
+  major_plant_group: Angiosperm
+  rhs_url: https://www.rhs.org.uk/plants/91966/ligustrum-ovalifolium/details
+  climber_wall_shrub: false
+  known_for_its_fruit: false
+  known_for_its_scent: false
+  ground_cover: false
+  known_for_its_flowers: false
+  known_for_its_foliage: true
+  foliage_type: Semi evergreen
+  weed_invasive: false
+  seasonal_short_term: false
+  winter_interest: true
+  biodiversity_wildlife: true
+  interior_landscapes: false
+  suitable_for_hedging: false
+  habit: Bushy, Columnar upright
+  flowers_present: true
+  flower_description:
+    - Panicle inflorescence
+    - Small white fragrant flowers in pointed clusters appear between June and July, which are highly attractive to bees.
+  fruit_present: true
+  fruit_description:
+    - Round black berry fruits are borne in autumn.
+  leaf_description:
+    - Simple leaf form
+    - Opposite leaf arrangement
+    - Elliptic leaf shape
+    - Entire leaf margin
+  additional_information:
+    - Grow in any well-drained, or moist but well-drained soil in sun or partial shade.
+    - Part of the Oleaceae family
+  images:
+    - plants/4/ligustrum-ovalifolium/1.jpg
+    - plants/4/ligustrum-ovalifolium/2.jpg
+    - plants/4/ligustrum-ovalifolium/3.jpg
+    - plants/4/ligustrum-ovalifolium/4.jpg
+  week: 4
+
+- id: muscari-armeniacum
+  botanical_name: Muscari armeniacum
+  pronunciation:
+  common_name: Armenian grape hyacinth
+  description: M. armeniacum is a strong-growing bulbous perennial to 20cm in height, with narrow, arching green leaves and erect stems bearing dense spikes of white-tipped, deep violet-blue, egg-shaped flowers 5mm in length in spring.
+  classification:
+    - Bulb
+  ultimate_height: 0.1–0.5 metres
+  ultimate_spread: 0–0.1 metre
+  time_to_ultimate_height: 2-5 years
+  harmful_effects: Ornamental bulbs, not to be eaten. Wear gloves and other protective equipment when handling.
+  native_to_uk: false
+  lime_avoiding: false
+  agm: true
+  light_requirements:
+    - Full sun
+    - Partial shade
+  hardiness_level: H6
+  exposure:
+    - Exposed
+    - Sheltered
+  major_plant_group: Angiosperm
+  rhs_url: https://www.rhs.org.uk/plants/11247/muscari-armeniacum/details
+  climber_wall_shrub: false
+  known_for_its_fruit: false
+  known_for_its_scent: false
+  ground_cover: true
+  known_for_its_flowers: true
+  known_for_its_foliage: false
+  foliage_type: Deciduous
+  weed_invasive: false
+  seasonal_short_term: false
+  winter_interest: false
+  biodiversity_wildlife: true
+  interior_landscapes: false
+  suitable_for_hedging: false
+  habit: Tufted
+  flowers_present: true
+  flower_description:
+    - Spike inflorescence
+    - Erect stems bearing dense spikes of white-tipped, deep violet-blue, egg-shaped flowers 5mm in length in spring.
+  fruit_present: false
+  fruit_description:
+  leaf_description:
+    - Grass like leaves
+    - Simple leaf form
+    - Linear leaf shape
+    - Entire leaf margin
+  additional_information:
+    - They are extremely attractive to spring-flying pollinators, particularly the hairy footed flower bee, Anthophora plumipes.
+    - They have a tendency to spread and can be invasive.
+    - Can spread by seed as well as underground, via bulb offsets.
+    - Propagate grape hyacinths by division when plants are dormant in summer.
+    - Progate by seed as well, though division is quicker and more effective
+  images:
+    - plants/4/muscari-armeniacum/1.jpg
+    - plants/4/muscari-armeniacum/2.jpg
+    - plants/4/muscari-armeniacum/3.jpg
+    - plants/4/muscari-armeniacum/4.jpg
+  week: 4
+
+- id: sempervivum-arachnoideum
+  botanical_name: Sempervivum arachnoideum
+  pronunciation:
+  common_name: cobweb houseleek
+  description: S. arachnoideum is an evergreen perennial forming a mat of fleshy rosettes 1-3cm across, leaves green or reddish, with cobwebby white hairs at the tips. Starry pink flowers 1cm in width in flat cymes on stems to 12cm,
+  classification:
+    - Succulent
+    - Alpine
+  ultimate_height: Up to 10cm
+  ultimate_spread: 0.1–0.5 metres
+  time_to_ultimate_height: 5–10 years
+  harmful_effects: None
+  native_to_uk: false
+  lime_avoiding: true
+  agm: true
+  light_requirements:
+    - Full sun
+  hardiness_level: H7
+  exposure:
+    - Exposed
+    - Sheltered
+  major_plant_group: Angiosperm
+  rhs_url: https://www.rhs.org.uk/plants/17075/sempervivum-arachnoideum/details
+  climber_wall_shrub: false
+  known_for_its_fruit: false
+  known_for_its_scent: false
+  ground_cover: false
+  known_for_its_flowers: false
+  known_for_its_foliage: false
+  foliage_type: Evergreen
+  weed_invasive: false
+  seasonal_short_term: false
+  winter_interest: true
+  biodiversity_wildlife: false
+  interior_landscapes: false
+  suitable_for_hedging: false
+  habit: Matforming
+  flowers_present: true
+  flower_description:
+    - Starry pink flowers 1cm in width
+    - flat cymes on stems to 12cm
+  fruit_present: false
+  fruit_description:
+  leaf_description:
+    - fleshy rosettes 1-3cm across
+    - leaves green or reddish, with cobwebby white hairs at the tips
+  additional_information:
+    - Grow in moderately fertile well-drained soil in full sun.
+    - Protect from excessive winter wet.
+    - Suitable for rock garden, scree bed, wall crevice, trough or alpine house
+  images:
+    - plants/4/sempervivum-arachnoideum/1.jpg
+    - plants/4/sempervivum-arachnoideum/2.jpg
+  week: 4
