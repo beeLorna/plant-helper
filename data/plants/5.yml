@@ -1,0 +1,482 @@
+- id: acer-griseum
+  botanical_name: Acer griseum
+  pronunciation: acer gris-e-um
+  common_name: paperbark maple
+  description: A small spreading deciduous tree with attractive peeling, papery chestnut-brown bark. Leaves with 3 leaflets, downy and whitish beneath, turning brilliant red and orange in autumn. Flowers small
+  classification:
+    - Tree
+  ultimate_height: 8–12 metres
+  ultimate_spread: 4–8 metres
+  time_to_ultimate_height: 20-50 years
+  harmful_effects: None
+  native_to_uk: false
+  lime_avoiding: false
+  agm: true
+  light_requirements:
+    - Full sun
+    - Partial shade
+  hardiness_level: H5
+  exposure:
+    - Sheltered
+  major_plant_group: Angiosperm
+  rhs_url: https://www.rhs.org.uk/plants/197/acer-griseum/details
+  climber_wall_shrub: false
+  known_for_its_fruit: false
+  known_for_its_scent: false
+  ground_cover: false
+  known_for_its_flowers: false
+  known_for_its_foliage: false
+  foliage_type: Deciduous
+  weed_invasive: false
+  seasonal_short_term: false
+  winter_interest: true
+  biodiversity_wildlife: false
+  interior_landscapes: false
+  suitable_for_hedging: false
+  habit: Rounded
+  flowers_present: true
+  flower_description:
+    - Cyme inflorescence
+  fruit_present: true
+  fruit_description:
+    - Winged fruits
+  leaf_description:
+    - Compound leaf form
+    - Dentate leaf margin
+  additional_information:
+    - Has peeling bark
+    - A good architectural plant
+    - Small garden tree
+    - Excellent autumn colour
+  images:
+    - plants/5/acer-griseum/1.jpg
+    - plants/5/acer-griseum/2.jpg
+    - plants/5/acer-griseum/3.jpg
+    - plants/5/acer-griseum/4.jpg
+    - plants/5/acer-griseum/5.jpg
+    - plants/5/acer-griseum/6.jpg
+    - plants/5/acer-griseum/7.jpg
+    - plants/5/acer-griseum/8.jpg
+  week: 5
+
+- id: elymus-repens
+  botanical_name: Elymus repens
+  pronunciation: elle-em-us rep-ens
+  common_name: crouch grass, twitch
+  description: A fast-growing perennial grass.
+  classification:
+    - Perennial
+  ultimate_height: 1–1.5 metres
+  ultimate_spread: 0.5–1 metres
+  time_to_ultimate_height: 1 year
+  harmful_effects: None
+  native_to_uk: false
+  lime_avoiding: false
+  agm: false
+  light_requirements:
+    - Full sun
+  hardiness_level: None
+  exposure:
+    - Exposed
+    - Sheltered
+  major_plant_group: Angiosperm
+  rhs_url: https://www.rhs.org.uk/plants/6342/elymus-repens/details
+  climber_wall_shrub: false
+  known_for_its_fruit: false
+  known_for_its_scent: false
+  ground_cover: false
+  known_for_its_flowers: false
+  known_for_its_foliage: false
+  foliage_type: Deciduous
+  weed_invasive: true
+  seasonal_short_term: false
+  winter_interest: false
+  biodiversity_wildlife: false
+  interior_landscapes: false
+  suitable_for_hedging: false
+  habit: Clump forming
+  flowers_present: false
+  flower_description:
+    - Upright flower spikes to 120cm high in late summer
+  fruit_present: false
+  fruit_description:
+  leaf_description:
+    - Flat green leaf blades to 40cm long
+    - Pale, hairy sheaths on the lower leaves
+  additional_information:
+    - Each plant forms a dense network of pale yellow or straw-coloured rhizomatous roots, that enable it to spread rapidly in lawns and borders.
+  images:
+    - plants/5/elymus-repens/1.jpg
+    - plants/5/elymus-repens/2.jpg
+    - plants/5/elymus-repens/3.jpg
+    - plants/5/elymus-repens/4.jpg
+    - plants/5/elymus-repens/5.jpg
+    - plants/5/elymus-repens/6.jpg
+    - plants/5/elymus-repens/7.jpg
+  week: 5
+
+- id: fagus-sylvatica
+  botanical_name: Fagus sylvatica
+  pronunciation: faye-gus sal-vat-i-kah
+  common_name: common beech
+  description: Large, vigorous deciduous tree reaching 30m in height, with a broad, spreading crown. Leaves broadly elliptic, yellow-green in spring, rich golden copper to russet-brown in autumn. Small, green flowers in early spring, are followed by bristly fruits (nuts).
+  classification:
+    - Tree
+  ultimate_height: Higher than 12 metres
+  ultimate_spread: Wider than 8 metres
+  time_to_ultimate_height: 20–50 years
+  harmful_effects: None
+  native_to_uk: true
+  lime_avoiding: false
+  agm: true
+  light_requirements:
+    - Full sun
+    - Partial shade
+  hardiness_level: H6
+  exposure:
+    - Exposed
+    - Sheltered
+  major_plant_group: Angiosperm
+  rhs_url: https://www.rhs.org.uk/plants/7127/fagus-sylvatica-common-beech-european-beech/details
+  climber_wall_shrub: false
+  known_for_its_fruit: false
+  known_for_its_scent: false
+  ground_cover: false
+  known_for_its_flowers: false
+  known_for_its_foliage: true
+  foliage_type: Deciduous
+  weed_invasive: false
+  seasonal_short_term: false
+  winter_interest: false
+  biodiversity_wildlife: false
+  interior_landscapes: false
+  suitable_for_hedging: true
+  habit: Broad, spreading crown
+  flowers_present: true
+  flower_description:
+    - Beech is monoecious, meaning both male and female flowers grow on the same tree.
+    - In April and May the tassel-like male catkins hang from long stalks at the end of twigs.
+    - Female flowers grow in pairs, surrounded by a cup.
+    - Beech is wind pollinated.
+  fruit_present: true
+  fruit_description:
+    - The cup becomes woody once pollinated, and encloses one or two beech nuts (known as beechmast).
+  leaf_description:
+    - Young leaves are lime green with silky hairs.
+    - As they mature they become darker green and lose their hairs.
+    - They are 4–9cm long, stalked, oval and pointed at the tip, with a wavy edge
+  additional_information:
+    - Leaf buds which are distinctively sharply pointed and not pressed against the twigs.
+    - Hold on to their leaves throughout winter, a trait known as marcescence.
+    - Does wel in chalky soils
+    - Doesn't do well sat in wet soils
+  images:
+    - plants/5/fagus-sylvatica/1.jpg
+    - plants/5/fagus-sylvatica/2.jpg
+    - plants/5/fagus-sylvatica/3.jpg
+    - plants/5/fagus-sylvatica/4.jpg
+    - plants/5/fagus-sylvatica/5.jpg
+    - plants/5/fagus-sylvatica/6.jpg
+    - plants/5/fagus-sylvatica/7.jpg
+  week: 5
+
+- id: liriope-muscari
+  botanical_name: Liriope muscari
+  pronunciation: luh-RYE-oh-pee
+  common_name: big blue lilyturf
+  description: L. muscari is an evergreen tuberous perennial forming a dense clump of narrow, arching, leathery, dark green leaves, with small violet-purple flowers carried in dense, erect spikes to 30cm in height in autumn, followed by black berries.
+  classification:
+    - Perennial
+  ultimate_height: 0.1–0.5 metres
+  ultimate_spread: 0.1–0.5 metres
+  time_to_ultimate_height: 2–5 years
+  harmful_effects: None
+  native_to_uk: false
+  lime_avoiding: true
+  agm: true
+  light_requirements:
+    - Partial shade
+    - Deep shade
+  hardiness_level: H5
+  exposure:
+    - Sheltered
+  major_plant_group: Angiosperm
+  rhs_url: https://www.rhs.org.uk/plants/10344/liriope-muscari/details
+  climber_wall_shrub: false
+  known_for_its_fruit: false
+  known_for_its_scent: false
+  ground_cover: true
+  known_for_its_flowers: true
+  known_for_its_foliage: true
+  foliage_type: Evergreen
+  weed_invasive: false
+  seasonal_short_term: false
+  winter_interest: true
+  biodiversity_wildlife: false
+  interior_landscapes: false
+  suitable_for_hedging: false
+  habit: Clump forming
+  flowers_present: true
+  flower_description:
+    - Raceme inflorescence
+    - Flowers are small, purple, densely clustered, 6-parted.
+    - Appear on an elongated 6-8 inch spike-like raceme with congested rachis.
+    - Blooms late summer from August to September.
+  fruit_present: true
+  fruit_description:
+    - Berry
+    - Fruits are 1/3 inch in diameter, globose berries that start green and ripen to a shiny black.
+  leaf_description:
+    - Linear leaf shape
+    - Entire leaf margin
+  additional_information:
+    - Requires acidic to neutral, well-drained soils.
+    - Part of the Asparagaceae family
+  images:
+    - plants/5/liriope-muscari/1.jpg
+    - plants/5/liriope-muscari/2.jpg
+    - plants/5/liriope-muscari/3.jpg
+    - plants/5/liriope-muscari/4.jpg
+    - plants/5/liriope-muscari/5.jpg
+  week: 5
+
+- id: monstera-deliciosa
+  botanical_name: Monstera deliciosa
+  pronunciation: mon-STER-ah de-lis-ee-OH-sah
+  common_name: Swiss cheese plant
+  description: M. deliciosa is an evergreen shrub to 5m or more, climbing by aerial roots, with heart-shaped, pinnatisect and often perforated, glossy deep green leaves to 90cm; flower spathes 30cm, white, followed by cone-like cream fruit.
+  classification:
+    - Shrub
+    - Houseplant
+  ultimate_height: 4–8 metres
+  ultimate_spread: 1.5–2.5 metres
+  time_to_ultimate_height: 10–20 years
+  harmful_effects: Ingestion may cause severe discomfort, skin and eye irritant. Wear gloves and other protective equipment when handling
+  native_to_uk: false
+  lime_avoiding: true
+  agm: true
+  light_requirements:
+    - Partial shade
+  hardiness_level: H1B
+  exposure:
+    - Sheltered
+  major_plant_group: Angiosperm
+  rhs_url: https://www.rhs.org.uk/plants/11192/monstera-deliciosa-(f)/details
+  climber_wall_shrub: true
+  known_for_its_fruit: false
+  known_for_its_scent: false
+  ground_cover: false
+  known_for_its_flowers: false
+  known_for_its_foliage: true
+  foliage_type: Evergreen
+  weed_invasive: false
+  seasonal_short_term: false
+  winter_interest: false
+  biodiversity_wildlife: false
+  interior_landscapes: true
+  suitable_for_hedging: false
+  habit: Climbing
+  flowers_present: true
+  flower_description:
+    - Spadix inflorescence
+    - Bract
+  fruit_present: true
+  fruit_description:
+    - Creamy-white berries covered by green hexagonal "scales".
+    - These berries are edible and taste like a mixture of banana and pineapple.
+  leaf_description:
+    - Simple leaf form
+    - Alternate arrangement
+    - Lobate margin
+    - Cordate shape
+    - Pinnate/cross-Venulate leaf venation
+  additional_information:
+    - Needs brightness but not direct sunlight, and high humidity.
+  images:
+    - plants/5/monstera-deliciosa/1.jpg
+    - plants/5/monstera-deliciosa/2.jpg
+    - plants/5/monstera-deliciosa/3.jpg
+    - plants/5/monstera-deliciosa/4.jpg
+    - plants/5/monstera-deliciosa/5.jpg
+    - plants/5/monstera-deliciosa/6.jpg
+    - plants/5/monstera-deliciosa/7.jpg
+  week: 5
+
+- id: plantago-major
+  botanical_name: Plantago major
+  pronunciation: plan-TA-go major
+  common_name: greater plantain / cart track plant
+  description: A low-growing herbaceous perennial with a rosette of broad, oval, dark green leaves, with pale green veins and stems. Produces leafless spikes of small, tightly clustered brownish purple flowers on upright stems up to 20cm high.
+  classification:
+    - Perennial
+    - Forb
+  ultimate_height: 0.1–0.5 metres
+  ultimate_spread: 0.1–0.5 metres
+  time_to_ultimate_height: 1 year
+  harmful_effects: None
+  native_to_uk: false
+  lime_avoiding: false
+  agm: false
+  light_requirements:
+    - Full sun
+    - Partial shade
+  hardiness_level: H7
+  exposure:
+    - Exposed
+    - Sheltered
+  major_plant_group: Angiosperm
+  rhs_url: https://www.rhs.org.uk/plants/42126/plantago-major/details
+  climber_wall_shrub: false
+  known_for_its_fruit: false
+  known_for_its_scent: false
+  ground_cover: false
+  known_for_its_flowers: false
+  known_for_its_foliage: false
+  foliage_type: Evergreen
+  weed_invasive: true
+  seasonal_short_term: false
+  winter_interest: false
+  biodiversity_wildlife: true
+  interior_landscapes: false
+  suitable_for_hedging: false
+  habit: Clump forming
+  flowers_present: true
+  flower_description:
+    - Spike inflorescence
+    - Flowers appear April to September and are inconspicuous greenish-brown with white to purple stamens.
+  fruit_present: true
+  fruit_description:
+    - Capsules are split across the middle into 2 equal segments containing 6-20 brown, glossy, ridged seeds.
+    - Seeds are edible by wildlife.
+  leaf_description:
+    - Simple leaf form
+    - Rosulate leaf arrangement
+    - Elliptical leaf shape
+    - Entire leaf margin
+  additional_information:
+    - Attracts butterflies
+    - Thick fleshy tap roots
+    - Grows in moist/dark/shaded/compacted areas
+    - Can be hard to get rid of
+    - Down as an evergreen, but is thought to perennate
+  images:
+    - plants/5/plantago-major/1.jpg
+    - plants/5/plantago-major/2.jpg
+    - plants/5/plantago-major/3.jpg
+    - plants/5/plantago-major/4.jpg
+    - plants/5/plantago-major/5.jpg
+    - plants/5/plantago-major/6.jpg
+  week: 5
+
+- id: ceratophyllum-demersum
+  botanical_name: Ceratophyllum demersum
+  pronunciation: sarah-toe-phill-um dem-er-sum
+  common_name: hornwort
+  description: C. demersum is a submerged perennial with forked, dark green leaves, with tiny flowers in summer.
+  classification:
+    - Perennial
+    - Aquatic
+  ultimate_height: 0.1–0.5 metres
+  ultimate_spread: 0.1–0.5 metres
+  time_to_ultimate_height: 1 year
+  harmful_effects: None
+  native_to_uk: false
+  lime_avoiding: false
+  agm: false
+  light_requirements:
+    - Full sun
+  hardiness_level: H5
+  exposure:
+    - Sheltered
+  major_plant_group: Angiosperm
+  rhs_url: https://www.rhs.org.uk/plants/52485/i-ceratophyllum-demersum-i/details
+  climber_wall_shrub: false
+  known_for_its_fruit: false
+  known_for_its_scent: false
+  ground_cover: false
+  known_for_its_flowers: false
+  known_for_its_foliage: true
+  foliage_type: Unknown
+  weed_invasive: true
+  seasonal_short_term: false
+  winter_interest: false
+  biodiversity_wildlife: false
+  interior_landscapes: false
+  suitable_for_hedging: false
+  habit: Clump forming
+  flowers_present: true
+  flower_description:
+    - Staminate flower consisting of numerous stamens and surrounding bracts
+  fruit_present: false
+  fruit_description:
+  leaf_description:
+    - linear leaves arranged in whorls
+  additional_information:
+    - Lacks roots
+    - Vegetative buds covered with prophylls, in the axil of a leaf
+  images:
+    - plants/5/ceratophyllum-demersum/1.jpg
+    - plants/5/ceratophyllum-demersum/2.jpg
+    - plants/5/ceratophyllum-demersum/3.jpg
+    - plants/5/ceratophyllum-demersum/4.jpg
+    - plants/5/ceratophyllum-demersum/5.jpg
+    - plants/5/ceratophyllum-demersum/6.jpg
+  week: 5
+
+- id: spathiphyllum-wallisii
+  botanical_name: Spathiphyllum wallisii
+  pronunciation: spaff-if-eye-lum wall-iss-ee-i
+  common_name: peace lily
+  description: S. wallisii is an evergreen perennial with erect, lance-shaped, glossy dark green leaves, and ovate white flowering spathes to 15cm in length, each with a slender cream spadix within.
+  classification:
+    - Perennial
+    - Houseplant
+  ultimate_height: 0.1–0.5 metres
+  ultimate_spread: 0.1–0.5 metres
+  time_to_ultimate_height: 5-10 year
+  harmful_effects: All parts may cause severe discomfort if ingested, skin and eye irritant. Wear gloves and other protective equipment when handling
+  native_to_uk: false
+  lime_avoiding: false
+  agm: false
+  light_requirements:
+    - Partial sun
+  hardiness_level: H1b
+  exposure:
+    - Sheltered
+  major_plant_group: Angiosperm
+  rhs_url: https://www.rhs.org.uk/plants/17623/spathiphyllum-wallisii/details
+  climber_wall_shrub: false
+  known_for_its_fruit: false
+  known_for_its_scent: false
+  ground_cover: false
+  known_for_its_flowers: true
+  known_for_its_foliage: true
+  foliage_type: Evergreen
+  weed_invasive: false
+  seasonal_short_term: false
+  winter_interest: false
+  biodiversity_wildlife: false
+  interior_landscapes: true
+  suitable_for_hedging: false
+  habit: Clump forming
+  flowers_present: true
+  flower_description:
+    - Spadix inflorescence
+    - Bract petals
+  fruit_present: false
+  fruit_description:
+  leaf_description:
+    - Simple leaf form
+    - Rosulate leaf arrangement
+    - Elliptical leaf shape
+    - Glossy
+    - Leaves are basal rosettes
+  additional_information:
+    - Like a bright spot out of direct sunshine but will also tolerate some shade.
+    - The leaves have an alarming tendency to droop if the plant is short of water, but the plant usually recovers after a few hours once this is remedied.
+  images:
+    - plants/5/spathiphyllum-wallisii/1.jpg
+    - plants/5/spathiphyllum-wallisii/2.jpg
+    - plants/5/spathiphyllum-wallisii/3.jpg
+    - plants/5/spathiphyllum-wallisii/4.jpg
+  week: 5
