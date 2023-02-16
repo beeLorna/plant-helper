@@ -1,0 +1,478 @@
+- id: armeria-maritima
+  botanical_name: Armeria maritima
+  pronunciation: Ar-MEH-ree-ah mar-ih-TEE-mah
+  common_name: thrift
+  description: A mat-forming evergreen perennial with dense, needle-like leaves and erect scapes to 15cm, bearing compact clusters of cup-shaped pink flowers in late spring and summer.
+  classification:
+    - Perennial
+    - Alpine
+  ultimate_height: 0.1–0.5 metres
+  ultimate_spread: 0.1–0.5 metres
+  time_to_ultimate_height: 5-10 years
+  harmful_effects: All parts may cause severe discomfort if ingested, skin and eye irritant. Wear gloves and other protective equipment when handling
+  native_to_uk: true
+  lime_avoiding: false
+  agm: false
+  light_requirements:
+    - Full sun
+  hardiness_level: H5
+  exposure:
+    - Exposed
+    - Sheltered
+  major_plant_group: Angiosperm
+  rhs_url: https://www.rhs.org.uk/plants/1597/armeria-maritima/details
+  climber_wall_shrub: false
+  known_for_its_fruit: false
+  known_for_its_scent: false
+  ground_cover: false
+  known_for_its_flowers: true
+  known_for_its_foliage: false
+  foliage_type: Evergreen
+  weed_invasive: false
+  seasonal_short_term: false
+  winter_interest: false
+  biodiversity_wildlife: true
+  interior_landscapes: false
+  suitable_for_hedging: false
+  habit: Matforming
+  flowers_present: true
+  flower_description:
+    - Umbel inflorescence
+  fruit_present: false
+  fruit_description:
+  leaf_description:
+    - Grass like straped leaves
+  additional_information:
+    - Found in coastal areas
+    - Very robust
+    - Grown in gravel gardens, rock gardens, troughs
+    - Drought resistance
+  images:
+    - plants/6/armeria-maritima/1.jpg
+    - plants/6/armeria-maritima/2.jpg
+    - plants/6/armeria-maritima/3.jpg
+    - plants/6/armeria-maritima/4.jpg
+    - plants/6/armeria-maritima/5.jpg
+  week: 6
+
+- id: clematis-armandi
+  botanical_name: Clematis armandi
+  pronunciation: KLEM-ah-tiss ar-MAND-ee-eye
+  common_name: Armand clematis
+  description: A large, vigorous evergreen climber with leathery, dark glossy green trifoliate leaves up to 15cm long. Single, fragrant creamy-white flowers 5-6cm across with creamy stamens, in clusters in early to mid spring.
+  classification:
+    - Perennial
+  ultimate_height: 4–8 metres
+  ultimate_spread: 1.5–2.5 metres
+  time_to_ultimate_height: 5-10 years
+  harmful_effects: None
+  native_to_uk: false
+  lime_avoiding: false
+  agm: false
+  light_requirements:
+    - Full sun
+  hardiness_level: H4
+  exposure:
+    - Sheltered
+  major_plant_group: Angiosperm
+  rhs_url: https://www.rhs.org.uk/plants/3923/clematis-armandii/details
+  climber_wall_shrub: true
+  known_for_its_fruit: false
+  known_for_its_scent: true
+  ground_cover: false
+  known_for_its_flowers: true
+  known_for_its_foliage: true
+  foliage_type: Evergreen
+  weed_invasive: false
+  seasonal_short_term: false
+  winter_interest: false
+  biodiversity_wildlife: false
+  interior_landscapes: false
+  suitable_for_hedging: false
+  habit: Climbing
+  flowers_present: true
+  flower_description:
+    - Panicle inflorescence
+    - Star shaped flowers
+    - Fragrant
+  fruit_present: false
+  fruit_description:
+  leaf_description:
+    - Compound leaf form
+    - Opposite leaf arrangement
+    - Entire leaf margin
+    - Lanceolate leaf shape
+    - Glossy
+    - Leathery
+  additional_information:
+    - A vigorous species for a warm south or south-west facing wall with protection from cold winds.
+    - Grow in any fertile, well-drained soil and plant with the crown at soil level.
+    - Slow to get going
+    - Needs lots of space to grow
+  images:
+    - plants/6/clematis-armandi/1.jpg
+    - plants/6/clematis-armandi/2.jpg
+    - plants/6/clematis-armandi/3.jpg
+    - plants/6/clematis-armandi/4.jpg
+  week: 6
+
+- id: daphne-bholua
+  botanical_name: Daphne bholua
+  pronunciation: DAFF-nee boe-LOO-uh
+  common_name: Nepalese paper plant
+  description: An evergreen or semi-evergreen shrub to 2m, usually erect, sparsely branched, but may be more bushy in cultivation.
+  classification:
+    - Shrub
+  ultimate_height: 1.5–2.5 metres
+  ultimate_spread: 1–1.5 metres
+  time_to_ultimate_height:
+  harmful_effects: TOXIC if eaten, skin irritant. Wear gloves and other protective equipment when handling
+  native_to_uk: false
+  lime_avoiding: false
+  agm: false
+  light_requirements:
+    - Full sun
+    -  Partial shade
+  hardiness_level: H4
+  exposure:
+    - Sheltered
+  major_plant_group: Angiosperm
+  rhs_url: https://www.rhs.org.uk/plants/5311/daphne-bholua/details
+  climber_wall_shrub: false
+  known_for_its_fruit: false
+  known_for_its_scent: true
+  ground_cover: false
+  known_for_its_flowers: true
+  known_for_its_foliage: false
+  foliage_type: Evergreen
+  weed_invasive: false
+  seasonal_short_term: false
+  winter_interest: true
+  biodiversity_wildlife: false
+  interior_landscapes: false
+  suitable_for_hedging: false
+  habit: Bushy
+  flowers_present: true
+  flower_description:
+    - Very fragrant flowers
+    - Borne in terminal and axillary clusters from midwinter to early spring.
+    - White, flushed purplish-pink.
+  fruit_present: true
+  fruit_description:
+    - Black ovoid fruits
+  leaf_description:
+    - Whorled leaf arrangement
+    - Entire leaf margin
+    - Lanceolate leaf shape
+    - Leaves are short-stalked, 5-10cm long
+    - Leathery.
+  additional_information:
+    - Does well in alkaline and neutral soils
+    - Can be fussy
+    - Doesn't like to be moved or pruned too much
+    - Slow to get going
+  images:
+   - plants/6/daphne-bholua/1.jpg
+   - plants/6/daphne-bholua/2.jpg
+   - plants/6/daphne-bholua/3.jpg
+   - plants/6/daphne-bholua/4.jpg
+  week: 6
+
+- id: griselinia-littoralis
+  botanical_name: Griselinia littoralis
+  pronunciation: GRIS-eh-lin-ee-ah litt-or-alice
+  common_name: New Zealand broadleaf
+  description: A fast-growing large evergreen shrub with light green, broadly oval leaves.
+  classification:
+    - Tree
+    - Shrub
+  ultimate_height: 4–8 metres
+  ultimate_spread: 2.5–4 metres
+  time_to_ultimate_height: 10-20 years
+  harmful_effects: None
+  native_to_uk: false
+  lime_avoiding: false
+  agm: true
+  light_requirements:
+    - Full sun
+  hardiness_level: H5
+  exposure:
+    - Exposed
+    - Sheltered
+  major_plant_group: Angiosperm
+  rhs_url: https://www.rhs.org.uk/plants/8123/griselinia-littoralis-new-zealand-broadleaf-broadleaf/details
+  climber_wall_shrub: false
+  known_for_its_fruit: false
+  known_for_its_scent: false
+  ground_cover: false
+  known_for_its_flowers: false
+  known_for_its_foliage: true
+  foliage_type: Evergreen
+  weed_invasive: false
+  seasonal_short_term: false
+  winter_interest: true
+  biodiversity_wildlife: false
+  interior_landscapes: false
+  suitable_for_hedging: true
+  habit: Bushy
+  flowers_present: true
+  flower_description:
+    - Flowers yellow-green, very small and inconspicuous
+    - Fleshy
+  fruit_present: true
+  fruit_description:
+    - Purple fruits on female plants, where both sexes are grown together.
+  leaf_description:
+    - Simple leaf form
+    - Opposite leaf arrangement
+  additional_information:
+    - Grown in coastal areas
+    - Grown for wind breaks
+    - Good for screening
+  images:
+   - plants/6/griselinia-littoralis/1.jpg
+   - plants/6/griselinia-littoralis/2.jpg
+   - plants/6/griselinia-littoralis/3.jpg
+   - plants/6/griselinia-littoralis/4.jpg
+  week: 6
+
+- id: hamamelis-mollis
+  botanical_name: Hamamelis mollis 'Pallida' (suttleworth cv.)
+  pronunciation: ham-uh-MEH-lis MAW-liss
+  common_name: Chinese witch hazel
+  description: Pallida is a large deciduous shrub with a spreading crown and broad oval leaves turning yellow in autumn.
+  classification:
+    - Shrub
+  ultimate_height: 2.5–4 metres
+  ultimate_spread: 2.5–4 metres
+  time_to_ultimate_height: 10–20 years
+  harmful_effects: None
+  native_to_uk: false
+  lime_avoiding: true
+  agm: false
+  light_requirements:
+    - Full sun
+    - Partial shade
+  hardiness_level: H5
+  exposure:
+    - Exposed
+    - Sheltered
+  major_plant_group: Angiosperm
+  rhs_url: https://www.rhs.org.uk/plants/77881/hamamelis-x-intermedia-pallida/details
+  climber_wall_shrub: false
+  known_for_its_fruit: false
+  known_for_its_scent: true
+  ground_cover: false
+  known_for_its_flowers: false
+  known_for_its_foliage: true
+  foliage_type: Deciduous
+  weed_invasive: false
+  seasonal_short_term: false
+  winter_interest: true
+  biodiversity_wildlife: false
+  interior_landscapes: false
+  suitable_for_hedging: false
+  habit: Bushy
+  flowers_present: true
+  flower_description:
+    - Cyme inflorescence
+    - Flowers bright sulphur-yellow
+    - Relatively broad petals and some scent
+    - Present in late winter
+  fruit_present: false
+  fruit_description:
+  leaf_description:
+    - Simple leaf form
+    - Alternate leaf arrangement
+    - Sinuate leaf margin
+    - Ovate leaf shape
+  additional_information:
+    - Likes a woodland environment
+    - Acid to neutral soils
+  images:
+    - plants/6/hamamelis-mollis/1.jpg
+    - plants/6/hamamelis-mollis/2.jpg
+    - plants/6/hamamelis-mollis/3.jpg
+    - plants/6/hamamelis-mollis/4.jpg
+    - plants/6/hamamelis-mollis/5.jpg
+  week: 6
+
+- id: phormium-tenax
+  botanical_name: Phormium tenax
+  pronunciation: FOR-mee-um TEN-aks
+  common_name: New Zealand flax
+  description: P. tenax is a robust evergreen perennial making a medium-sized clump of dark grey-green, strap-shaped leaves. Tubular, dull red flowers about 4cm in length, in a panicle to 4m in height
+  classification:
+    - Shrub
+  ultimate_height: 2.5–4 metres
+  ultimate_spread: 1.5–2.5 metres
+  time_to_ultimate_height: 10–20 years
+  harmful_effects: None
+  native_to_uk: false
+  lime_avoiding: true
+  agm: false
+  light_requirements:
+    - Full sun
+    - Partial shade
+  hardiness_level: H5
+  exposure:
+    - Exposed
+    - Sheltered
+  major_plant_group: Angiosperm
+  rhs_url: https://www.rhs.org.uk/plants/12791/phormium-tenax/details
+  climber_wall_shrub: false
+  known_for_its_fruit: false
+  known_for_its_scent: false
+  ground_cover: false
+  known_for_its_flowers: false
+  known_for_its_foliage: true
+  foliage_type: Evergreen
+  weed_invasive: false
+  seasonal_short_term: false
+  winter_interest: true
+  biodiversity_wildlife: false
+  interior_landscapes: false
+  suitable_for_hedging: false
+  habit: Clump forming
+  flowers_present: true
+  flower_description:
+    - Panicle inflorescence
+  fruit_present: false
+  fruit_description:
+  leaf_description:
+    - Simple leaf form
+    - Lanceolate leaf shape
+    - Entire leaf margin
+  additional_information:
+    - Fibres are strong and can be used to make rope
+    - Low maintenance
+  images:
+    - plants/6/phormium-tenax/1.jpg
+    - plants/6/phormium-tenax/2.jpg
+    - plants/6/phormium-tenax/3.jpg
+  week: 6
+
+- id: zamioculcas-zamiifolia
+  botanical_name: Zamioculcas zamiifolia
+  pronunciation: zam-ee-oh-KUL-kass zam-ee-FOH-lee-uh
+  common_name: fern arum / zz plant
+  description: an evergreen, rhizomatous perennial. The smooth, shiny leaves, 40-60cm long, arise directly from the ground, and have six to eight pairs of leaflets.
+  classification:
+    - Houseplant
+  ultimate_height: 0.5–1 metres
+  ultimate_spread: 0.5–1 metres
+  time_to_ultimate_height: 2–5 years
+  harmful_effects: None
+  native_to_uk: false
+  lime_avoiding: true
+  agm: true
+  light_requirements:
+    - Deep shade
+    - partial shade
+  hardiness_level: H1b
+  exposure:
+    - Sheltered
+  major_plant_group: Angiosperm
+  rhs_url: https://www.rhs.org.uk/plants/19185/zamioculcas-zamiifolia/details
+  climber_wall_shrub: false
+  known_for_its_fruit: false
+  known_for_its_scent: false
+  ground_cover: false
+  known_for_its_flowers: false
+  known_for_its_foliage: true
+  foliage_type: Deciduous
+  weed_invasive: false
+  seasonal_short_term: false
+  winter_interest: false
+  biodiversity_wildlife: false
+  interior_landscapes: true
+  suitable_for_hedging: false
+  habit: Bushy
+  flowers_present: true
+  flower_description:
+    - Spadix inflorescence
+    - Rarely flowers
+    - Sheath-like green spathe surrounds a white spadix (an upright spike of creamy white flowers).
+    - Appear among the leaf bases in summer
+  fruit_present: true
+  fruit_description:
+    - White berries
+  leaf_description:
+    - Fleshy
+    - Glossy
+    - Compound leaf form
+    - Alternate leaflet arrangement
+    - Elliptical leaflet shape
+    - Entire leaflet margin
+  additional_information:
+    - Thick petioles grow straight from the base
+    - Easy to grow
+    - Grow in acidic soil
+  images:
+    - plants/6/zamioculcas-zamiifolia/1.jpg
+    - plants/6/zamioculcas-zamiifolia/2.jpg
+    - plants/6/zamioculcas-zamiifolia/3.jpg
+    - plants/6/zamioculcas-zamiifolia/4.jpg
+    - plants/6/zamioculcas-zamiifolia/5.jpg
+  week: 6
+
+- id: clivia-miniata
+  botanical_name: Clivia miniata
+  pronunciation: KLIV-ee-ah min-ee-AY-tah
+  common_name: Natal lily
+  description: A perennial forming a clump of evergreen, strap-like leaves to 60cm in length, with erect stems bearing a terminal umbel of funnel-shaped, yellow-throated, orange-red flowers up to 7cm in length
+  classification:
+    - Perennial
+    - Houseplant
+  ultimate_height: 0.1–0.5 metres
+  ultimate_spread: 0.1–0.5 metres
+  time_to_ultimate_height: 2-5 years
+  harmful_effects: All parts may cause a stomach upset if ingested, sap may irritate skin. Wear gloves and other protective equipment when handling
+  native_to_uk: false
+  lime_avoiding: false
+  agm: true
+  light_requirements:
+    - Full sun
+    - Partial sun
+  hardiness_level: H1c
+  exposure:
+    - Sheltered
+  major_plant_group: Angiosperm
+  rhs_url: https://www.rhs.org.uk/plants/4036/clivia-miniata/details
+  climber_wall_shrub: false
+  known_for_its_fruit: false
+  known_for_its_scent: false
+  ground_cover: false
+  known_for_its_flowers: false
+  known_for_its_foliage: false
+  foliage_type: Evergreen
+  weed_invasive: false
+  seasonal_short_term: false
+  winter_interest: false
+  biodiversity_wildlife: false
+  interior_landscapes: true
+  suitable_for_hedging: false
+  habit: Clump forming
+  flowers_present: true
+  flower_description:
+    - Umbel inflorescence
+    - 2-3 inch long funnel-shaped flowers
+    - Yellow, orange, and red colours
+    - Has 10-20 blooms in each florescence
+  fruit_present: true
+  fruit_description:
+    - Seeds are large and round.
+    - They are borne in large, red, 1/2 in berries that ripen at least a year after the seed is set.
+  leaf_description:
+    - Simple leaf form
+    - Rosulate leaf arrangement
+    - Linear leaf shape
+    - Entire leaf margin
+  additional_information:
+    - Grow in loam based compost
+    - From South Africa
+  images:
+    - plants/6/clivia-miniata/1.jpg
+    - plants/6/clivia-miniata/2.jpg
+    - plants/6/clivia-miniata/3.jpg
+  week: 6
