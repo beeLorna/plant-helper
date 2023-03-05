@@ -1,0 +1,18 @@
+<h1>Quiz time!</h1>
+
+<%= form_with url: plant_quiz_answer_path, method: :post do |form| %>
+  <%# Send the plant to the answer so we know which plant to check the answer against. %>
+  <%= form.hidden_field :plant, value: @plant.id %>
+
+  <%= form.label :botanical_name do %>
+    <h2>What is the <em>botanical name</em> of the plant with this <em>common name</em>?</h2>
+    <p>“<%= @question_value %>”</p>
+  <% end %>
+  <%= form.text_field :botanical_name, style: "font-style: italic" %>
+
+  <%= form.submit "Am I right?" %>
+<% end %>
+
+<div id="result"></div>
+
+<p><%= link_to "Ask me another", plant_quiz_question_path %> | <%= link_to "Review this plant’s information", plant_path(@plant) %></p>
