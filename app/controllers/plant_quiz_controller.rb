@@ -1,7 +1,8 @@
 class PlantQuizController < ApplicationController
   def question
     @plant = Plant.all.sample
-    @question_value = @plant.common_name
+    @question_attribute = (params[:q] || "common_name").to_sym
+    @question_value = @plant[@question_attribute]
   end
 
   def answer
