@@ -5,7 +5,7 @@
   <%= form.hidden_field :plant, value: @plant.id %>
 
   <%= form.label :botanical_name do %>
-    <h2>What is the <em>botanical name</em> of the plant with this <em>common name</em>?</h2>
+    <h2>What is the <em>botanical name</em> of the plant with this <em><%= @question_attribute.to_s.humanize(capitalize: false) %></em>?</h2>
     <p>“<%= @question_value %>”</p>
   <% end %>
   <%= form.text_field :botanical_name, style: "font-style: italic" %>
