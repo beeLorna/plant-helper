@@ -3,12 +3,13 @@
 <%= form_with url: plant_quiz_answer_path, method: :post do |form| %>
   <%# Send the plant to the answer so we know which plant to check the answer against. %>
   <%= form.hidden_field :plant, value: @plant.id %>
+  <%= form.hidden_field :answer_attribute, value: @answer_attribute %>
 
-  <%= form.label :botanical_name do %>
-    <h2>What is the <em>botanical name</em> of the plant with this <em><%= @question_attribute.to_s.humanize(capitalize: false) %></em>?</h2>
+  <%= form.label @answer_attribute do %>
+    <h2>What is the <em><%= @answer_attribute.to_s.humanize(capitalize: false) %></em> of the plant with this <em><%= @question_attribute.to_s.humanize(capitalize: false) %></em>?</h2>
     <p>“<%= @question_value %>”</p>
   <% end %>
-  <%= form.text_field :botanical_name, style: "font-style: italic" %>
+  <%= form.text_field @answer_attribute, style: "font-style: italic" %>
 
   <%= form.submit "Am I right?" %>
 <% end %>
