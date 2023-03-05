@@ -4,4 +4,9 @@ Rails.application.routes.draw do
   # Defines the root path route ("/")
   root "plants#index"
   resources :plants, only: [:show]
+
+  scope :plant_quiz, as: :plant_quiz do
+    get :question, to: "plant_quiz#question"
+    post :answer, to: "plant_quiz#answer"
+  end
 end

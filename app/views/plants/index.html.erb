@@ -1,6 +1,9 @@
 <div class="column_container">
   <div>
     <h1>Plant Idents</h1>
+
+    <p><%= link_to "Quiz me!", plant_quiz_question_path %></p>
+
     <% grouped_plants = @plants.group_by {|plant| plant.week }%>
     <% grouped_plants.reverse_each do |week, plants| %>
       <h2>Week <%= week %></h2>
