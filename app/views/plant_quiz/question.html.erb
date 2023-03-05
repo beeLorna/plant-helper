@@ -7,7 +7,7 @@
 
   <%= form.label @answer_attribute do %>
     <h2>What is the <em><%= @answer_attribute.to_s.humanize(capitalize: false) %></em> of the plant with this <em><%= @question_attribute.to_s.humanize(capitalize: false) %></em>?</h2>
-    <p>“<%= @question_value %>”</p>
+    <p class="<%= @question_attribute %>">“<%= @question_value %>”</p>
   <% end %>
   <%= form.text_field @answer_attribute, style: "font-style: italic" %>
 
