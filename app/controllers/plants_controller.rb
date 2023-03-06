@@ -6,7 +6,7 @@ class PlantsController < ApplicationController
   end
 
   def index
-    @plants = Plant.all
+    @plants = Plant.order(week: :desc)
   end
 
   def show
