@@ -9,6 +9,14 @@ class PlantQuizController < ApplicationController
     if params[:q] && params[:a]
       @question_attribute = params[:q].to_sym
       @answer_attribute = params[:a].to_sym
+    elsif params[:q]
+      @question_attribute = params[:q].to_sym
+      combo = QUESTION_COMBINATIONS.select { |c| c[:question_attribute] == @question_attribute }.sample
+      @answer_attribute = combo[:answer_attribute] || :botanical_name
+    elsif params[:a]
+      @answer_attribute = params[:a].to_sym
+      combo = QUESTION_COMBINATIONS.select { |c| c[:answer_attribute] == @answer_attribute }.sample
+      @question_attribute = combo[:question_attribute] || :common_name
     else
       combo = QUESTION_COMBINATIONS.sample
       @question_attribute = combo[:question_attribute]
