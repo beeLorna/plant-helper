@@ -5,6 +5,7 @@
   description: An herbaceous perennial forming a clump of softly hairy, light green leaves with scalloped and toothed edges. Small, bright yellow flowers are borne in large sprays just above the foliage.
   classification:
     - Perennial
+  family_name: Rosaceae
   ultimate_height: 0.1–0.5 metres
   ultimate_spread: 0.1–0.5 metres
   time_to_ultimate_height: 2-5 years
@@ -69,6 +70,7 @@
   description: Better known as Ground Elder. A vigorous and invasive clump-forming perennial, it has soft green leaves and white flowers from spring through until the autumn
   classification:
     - Perennial
+  family_name: Apiaceae
   ultimate_height: 0.1–0.5 metres
   ultimate_spread: 1–1.5 metres
   time_to_ultimate_height: 2–5 years
@@ -126,6 +128,7 @@
   description: climbs with strong twining stems, has large heart-shaped leaves and large white trumpet flowers. It is most often seen as a hedgerow plant or weed, scrambling over and often smothering hedges and shrubs of all sizes and even smaller ornamental trees.
   classification:
     - Perennial
+  family_name: Convolvulaceae
   ultimate_height: 2.5-4 metres
   ultimate_spread: Unknown
   time_to_ultimate_height: Unknown
@@ -181,6 +184,7 @@
   description: A tap-rooted annual producing a rosette of toothed leaves which often overwinters. Tiny, white flowers are produced anytime from spring to autumn on upright stems to 40cm, followed by characteristic heart-shaped seed pods
   classification:
     - Ephemeral
+  family_name: Brassicaceae
   ultimate_height: 0.1–0.5 metres
   ultimate_spread: 0–0.1 metre
   time_to_ultimate_height: 1 year
@@ -240,6 +244,7 @@
   classification:
     - Tree
     - Shrub
+  family_name: Betulaceae
   ultimate_height: 4–8 metres
   ultimate_spread: 4–8 metres
   time_to_ultimate_height: 5–10 years
@@ -300,6 +305,7 @@
   classification:
     - Forb
     - Bulb
+  family_name: Liliaceae
   ultimate_height: 0.1–0.5 metres
   ultimate_spread: 0–0.1 metre
   time_to_ultimate_height: 2–5 years
@@ -354,6 +360,7 @@
   description: a vigorous large deciduous climber. Leaves with five ovate leaflets, turning bright red and orange in autumn.
   classification:
     - Perennial
+  family_name: Vitaceae
   ultimate_height: Higher than 12 metres
   ultimate_spread: 4–8 metres
   time_to_ultimate_height: 5–10 years
@@ -416,6 +423,7 @@
   classification:
     - Perennial
     - Aquatic
+  family_name: Pontederiaceae
   ultimate_height: 1–1.5 metres
   ultimate_spread: 0.5–1 metres
   time_to_ultimate_height: 5–10 years
@@ -471,6 +479,7 @@
   description: a clump-forming, erect herbaceous perennial to 60cm, with oval, dark green, roughly hairy leaves and black-eyed bright yellow daisies to 7cm in width from late summer to mid autumn
   classification:
     - Perennial
+  family_name: Asteraceae
   ultimate_height: 0.5–1 metres
   ultimate_spread: 0.1–0.5 metres
   time_to_ultimate_height: 2–5 years
@@ -528,6 +537,7 @@
   description: A tall herbaceous perennial with erect, branching stems to 2m in height, bearing sparse, oblong leaves and numerous branched clusters of small, purple flowers from summer to autumn
   classification:
     - Perennial
+  family_name: Verbenaceae
   ultimate_height: 1.5–2.5 metres
   ultimate_spread: 0.1–0.5 metres
   time_to_ultimate_height: 2–5 years

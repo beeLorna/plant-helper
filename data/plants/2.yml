@@ -6,6 +6,7 @@
   classification:
     - Perennial
     - Fern
+  family_name: Aspleniaceae
   ultimate_height: 0.1–0.5 metres
   ultimate_spread: 0.1–0.5 metres
   time_to_ultimate_height: 5-10 years
@@ -71,6 +72,7 @@
   description: A medium-sized bushy evergreen tree with narrow, leathery, very dark green leaves arranged in two rows on the shoots, and insignificant flowers followed on female plants by fleshy red fruits.
   classification:
     - Tree
+  family_name: Taxaceae
   ultimate_height: Higher than 12 metres
   ultimate_spread: Wider than 8 metres
   time_to_ultimate_height: 20–50 years
@@ -146,6 +148,7 @@
   description: A variable, evergreen, densely-branched, dome-shaped shrub, low and creeping or erect, from 0.5m to 7m in height (but typically up to 1.5m in cultivation).
   classification:
     - Shrub
+  family_name: Rutaceae
   ultimate_height: 1.5–2.5 metres
   ultimate_spread: 1–1.5 metres
   time_to_ultimate_height: 5–10 years
@@ -214,6 +217,7 @@
     - Sub-shrub
     - Shrub
     - Perennial
+  family_name: Apocynaceae
   ultimate_height: 0.1–0.5 metres
   ultimate_spread: 1.5–2.5 metres
   time_to_ultimate_height: 2–5 years
@@ -279,6 +283,7 @@
   classification:
     - Tree
     - Shrub
+  family_name: Buxaceae
   ultimate_height: 4–8 metres  metres
   ultimate_spread: 4–8 metres  metres
   time_to_ultimate_height: 10-20 years
@@ -348,6 +353,7 @@
   description: A bushy mediterranean shrub with a dense, leafy habit. It is known for its culinary useages and aromatic smell.
   classification:
     - Shrub
+  family_name: Lamiaceae
   ultimate_height: 1.5–2.5 metres
   ultimate_spread: 1.5–2.5 metres
   time_to_ultimate_height: 5-10 years
@@ -415,6 +421,7 @@
   description: A medium-sized semi-evergreen shrub, with arching branches, bearing small glossy oval leaves and clusters of pale pink, slightly fragrant flowers over a long period from mid-summer.
   classification:
     - Shrub
+  family_name: Caprifoliaceae
   ultimate_height: 2.5–4 metres
   ultimate_spread: 2.5–4 metres
   time_to_ultimate_height: 10-20 years
@@ -478,6 +485,7 @@
   description: A vigorous, self-clinging climber in its juvenile state, then produces bushy, non-clinging branches when becomes mature, along with flowers and fruits.
   classification:
     - Perennial
+  family_name: Araliaceae
   ultimate_height: 8–12 metres
   ultimate_spread: 2.5–4 metres
   time_to_ultimate_height: 10-20 years

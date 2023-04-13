@@ -5,6 +5,7 @@
   description: A large, fast-growing, dense conifer of columnar habit which can reach heights in excess of 30m if unchecked.
   classification:
     - Tree
+  family_name: Cupressaceae
   ultimate_height: Greater than 12 metres
   ultimate_spread: 4–8 metres
   time_to_ultimate_height: 10-20 years
@@ -64,6 +65,7 @@
   description: A stately evergreen tree with branches clothed in sharply pointed, triangular dark green leaves. Mature plants may bear cones on the upper branches, male and female usually on separate trees.
   classification:
     - Tree
+  family_name: Araucariaceae
   ultimate_height: Greater than 12 metres
   ultimate_spread: Wider than 8 metres
   time_to_ultimate_height: 20-50 years
@@ -124,6 +126,7 @@
   classification:
     - Tree
     - Shrub
+  family_name: Ericaceae
   ultimate_height: 4-8 metres
   ultimate_spread: 4-8 metres
   time_to_ultimate_height: 10-20 years
@@ -194,6 +197,7 @@
   description: A dense, medium-sized evergreen shrub.
   classification:
     - Shrub
+  family_name: Berberidaceae
   ultimate_height: 1.5–2.5 metres
   ultimate_spread: 1.5–2.5 metres
   time_to_ultimate_height: 10-20 years
@@ -262,6 +266,7 @@
   description: A medium-sized evergreen shrub of rounded habit with glossy, aromatic bright yellow, ternate leaves and small clusters of fragrant white flowers.
   classification:
     - Shrub
+  family_name: Rutaceae
   ultimate_height: 1.5–2.5 metres
   ultimate_spread: 1.5–2.5 metres
   time_to_ultimate_height: 10-20 years
@@ -326,6 +331,7 @@
   description: A small evergreen tree with several stout branches arising from a single trunk.
   classification:
     - Tree
+  family_name: Asparagaceae
   ultimate_height: 4–8 metres
   ultimate_spread: 2.5–4 metres
   time_to_ultimate_height: 20-50 years
@@ -389,6 +395,7 @@
   description: S. confusa is a bushy evergreen shrub to 2m, with glossy, deep green, wavy ovate leaves 3-5cm in length and, in winter, inconspicuous, very sweetly scented, creamy-white flowers, followed by glossy black berries.
   classification:
     - Shrub
+  family_name: Buxaceae
   ultimate_height: 1–1.5 metres
   ultimate_spread: 1–1.5 metres
   time_to_ultimate_height: 5-10 years
@@ -453,6 +460,7 @@
   description: A small spreading evergreen shrub, with elliptic, deep green, leathery, three-veined leaves and flattened heads of small dull white flowers followed on cross-pollinated plants by long-lasting 'metallic' blue-black berries.
   classification:
     - Shrub
+  family_name: Viburnaceae
   ultimate_height: 1–1.5 metres
   ultimate_spread: 1–1.5 metres
   time_to_ultimate_height: 10-20 years

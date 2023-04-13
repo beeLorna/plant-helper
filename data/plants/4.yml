@@ -5,6 +5,7 @@
   description: A large, broad-crowned deciduous tree. Leaves large, with 5-7 leaflets, turning red-brown early in autumn. Flowers creamy-white with a yellow spot that turns red with age. Fruit large, spiny.
   classification:
     - Tree
+  family_name: Sapindaceae
   ultimate_height: Higher than 12 metres
   ultimate_spread: Wider than 8 metres
   time_to_ultimate_height: 20-50 years
@@ -70,6 +71,7 @@
   classification:
     - Houseplant
     - Succulent
+  family_name: Asparagaceae
   ultimate_height: 1–1.5 metres
   ultimate_spread: 0.1–0.5 metres
   time_to_ultimate_height: 5-10 years
@@ -123,6 +125,7 @@
   description: I aquifolium is a large evergreen tree, slow-growing when young, with dark, glossy green, usually strongly spiny leaves. Small white flowers in spring are followed by bright red berries, on pollinated female plants.
   classification:
     - Tree
+  family_name: Aquifoliaceae
   ultimate_height: Higher than 12 metres
   ultimate_spread: 4–8 metres
   time_to_ultimate_height: 20-50 years
@@ -185,6 +188,7 @@
   description: Q. robur is a large deciduous tree developing a magnificent, broad crown, the leaves with shallow, rounded lobes, turning reddish-brown in autumn. Inconspicuous yellow-green catkins among the young leaves.
   classification:
     - Tree
+  family_name: Fagaceae
   ultimate_height: Higher than 12 metres
   ultimate_spread: Wider than 8 metres
   time_to_ultimate_height: 20-50 years
@@ -244,6 +248,7 @@
   description: P. serrula is a round-headed small deciduous tree, the trunk with shining coppery-brown young bark. Narrow leaves turn yellow in autumn. Flowers 2cm in width, white, in small clusters.
   classification:
     - Tree
+  family_name: Rosaceae
   ultimate_height: 8–12 metres
   ultimate_spread: Wider than 8 metres
   time_to_ultimate_height: 20-50 years
@@ -298,6 +303,7 @@
   classification:
     - Tree
     - Shrub
+  family_name: Oleaceae
   ultimate_height: 4–8 metres
   ultimate_spread: 2.5–4 metres
   time_to_ultimate_height: 10–20 years
@@ -356,6 +362,7 @@
   description: M. armeniacum is a strong-growing bulbous perennial to 20cm in height, with narrow, arching green leaves and erect stems bearing dense spikes of white-tipped, deep violet-blue, egg-shaped flowers 5mm in length in spring.
   classification:
     - Bulb
+  family_name: Asparagaceae
   ultimate_height: 0.1–0.5 metres
   ultimate_spread: 0–0.1 metre
   time_to_ultimate_height: 2-5 years
@@ -418,6 +425,7 @@
   classification:
     - Succulent
     - Alpine
+  family_name: Crassulaceae
   ultimate_height: Up to 10cm
   ultimate_spread: 0.1–0.5 metres
   time_to_ultimate_height: 5–10 years

@@ -6,6 +6,7 @@
   classification:
     - Perennial
     - Alpine
+  family_name: Plumbaginaceae
   ultimate_height: 0.1–0.5 metres
   ultimate_spread: 0.1–0.5 metres
   time_to_ultimate_height: 5-10 years
@@ -62,6 +63,7 @@
   description: A large, vigorous evergreen climber with leathery, dark glossy green trifoliate leaves up to 15cm long. Single, fragrant creamy-white flowers 5-6cm across with creamy stamens, in clusters in early to mid spring.
   classification:
     - Perennial
+  family_name: Ranunculaceae
   ultimate_height: 4–8 metres
   ultimate_spread: 1.5–2.5 metres
   time_to_ultimate_height: 5-10 years
@@ -123,6 +125,7 @@
   description: An evergreen or semi-evergreen shrub to 2m, usually erect, sparsely branched, but may be more bushy in cultivation.
   classification:
     - Shrub
+  family_name: Thymelaeaceae
   ultimate_height: 1.5–2.5 metres
   ultimate_spread: 1–1.5 metres
   time_to_ultimate_height:
@@ -186,6 +189,7 @@
   classification:
     - Tree
     - Shrub
+  family_name: Griseliniaceae
   ultimate_height: 4–8 metres
   ultimate_spread: 2.5–4 metres
   time_to_ultimate_height: 10-20 years
@@ -243,6 +247,7 @@
   description: Pallida is a large deciduous shrub with a spreading crown and broad oval leaves turning yellow in autumn.
   classification:
     - Shrub
+  family_name: Hamamelidaceae
   ultimate_height: 2.5–4 metres
   ultimate_spread: 2.5–4 metres
   time_to_ultimate_height: 10–20 years
@@ -304,6 +309,7 @@
   description: P. tenax is a robust evergreen perennial making a medium-sized clump of dark grey-green, strap-shaped leaves. Tubular, dull red flowers about 4cm in length, in a panicle to 4m in height
   classification:
     - Shrub
+  family_name: Asphodelaceae
   ultimate_height: 2.5–4 metres
   ultimate_spread: 1.5–2.5 metres
   time_to_ultimate_height: 10–20 years
@@ -359,6 +365,7 @@
   description: an evergreen, rhizomatous perennial. The smooth, shiny leaves, 40-60cm long, arise directly from the ground, and have six to eight pairs of leaflets.
   classification:
     - Houseplant
+  family_name: Araceae
   ultimate_height: 0.5–1 metres
   ultimate_spread: 0.5–1 metres
   time_to_ultimate_height: 2–5 years
@@ -424,6 +431,7 @@
   classification:
     - Perennial
     - Houseplant
+  family_name: Amaryllidaceae
   ultimate_height: 0.1–0.5 metres
   ultimate_spread: 0.1–0.5 metres
   time_to_ultimate_height: 2-5 years

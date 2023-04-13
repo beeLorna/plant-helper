@@ -5,6 +5,7 @@
   description: A small spreading deciduous tree with attractive peeling, papery chestnut-brown bark. Leaves with 3 leaflets, downy and whitish beneath, turning brilliant red and orange in autumn. Flowers small
   classification:
     - Tree
+  family_name: Sapindaceae
   ultimate_height: 8–12 metres
   ultimate_spread: 4–8 metres
   time_to_ultimate_height: 20-50 years
@@ -66,6 +67,7 @@
   description: A fast-growing perennial grass.
   classification:
     - Perennial
+  family_name: Poaceae
   ultimate_height: 1–1.5 metres
   ultimate_spread: 0.5–1 metres
   time_to_ultimate_height: 1 year
@@ -122,6 +124,7 @@
   description: Large, vigorous deciduous tree reaching 30m in height, with a broad, spreading crown. Leaves broadly elliptic, yellow-green in spring, rich golden copper to russet-brown in autumn. Small, green flowers in early spring, are followed by bristly fruits (nuts).
   classification:
     - Tree
+  family_name: Fagaceae
   ultimate_height: Higher than 12 metres
   ultimate_spread: Wider than 8 metres
   time_to_ultimate_height: 20–50 years
@@ -187,6 +190,7 @@
   description: L. muscari is an evergreen tuberous perennial forming a dense clump of narrow, arching, leathery, dark green leaves, with small violet-purple flowers carried in dense, erect spikes to 30cm in height in autumn, followed by black berries.
   classification:
     - Perennial
+  family_name: Asparagaceae
   ultimate_height: 0.1–0.5 metres
   ultimate_spread: 0.1–0.5 metres
   time_to_ultimate_height: 2–5 years
@@ -248,6 +252,7 @@
   classification:
     - Shrub
     - Houseplant
+  family_name: Araceae
   ultimate_height: 4–8 metres
   ultimate_spread: 1.5–2.5 metres
   time_to_ultimate_height: 10–20 years
@@ -310,6 +315,7 @@
   classification:
     - Perennial
     - Forb
+  family_name: Plantaginaceae
   ultimate_height: 0.1–0.5 metres
   ultimate_spread: 0.1–0.5 metres
   time_to_ultimate_height: 1 year
@@ -376,6 +382,7 @@
   classification:
     - Perennial
     - Aquatic
+  family_name: Ceratophyllaceae
   ultimate_height: 0.1–0.5 metres
   ultimate_spread: 0.1–0.5 metres
   time_to_ultimate_height: 1 year
@@ -431,6 +438,7 @@
   classification:
     - Perennial
     - Houseplant
+  family_name: Araceae
   ultimate_height: 0.1–0.5 metres
   ultimate_spread: 0.1–0.5 metres
   time_to_ultimate_height: 5-10 year

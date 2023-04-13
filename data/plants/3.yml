@@ -6,6 +6,7 @@
   classification:
     - Succulent
     - House
+  family_name: Asparagaceae
   ultimate_height: 1–1.5 metres
   ultimate_spread: 1–1.5 metres
   time_to_ultimate_height: 10-20 years
@@ -69,6 +70,7 @@
   description: A perennial to 12cm, with somewhat ivy-shaped leaves patterned with silvery-green, and pink, sometimes fragrant, flowers 2.5cm in width, darker around the mouth, opening before or with the leaves.
   classification:
     - Tuber
+  family_name: Primulaceae
   ultimate_height: Up to 10cm
   ultimate_spread: 0.1–0.5 metres
   time_to_ultimate_height: 5-10 years
@@ -128,6 +130,7 @@
   description: Kokuryu is an evergreen perennial to 20cm, forming dense tufts of arching, narrowly strap-shaped.
   classification:
     - Perennial
+  family_name: Asparagaceae
   ultimate_height: 0.1–0.5 metres
   ultimate_spread: 0.1–0.5 metres
   time_to_ultimate_height: 2-5 years
@@ -188,6 +191,7 @@
   description: Harvington pink speckled is a clump-forming, semi-evergreen herbaceous perennial.
   classification:
     - Perennial
+  family_name: Ranunculaceae
   ultimate_height: 0.1–0.5 metres
   ultimate_spread: 0.1–0.5 metres
   time_to_ultimate_height: 2-5 years
@@ -247,6 +251,7 @@
   description: A medium-sized evergreen shrub of open, spreading habit, with palmately-lobed leaves to 45cm in width and small white flowers in globose clusters. Fruits small, black.
   classification:
     - Shrub
+  family_name: Araliaceae
   ultimate_height: 2.5–4 metres
   ultimate_spread: 2.5–4 metres
   time_to_ultimate_height: 10–20 years
@@ -308,6 +313,7 @@
   description: A dense, medium-sized evergreen shrub with an erect habit.
   classification:
     - Shrub
+  family_name: Rosaceae
   ultimate_height: 2.5–4 metres
   ultimate_spread: 2.5–4 metres
   time_to_ultimate_height: 10–20 years
@@ -373,6 +379,7 @@
   description: A graceful evergreen bamboo producing large clumps of bright green canes 2.5-3.5m high becoming yellowish with age and exposure.
   classification:
     - Perennial
+  family_name: Poaceae
   ultimate_height: 4–8 metres
   ultimate_spread: 2.5–4 metres
   time_to_ultimate_height: 5-10 years
@@ -429,6 +436,7 @@
   description: A spreading shrub to 2m tall, with orange-red and yellow young shoot. Grown for the coloured stems which are brightest in winter.
   classification:
     - Shrub
+  family_name: Cornaceae
   ultimate_height: 1.5–2.5 metres
   ultimate_spread: 1.5–2.5 metres
   time_to_ultimate_height: 5-10 years
