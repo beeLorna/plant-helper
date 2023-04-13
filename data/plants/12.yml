@@ -1,0 +1,599 @@
+- id: achillea-millefoliums
+  botanical_name: Achillea millefolium
+  pronunciation: ak-ih-LEE-ah mill-ee-FOH-lee-um
+  common_name: common yarrow
+  description: A spreading stoloniferous perennial. Good wildlife.
+  classification:
+    - Perennial
+    - Forb
+  family_name: Asteraceae
+  ultimate_height: 0.1–0.5 metres
+  ultimate_spread: 0.1–0.5 metres
+  time_to_ultimate_height: 2–5 years
+  harmful_effects: None
+  native_to_uk: true
+  lime_avoiding: false
+  agm: false
+  light_requirements:
+    - Full sun
+  hardiness_level: H7
+  exposure:
+    - Exposed
+    - Sheltered
+  major_plant_group: Angiosperm
+  rhs_url: https://www.rhs.org.uk/plants/311/achillea-millefolium/details
+  climber_wall_shrub: false
+  known_for_its_fruit: false
+  known_for_its_scent: false
+  ground_cover: false
+  known_for_its_flowers: true
+  known_for_its_foliage: false
+  foliage_type: Deciduous
+  weed_invasive: false
+  seasonal_short_term: false
+  winter_interest: false
+  biodiversity_wildlife: true
+  interior_landscapes: false
+  suitable_for_hedging: false
+  habit: mat-forming or upright perennials
+  flowers_present: true
+  flower_description:
+    - Umbel inflorescence
+    - Distinctive smell
+    - small, cream or pink flowerheads in flat heads in summer
+  fruit_present: false
+  fruit_description:
+  leaf_description:
+    - Soft
+    - Finely pinnately dissected leaves
+    - Narrow
+  additional_information:
+    - Suitable for growing in a sunny situation in the in the wild garden or rock garden.
+    - Good for cutting and drying.
+  images:
+    - plants/12/achillea-millefolium/1.jpg
+    - plants/12/achillea-millefolium/2.jpg
+    - plants/12/achillea-millefolium/3.jpg
+  week: 12
+
+- id: bellis-perennis
+  botanical_name: Bellis perennis
+  pronunciation: BEL-iss per-EN-niss
+  common_name: daisy
+  description: An evergreen perennial forming rosettes of dark green, spoon-shaped leaves, with small, solitary, yellow-centred, pink-tinged, white daisies in late spring and summer
+  classification:
+    - Perennial
+    - Forb
+  family_name: Asteraceae
+  ultimate_height: Up to 10cm
+  ultimate_spread: 0–0.1 metre
+  time_to_ultimate_height: 2–5 years
+  harmful_effects: None
+  native_to_uk: true
+  lime_avoiding: false
+  agm: false
+  light_requirements:
+    - Full sun
+    - Partial shade
+  hardiness_level: H7
+  exposure:
+    - Exposed
+    - Sheltered
+  major_plant_group: Angiosperm
+  rhs_url: https://www.rhs.org.uk/plants/94326/bellis-perennis/details
+  climber_wall_shrub: false
+  known_for_its_fruit: false
+  known_for_its_scent: false
+  ground_cover: false
+  known_for_its_flowers: false
+  known_for_its_foliage: false
+  foliage_type: Evergreen
+  weed_invasive: true
+  seasonal_short_term: false
+  winter_interest: false
+  biodiversity_wildlife: true
+  interior_landscapes: false
+  suitable_for_hedging: false
+  habit: Matforming
+  flowers_present: true
+  flower_description:
+    - The flowers have white, pink, or red rays with a yellow center and are up to 2 inches across.
+    - It can be semi-double to double
+  fruit_present: false
+  fruit_description:
+  leaf_description:
+    - Simple leaf form
+    - Hairs present
+    - Obovate leaf shape
+    - Rosulate leaf arrangement
+    - This plant does not have leaves on the stem, only leaves near the base.
+  additional_information:
+    - Often associated with growing in lawns
+  images:
+   - plants/12/bellis-perennis/1.jpg
+   - plants/12/bellis-perennis/2.jpg
+   - plants/12/bellis-perennis/3.jpg
+   - plants/12/bellis-perennis/4.jpg
+  week: 12
+
+- id: forsythia-x-intermedia
+  botanical_name: Forsythia x intermedia
+  pronunciation: for-SYE-thee-uh cross in-tur-MEE-dee-uh
+  common_name: forsythia
+  description: A bushy, deciduous shrub to 1.5m high and wide, with elongated, toothed, occasionally 3-lobed leaves.
+  classification:
+    - Shrub
+  family_name: Oleaceae
+  ultimate_height: 1–1.5 metres
+  ultimate_spread: 1–1.5 metres
+  time_to_ultimate_height: 5–10 years
+  harmful_effects: false
+  native_to_uk: false
+  lime_avoiding: false
+  agm: false
+  light_requirements:
+    - Full sun
+    - Partial shade
+  hardiness_level: H5
+  exposure:
+    - Exposed
+    - Sheltered
+  major_plant_group: Angiosperm
+  rhs_url: https://www.rhs.org.uk/plants/94712/forsythia-intermedia/details
+  climber_wall_shrub: false
+  known_for_its_fruit: false
+  known_for_its_scent: false
+  ground_cover: false
+  known_for_its_flowers: true
+  known_for_its_foliage: false
+  foliage_type: Deciduous
+  weed_invasive: false
+  seasonal_short_term: false
+  winter_interest: false
+  biodiversity_wildlife: false
+  interior_landscapes: false
+  suitable_for_hedging: false
+  habit: Bushy
+  flowers_present: true
+  flower_description:
+    - Bright yellow flower
+    - 2.5-3.5cm across
+    - in groups of 2-3 in early to mid-spring before the leaves
+  fruit_present: false
+  fruit_description:
+  leaf_description:
+    - Simple leaf form
+    - Opposite leaf arrangement
+    - Lanceolate leaf shape
+    - Dentate leaf margin
+  additional_information:
+    - Flowers come out before the leaves
+  images:
+   - plants/12/forsythia-x-intermedia/1.jpg
+   - plants/12/forsythia-x-intermedia/2.jpg
+   - plants/12/forsythia-x-intermedia/3.jpg
+   - plants/12/forsythia-x-intermedia/4.jpg
+   - plants/12/forsythia-x-intermedia/5.jpg
+  week: 12
+
+- id: euphorbia-characias
+  botanical_name: Euphorbia characias subsp. wulfenii
+  pronunciation: You-FOR-bee-uh kuh-RAY-see-us
+  common_name: Mediterranean spurge
+  description: An erect, sparsely-branched medium-sized sub-shrub with oblong, grey-green leaves and large, rounded heads of greenish-yellow flowers
+  classification:
+    - Perennial
+  family_name: Euphorbiaceae
+  ultimate_height: 1–1.5 metres
+  ultimate_spread: 1–1.5 metres
+  time_to_ultimate_height: 2–5 years
+  harmful_effects: All parts are highly toxic by ingestion, sap may irritate skin and eyes.
+  native_to_uk: false
+  lime_avoiding: false
+  agm: false
+  light_requirements:
+    - Full sun
+  hardiness_level: H4
+  exposure:
+    - Sheltered
+  major_plant_group: Angiosperm
+  rhs_url: https://www.rhs.org.uk/plants/99051/i-euphorbia-characias-i-subsp-i-wulfenii-i/details
+  climber_wall_shrub: false
+  known_for_its_fruit: false
+  known_for_its_scent: false
+  ground_cover: false
+  known_for_its_flowers: true
+  known_for_its_foliage: true
+  foliage_type: Evergreen
+  weed_invasive: false
+  seasonal_short_term: false
+  winter_interest: false
+  biodiversity_wildlife: true
+  interior_landscapes: false
+  suitable_for_hedging: false
+  habit: Clumping, dense, erect
+  flowers_present: true
+  flower_description:
+    - Cup flower shape
+    - Petals are bracts
+    - Cyndrical clusters of greenish-yellow flowers held above the foliage appear in spring and are long-lasting.
+    - No true petals but has colorful cup-shaped bracts with purple nectar glands.
+  fruit_present: false
+  fruit_description:
+  leaf_description:
+    - Blue/green leaves
+    - Simple leaf form
+    - Whorled leaf arrangement
+    - Linear leaf shape
+    - Entire leaf margin
+  additional_information:
+    - Each stem lasts 2 years
+    - Stem grows first year, then flowers the second year.
+    - Drought resistance
+    - Good for coastal and gravel gardens
+  images:
+    - plants/12/euphorbia-characias/1.jpg
+    - plants/12/euphorbia-characias/2.jpg
+    - plants/12/euphorbia-characias/3.jpg
+  week: 12
+
+- id: lavandula-angustifolia
+  botanical_name: Lavandula angustifolia
+  pronunciation: lah-VAN-dew-lah an-gus-tih-FOH-lee-ah
+  common_name: English lavender
+  description: a compact, bushy shrub to 1m tall and rather more wide, with narrow, aromatic, grey-green leaves. In mid- and late summer it produces long, unbranched stalks carrying short, dense spikes of fragrant, pale to deep purple flowers
+  classification:
+    - Shrub
+  family_name: Lamiaceae
+  ultimate_height: 0.5–1 metres
+  ultimate_spread: 1–1.5 metres
+  time_to_ultimate_height: 2–5 years
+  harmful_effects: None
+  native_to_uk: false
+  lime_avoiding: false
+  agm: false
+  light_requirements:
+    - Full sun
+  hardiness_level: H5
+  exposure:
+    - Sheltered
+  major_plant_group: Angiosperm
+  rhs_url: https://www.rhs.org.uk/plants/91398/lavandula-angustifolia/details
+  climber_wall_shrub: false
+  known_for_its_fruit: false
+  known_for_its_scent: true
+  ground_cover: true
+  known_for_its_flowers: true
+  known_for_its_foliage: true
+  foliage_type: Evergreen
+  weed_invasive: false
+  seasonal_short_term: false
+  winter_interest: false
+  biodiversity_wildlife: true
+  interior_landscapes: false
+  suitable_for_hedging: true
+  habit: Bushy
+  flowers_present: true
+  flower_description:
+    - Spike inflorescence
+  fruit_present: false
+  fruit_description:
+  leaf_description:
+    - Grey/silver, green leaf colour
+    - Fragrant
+    - Simple leaf form
+    - Opposite leaf arrangement
+    - Lanceolate leaf shape
+    - Entire leaf margin
+  additional_information:
+    - Drought resistance
+    - Good for low hedging - Hidcot is a good variety for this
+    - Doesn't like heavy wet soil
+  images:
+    - plants/12/lavandula-angustifolia/1.jpg
+    - plants/12/lavandula-angustifolia/2.jpg
+    - plants/12/lavandula-angustifolia/3.jpg
+    - plants/12/lavandula-angustifolia/4.jpg
+  week: 12
+
+- id: lewisia-cotyledon
+  botanical_name: Lewisia cotyledon
+  pronunciation: lou-i-sia cot-all-don
+  common_name: Siskiyou lewisia
+  description: a rosette-forming evergreen perennial
+  classification:
+    - Alpine
+  family_name: Montiaceae
+  ultimate_height: 0.1–0.5 metres
+  ultimate_spread: 0.1–0.5 metres
+  time_to_ultimate_height: 2–5 years
+  harmful_effects: None
+  native_to_uk: false
+  lime_avoiding: true
+  agm: true
+  light_requirements:
+    - Partial shade
+  hardiness_level: H4
+  exposure:
+    - Exposed
+    - Sheltered
+  major_plant_group: Angiosperm
+  rhs_url: https://www.rhs.org.uk/plants/10041/lewisia-cotyledon/details
+  climber_wall_shrub: false
+  known_for_its_fruit: false
+  known_for_its_scent: false
+  ground_cover: false
+  known_for_its_flowers: true
+  known_for_its_foliage: false
+  foliage_type: Evergreen
+  weed_invasive: false
+  seasonal_short_term: false
+  winter_interest: false
+  biodiversity_wildlife: false
+  interior_landscapes: false
+  suitable_for_hedging: false
+  habit: Tufted
+  flowers_present: true
+  flower_description:
+    - Funnel-shaped purplish-pink, orange, yellow or white flowers.
+    - 1.5-2.5cm in width are borne in open sprays.
+  fruit_present: false
+  fruit_description:
+  leaf_description:
+    - fleshy, strap-shaped leaves
+  additional_information:
+    - Good for rock and gravel gardens
+  images:
+    - plants/12/lewisia-cotyledon/1.jpg
+    - plants/12/lewisia-cotyledon/2.jpg
+    - plants/12/lewisia-cotyledon/3.jpg
+    - plants/12/lewisia-cotyledon/4.jpg
+    - plants/12/lewisia-cotyledon/5.jpg
+    - plants/12/lewisia-cotyledon/6.jpg
+  week: 12
+
+- id: lonicera-periclymenum
+  botanical_name: Lonicera periclymenum 'Serotina'
+  pronunciation: lo-NIS-eh-ra per-ee-KLY-men-um
+  common_name: common honeysuckle
+  description: A vigorous, twining, large, deciduous climber with dark green, oval leaves whitish beneath. Flowers to 4cm in length, fragrant, deep red-purple outside, yellow within, in terminal clusters. Berries red
+  classification:
+    - Perennial
+  family_name: Caprifoliaceae
+  ultimate_height: 4–8 metres
+  ultimate_spread: 1–1.5 metres
+  time_to_ultimate_height: 5–10 years
+  harmful_effects: None
+  native_to_uk: true
+  lime_avoiding: false
+  agm: false
+  light_requirements:
+    - Full sun
+    - Partial shade
+  hardiness_level: H6
+  exposure:
+    - Exposed
+    - Sheltered
+  major_plant_group: Angiosperm
+  rhs_url: https://www.rhs.org.uk/plants/93077/lonicera-periclymenum-serotina/details
+  climber_wall_shrub: true
+  known_for_its_fruit: false
+  known_for_its_scent: true
+  ground_cover: false
+  known_for_its_flowers: true
+  known_for_its_foliage: false
+  foliage_type: Deciduous
+  weed_invasive: false
+  seasonal_short_term: false
+  winter_interest: false
+  biodiversity_wildlife: true
+  interior_landscapes: false
+  suitable_for_hedging: false
+  habit: Climbing
+  flowers_present: true
+  flower_description:
+    - Spike inflorescence
+    - Fragrant flowers that open ivory with a purple tinge.
+    - Found in whorls on spikes, clustered at the end of branches.
+  fruit_present: true
+  fruit_description:
+    - Berry
+    - Red/burgundy
+  leaf_description:
+    - Glossy
+    - Simple leaf form
+    - Opposite leaf arrangement
+    - Obovate leaf shape
+    - Entire leaf margin
+  additional_information:
+    - Shuttleworth cultivar
+  images:
+    - plants/12/lonicera-periclymenum/1.jpg
+    - plants/12/lonicera-periclymenum/2.jpg
+    - plants/12/lonicera-periclymenum/3.jpg
+    - plants/12/lonicera-periclymenum/4.jpg
+    - plants/12/lonicera-periclymenum/5.jpg
+  week: 12
+
+- id: stellaria-media
+  botanical_name: Stellaria media
+  pronunciation: stell-AR-ee-uh MEED-ee-uh
+  common_name: common chickweed
+  description: a semi-evergreen annual, growing all year round in mild weather, with fine, sprawling stems, small, bright green leaves
+  classification:
+    - Ephemeral
+  family_name: Caryophyllaceae
+  ultimate_height: 0.1–0.5 metres
+  ultimate_spread: 0.1–0.5 metres
+  time_to_ultimate_height: 1 year
+  harmful_effects: None
+  native_to_uk: true
+  lime_avoiding: false
+  agm: false
+  light_requirements:
+    - Full sun
+    - Partial shade
+  hardiness_level: H7
+  exposure:
+    - Exposed
+    - Sheltered
+  major_plant_group: Angiosperm
+  rhs_url: https://www.rhs.org.uk/plants/119111/stellaria-media/details
+  climber_wall_shrub: false
+  known_for_its_fruit: false
+  known_for_its_scent: false
+  ground_cover: false
+  known_for_its_flowers: false
+  known_for_its_foliage: false
+  foliage_type: Semi evergreen
+  weed_invasive: true
+  seasonal_short_term: false
+  winter_interest: false
+  biodiversity_wildlife: true
+  interior_landscapes: false
+  suitable_for_hedging: false
+  habit: Bushy
+  flowers_present: true
+  flower_description:
+    - Cyme inflorescence
+    - Tiny star-shaped white flowers from spring to autumn
+  fruit_present: false
+  fruit_description:
+  leaf_description:
+    - Simple leaf form
+    - Opposite leaf arrangement
+    - Elliptical leaf shape
+    - Entire leaf margin
+  additional_information:
+    - Grows naturally in cultivated ground and open areas and is a frequent garden weed
+    - Capable to re-root themselves if foliage is left on the soil
+  images:
+    - plants/12/stellaria-media/1.jpg
+    - plants/12/stellaria-media/2.jpg
+    - plants/12/stellaria-media/3.jpg
+    - plants/12/stellaria-media/4.jpg
+    - plants/12/stellaria-media/5.jpg
+  week: 12
+
+- id: symphyotrichum-novi-belgii
+  botanical_name: Symphyotrichum novi-belgii 'Fellowship'
+  pronunciation: sim-fy-oh-TRY-kum NO-vee BEL-gee-eye
+  common_name: New York aster
+  description: An upright perennial to 90cm tall, with narrow leaves and sprays of double, clear pink flowers to 6cm wide in autumn
+  classification:
+    - Perennial
+  family_name: Asteraceae
+  ultimate_height: 0.5–1 metres
+  ultimate_spread: 0.1–0.5 metres
+  time_to_ultimate_height: 2–5 years
+  harmful_effects: None
+  native_to_uk: false
+  lime_avoiding: false
+  agm: true
+  light_requirements:
+    - Full sun
+    - Partial shade
+  hardiness_level: H6
+  exposure:
+    - Exposed
+    - Sheltered
+  major_plant_group: Angiosperm
+  rhs_url: https://www.rhs.org.uk/plants/340226/symphyotrichum-novi-belgii-fellowship/details
+  climber_wall_shrub: false
+  known_for_its_fruit: false
+  known_for_its_scent: false
+  ground_cover: false
+  known_for_its_flowers: true
+  known_for_its_foliage: false
+  foliage_type: Evergreen
+  weed_invasive: false
+  seasonal_short_term: false
+  winter_interest: false
+  biodiversity_wildlife: false
+  interior_landscapes: false
+  suitable_for_hedging: false
+  habit: Bushy
+  flowers_present: true
+  flower_description:
+    - Numerous purple to pink ray flowers surrounds a yellow-orange center of disc flowers that mature in late summer to early fall.
+    - They are produced in terminal heads and are up to 2 inches across.
+    - Bracts overlap at base of the flower
+  fruit_present: false
+  fruit_description:
+  leaf_description:
+    - Simple leaf form
+    - Alternate leaf arrangement
+    - Lanceolate leaf shape
+    - Entire leaf margin
+  additional_information:
+    - Shuttleworth cultivar
+    - This cultivar has pink flowers
+    - Found in prairy planting
+    - Needs regular dividing to regenerate, every 3 years
+  images:
+    - plants/12/symphyotrichum-novi-belgii/1.jpg
+    - plants/12/symphyotrichum-novi-belgii/2.jpg
+    - plants/12/symphyotrichum-novi-belgii/3.jpg
+  week: 12
+
+- id: taraxacum-officinale
+  botanical_name: Taraxacum officinale
+  pronunciation: ta-RAKS-uh-kum oh-fiss-ih-NAH-lee
+  common_name: dandelion
+  description: An evergreen herbaceous perennial known as the 'dandelion' with upright purple stems and upright or horizontal dark green basal foliage growing from a main taproot.
+  classification:
+    - Perennial
+    - Forb
+  family_name: Asteraceae
+  ultimate_height: 0.1–0.5 metres
+  ultimate_spread: 0.1–0.5 metres
+  time_to_ultimate_height: 1 year
+  harmful_effects: None
+  native_to_uk: false
+  lime_avoiding: false
+  agm: false
+  light_requirements:
+    - Full sun
+    - Partial shade
+  hardiness_level: H7
+  exposure:
+    - Exposed
+    - Sheltered
+  major_plant_group: Angiosperm
+  rhs_url: https://www.rhs.org.uk/plants/232327/i-taraxacum-officinale-i/details
+  climber_wall_shrub: false
+  known_for_its_fruit: false
+  known_for_its_scent: false
+  ground_cover: false
+  known_for_its_flowers: false
+  known_for_its_foliage: false
+  foliage_type: Deciduous
+  weed_invasive: true
+  seasonal_short_term: false
+  winter_interest: false
+  biodiversity_wildlife: true
+  interior_landscapes: false
+  suitable_for_hedging: false
+  habit: Tufted
+  flowers_present: true
+  flower_description:
+    - Bright yellow ray flowers with toothed tips.
+    - Appear throughout the year on second-year plants.
+    - They are singular heads on their stems and the flowers close in the evening.
+  fruit_present: false
+  fruit_description:
+  leaf_description:
+    - Compound leaf form
+    - Rosulate leaf arrangement
+    - Oblanceolate leaf shape
+    - Dentate leaf margin
+  additional_information:
+    - Leaves are edible
+    - Often considered a weed
+    - Wispy tufted seed heads or 'dandelion clocks' which disperse in the wind.
+  images:
+    - plants/12/taraxacum-officinale/1.jpg
+    - plants/12/taraxacum-officinale/2.jpg
+    - plants/12/taraxacum-officinale/3.jpg
+    - plants/12/taraxacum-officinale/4.jpg
+  week: 12
