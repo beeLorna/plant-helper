@@ -1,3 +1,51 @@
+body {
+  margin: 0.5rem;
+}
+
 img {
   max-width: 350px;
+}
+
+li:not(:last-child) {
+  margin-bottom: 0.5em;
+}
+
+dl {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  column-gap: 2em;
+  row-gap: 1em;
+
+  dt {
+    flex-basis: 45%;
+    font-weight: bold;
+
+    &.long {
+      flex-basis: 100%;
+    }
+  }
+
+  dd {
+    margin: 0;
+    flex-basis: 40%;
+    flex-grow: 1;
+
+    &.long {
+      padding-left: 2em;
+      flex-basis: 100%;
+
+      :first-child {
+        margin-top: 0;
+      }
+
+      :last-child {
+        margin-bottom: 0;
+      }
+    }
+
+    ul {
+      padding-left: 1em;
+    }
+  }
 }

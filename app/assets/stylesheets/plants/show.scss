@@ -1,0 +1,75 @@
+.plants-show {
+  display: flex;
+  gap: 3rem;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+
+  &__photo-section {
+    display: flex;
+    gap: 1em;
+    align-items: center;
+    overflow-x: auto;
+
+    &__photo {
+      flex-shrink: 0;
+      max-width: 80%;
+
+      > img {
+        display: block;
+        width: 20rem;
+        max-width: 100%;
+      }
+    }
+  }
+
+  &__info-section {
+    max-width: 100%;
+    display: flex;
+    gap: 2rem;
+    flex-wrap: wrap;
+    align-items: flex-start;
+    justify-content: center;
+    text-align: left;
+
+    > details {
+      padding: 2em;
+      width: 20em;
+      max-width: 100%;
+
+      background-color: #bcd6b4;
+
+      > summary {
+        list-style: none;
+        display: flex;
+        align-items: center;
+
+        h2 {
+          margin-top: 0;
+          margin-bottom: 0;
+        }
+
+        &::after {
+          content: "▷";
+          margin-left: auto;
+          font-size: 1.6rem;
+          transition: transform 0.1s;
+        }
+      }
+
+      &[open] {
+        > summary {
+          margin-bottom: 2em;
+
+          &::after {
+            transform: rotate(90deg);
+          }
+        }
+      }
+
+      dl {
+        margin: 0;
+      }
+    }
+  }
+}

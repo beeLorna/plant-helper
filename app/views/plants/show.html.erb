@@ -1,180 +1,186 @@
 <%= link_to "Back", root_path %>
 
-<h1 class="botanical_name"><%= @plant.botanical_name %></h1>
-<% if @plant.shuttleworth_cultivar %>
-  <p>Shuttleworth cultivar</p>
-<% end %>
-
-<% if @plant.pronunciation %>
-  <p><%= @plant.pronunciation %></p>
-<% end %>
-
-<p><%= @plant.common_name %></p>
-
-<p><%= link_to "RHS plant page", @plant.rhs_url, target: :_blank %></p>
-
-<div>
-  <% @plant.images.each do |image| %>
-    <a href="<%= image_path image %>" target="_blank"><%= image_tag image %></a>
-  <% end %>
-</div>
-
-<p><%= @plant.description %></p>
-
-<details open>
-  <summary><h2>Botanical Details</h2></summary>
-  <dl>
-    <dt>Family name</dt>
-    <dd><%= @plant.family_name %></dd>
-
-    <dt>Major plant group</dt>
-    <dd><%= @plant.major_plant_group %></dd>
-
-    <dt>Classification</dt>
-    <dd><%= @plant.classification.join(", ") %></dd>
-
-    <dt>Foliage type</dt>
-    <dd><%= @plant.foliage_type %></dd>
-
-    <dt>AGM?</dt>
-    <dd><%= @plant.agm.humanize %></dd>
-
-    <dt>Native to the UK?</dt>
-    <dd><%= @plant.native_to_uk.humanize %></dd>
-  </dl>
-</details>
-
-<details>
-  <summary><h2>Size</h2></summary>
-  <dl>
-    <dt>Ultimate height</dt>
-    <dd><%= @plant.ultimate_height %></dd>
-
-    <dt>Ultimate spread</dt>
-    <dd><%= @plant.ultimate_spread %></dd>
-
-    <dt>Time to ultimate height</dt>
-    <dd><%= @plant.time_to_ultimate_height %></dd>
-  </dl>
-</details>
-
-<details>
-  <summary><h2>Growing Conditions</h2></summary>
-  <dl>
-    <dt>Lime avoiding?</dt>
-    <dd><%= @plant.lime_avoiding.humanize %></dd>
-
-    <dt>Light requirements</dt>
-    <dd><%= @plant.light_requirements.join(", ") %></dd>
-
-    <dt>Hardiness level</dt>
-    <dd><%= @plant.hardiness_level %></dd>
-
-    <dt>Exposure</dt>
-    <dd><%= @plant.exposure.join(", ") %></dd>
-  </dl>
-</details>
-
-<details>
-  <summary><h2>Appearance</h2></summary>
-  <dl>
-    <dt>Growing habit</dt>
-    <dd><%= @plant.habit %></dd>
-
-    <dt>Has flowers?</dt>
-    <dd><%= @plant.flowers_present.humanize %></dd>
-
-    <% if @plant.flowers_present %>
-      <dt>Flower description</dt>
-      <dd>
-        <ul>
-          <% @plant.flower_description.each do |info| %>
-            <li><%= info %></li>
-          <% end %>
-        </ul>
-      </dd>
+<div class="plants-show">
+  <div>
+    <h1 class="botanical_name"><%= @plant.botanical_name %></h1>
+    <% if @plant.shuttleworth_cultivar %>
+      <p>Shuttleworth cultivar</p>
     <% end %>
 
-    <dt>Has fruit?</dt>
-    <dd><%= @plant.fruit_present.humanize %></dd>
-
-    <% if @plant.fruit_present %>
-      <dt>Fruit description</dt>
-      <dd>
-        <ul>
-          <% @plant.fruit_description.each do |info| %>
-            <li><%= info %></li>
-          <% end %>
-        </ul>
-      </dd>
+    <% if @plant.pronunciation %>
+      <p><%= @plant.pronunciation %></p>
     <% end %>
 
-    <dt>Leaf description</dt>
-    <dd>
-      <ul>
-        <% @plant.leaf_description.each do |info| %>
-          <li><%= info %></li>
+    <p><%= @plant.common_name %></p>
+
+    <p><%= link_to "RHS plant page", @plant.rhs_url, target: :_blank %></p>
+  </div>
+
+  <div class="plants-show__photo-section">
+    <% @plant.images.each do |image| %>
+      <a class="plants-show__photo-section__photo" href="<%= image_path image %>" target="_blank"><%= image_tag image %></a>
+    <% end %>
+  </div>
+
+  <p><%= @plant.description %></p>
+
+  <div class="plants-show__info-section">
+    <details open>
+      <summary><h2>Botanical Details</h2></summary>
+      <dl>
+        <dt>Family name</dt>
+        <dd><%= @plant.family_name %></dd>
+
+        <dt>Major plant group</dt>
+        <dd><%= @plant.major_plant_group %></dd>
+
+        <dt>Classification</dt>
+        <dd><%= @plant.classification.join(", ") %></dd>
+
+        <dt>Foliage type</dt>
+        <dd><%= @plant.foliage_type %></dd>
+
+        <dt>AGM?</dt>
+        <dd><%= boolean_as_unicode(@plant.agm) %></dd>
+
+        <dt>Native to the UK?</dt>
+        <dd><%= boolean_as_unicode(@plant.native_to_uk) %></dd>
+      </dl>
+    </details>
+
+    <details open>
+      <summary><h2>Size</h2></summary>
+      <dl>
+        <dt>Ultimate height</dt>
+        <dd><%= @plant.ultimate_height %></dd>
+
+        <dt>Ultimate spread</dt>
+        <dd><%= @plant.ultimate_spread %></dd>
+
+        <dt>Time to ultimate height</dt>
+        <dd><%= @plant.time_to_ultimate_height %></dd>
+      </dl>
+    </details>
+
+    <details open>
+      <summary><h2>Growing Conditions</h2></summary>
+      <dl>
+        <dt>Lime avoiding?</dt>
+        <dd><%= boolean_as_unicode(@plant.lime_avoiding) %></dd>
+
+        <dt>Light requirements</dt>
+        <dd><%= @plant.light_requirements.join(", ") %></dd>
+
+        <dt>Hardiness level</dt>
+        <dd><%= @plant.hardiness_level %></dd>
+
+        <dt>Exposure</dt>
+        <dd><%= @plant.exposure.join(", ") %></dd>
+      </dl>
+    </details>
+
+    <details open>
+      <summary><h2>Appearance</h2></summary>
+      <dl>
+        <dt>Growing habit</dt>
+        <dd><%= @plant.habit %></dd>
+
+        <dt>Has flowers?</dt>
+        <dd><%= boolean_as_unicode(@plant.flowers_present) %></dd>
+
+        <% if @plant.flowers_present %>
+          <dt class="long">Flower description</dt>
+          <dd class="long">
+            <ul>
+              <% @plant.flower_description.each do |info| %>
+                <li><%= info %></li>
+              <% end %>
+            </ul>
+          </dd>
         <% end %>
-      </ul>
-    </dd>
-  </dl>
-</details>
 
-<% if @plant.harmful_effects %>
-  <details>
-    <summary><h2>Harmful Effects</h2></summary>
-    <p><%= @plant.harmful_effects %></p>
-  </details>
-<% end %>
+        <dt>Has fruit?</dt>
+        <dd><%= boolean_as_unicode(@plant.fruit_present) %></dd>
 
-<details>
-  <summary><h2>Common Selection Reasons</h2></summary>
-  <dl>
-    <dt>For its flowers?</dt>
-    <dd><%= @plant.known_for_its_flowers.humanize %></dd>
+        <% if @plant.fruit_present %>
+          <dt class="long">Fruit description</dt>
+          <dd class="long">
+            <ul>
+              <% @plant.fruit_description.each do |info| %>
+                <li><%= info %></li>
+              <% end %>
+            </ul>
+          </dd>
+        <% end %>
 
-    <dt>For its foliage?</dt>
-    <dd><%= @plant.known_for_its_foliage.humanize %></dd>
+        <dt class="long">Leaf description</dt>
+        <dd class="long">
+          <ul>
+            <% @plant.leaf_description.each do |info| %>
+              <li><%= info %></li>
+            <% end %>
+          </ul>
+        </dd>
+      </dl>
+    </details>
 
-    <dt>For its fruits?</dt>
-    <dd><%= @plant.known_for_its_fruit.humanize %></dd>
+    <% if @plant.harmful_effects %>
+      <details open>
+        <summary><h2>Harmful Effects</h2></summary>
+        <p><%= @plant.harmful_effects %></p>
+      </details>
+    <% end %>
 
-    <dt>For its scent?</dt>
-    <dd><%= @plant.known_for_its_scent.humanize %></dd>
+    <details open>
+      <summary><h2>Common Selection Reasons</h2></summary>
+      <dl>
+        <dt>For its flowers?</dt>
+        <dd><%= boolean_as_unicode(@plant.known_for_its_flowers) %></dd>
 
-    <dt>As climber or wall shrub?</dt>
-    <dd><%= @plant.climber_wall_shrub.humanize %></dd>
+        <dt>For its foliage?</dt>
+        <dd><%= boolean_as_unicode(@plant.known_for_its_foliage) %></dd>
 
-    <dt>For ground cover?</dt>
-    <dd><%= @plant.ground_cover.humanize %></dd>
+        <dt>For its fruits?</dt>
+        <dd><%= boolean_as_unicode(@plant.known_for_its_fruit) %></dd>
 
-    <dt>For hedging?</dt>
-    <dd><%= @plant.suitable_for_hedging.humanize %></dd>
+        <dt>For its scent?</dt>
+        <dd><%= boolean_as_unicode(@plant.known_for_its_scent) %></dd>
 
-    <dt>For interior landscapes?</dt>
-    <dd><%= @plant.interior_landscapes.humanize %></dd>
+        <dt>As climber or wall shrub?</dt>
+        <dd><%= boolean_as_unicode(@plant.climber_wall_shrub) %></dd>
 
-    <dt>As seasonal short-term plant?</dt>
-    <dd><%= @plant.seasonal_short_term.humanize %></dd>
+        <dt>For ground cover?</dt>
+        <dd><%= boolean_as_unicode(@plant.ground_cover) %></dd>
 
-    <dt>For winter interest?</dt>
-    <dd><%= @plant.winter_interest.humanize %></dd>
+        <dt>For hedging?</dt>
+        <dd><%= boolean_as_unicode(@plant.suitable_for_hedging) %></dd>
 
-    <dt>Beneficial to wildlife?</dt>
-    <dd><%= @plant.biodiversity_wildlife.humanize %></dd>
+        <dt>For interior landscapes?</dt>
+        <dd><%= boolean_as_unicode(@plant.interior_landscapes) %></dd>
 
-    <dt>Considered a weed or invasive?</dt>
-    <dd><%= @plant.weed_invasive.humanize %></dd>
-  </dl>
-</details>
+        <dt>As seasonal short-term plant?</dt>
+        <dd><%= boolean_as_unicode(@plant.seasonal_short_term) %></dd>
 
-<% if @plant.additional_information %>
-  <details>
-    <summary><h2>Additional Information</h2></summary>
-    <ul>
-      <% @plant.additional_information.each do |info| %>
-        <li><%= info %></li>
-      <% end %>
-    </ul>
-  </details>
-<% end %>
+        <dt>For winter interest?</dt>
+        <dd><%= boolean_as_unicode(@plant.winter_interest) %></dd>
+
+        <dt>Beneficial to wildlife?</dt>
+        <dd><%= boolean_as_unicode(@plant.biodiversity_wildlife) %></dd>
+
+        <dt>Considered a weed or invasive?</dt>
+        <dd><%= boolean_as_unicode(@plant.weed_invasive) %></dd>
+      </dl>
+    </details>
+
+    <% if @plant.additional_information %>
+      <details open>
+        <summary><h2>Additional Information</h2></summary>
+        <ul>
+          <% @plant.additional_information.each do |info| %>
+            <li><%= info %></li>
+          <% end %>
+        </ul>
+      </details>
+    <% end %>
+  </div>
+</div>
