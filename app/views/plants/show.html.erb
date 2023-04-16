@@ -162,15 +162,17 @@
     </div>
   </div>
 
-  <div class="column_container">
-    <div>
-      <h2>Additional information</h2>
+  <% if @plant.additional_information %>
+    <div class="column_container">
+      <div>
+        <h2>Additional information</h2>
 
-      <ul>
-        <% @plant.additional_information.each do |info| %>
-          <li><%= info %></li>
-        <% end %>
-      </ul>
+        <ul>
+          <% @plant.additional_information.each do |info| %>
+            <li><%= info %></li>
+          <% end %>
+        </ul>
+      </div>
     </div>
-  </div>
+  <% end %>
 </div>
