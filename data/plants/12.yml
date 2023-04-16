@@ -10,7 +10,6 @@
   ultimate_height: 0.1–0.5 metres
   ultimate_spread: 0.1–0.5 metres
   time_to_ultimate_height: 2–5 years
-  harmful_effects: None
   native_to_uk: true
   lime_avoiding: false
   agm: false
@@ -68,7 +67,6 @@
   ultimate_height: Up to 10cm
   ultimate_spread: 0–0.1 metre
   time_to_ultimate_height: 2–5 years
-  harmful_effects: None
   native_to_uk: true
   lime_avoiding: false
   agm: false
@@ -248,7 +246,6 @@
   ultimate_height: 0.5–1 metres
   ultimate_spread: 1–1.5 metres
   time_to_ultimate_height: 2–5 years
-  harmful_effects: None
   native_to_uk: false
   lime_avoiding: false
   agm: false
@@ -307,7 +304,6 @@
   ultimate_height: 0.1–0.5 metres
   ultimate_spread: 0.1–0.5 metres
   time_to_ultimate_height: 2–5 years
-  harmful_effects: None
   native_to_uk: false
   lime_avoiding: true
   agm: true
@@ -364,7 +360,6 @@
   ultimate_height: 4–8 metres
   ultimate_spread: 1–1.5 metres
   time_to_ultimate_height: 5–10 years
-  harmful_effects: None
   native_to_uk: true
   lime_avoiding: false
   agm: false
@@ -426,7 +421,6 @@
   ultimate_height: 0.1–0.5 metres
   ultimate_spread: 0.1–0.5 metres
   time_to_ultimate_height: 1 year
-  harmful_effects: None
   native_to_uk: true
   lime_avoiding: false
   agm: false
@@ -487,7 +481,6 @@
   ultimate_height: 0.5–1 metres
   ultimate_spread: 0.1–0.5 metres
   time_to_ultimate_height: 2–5 years
-  harmful_effects: None
   native_to_uk: false
   lime_avoiding: false
   agm: true
@@ -548,7 +541,6 @@
   ultimate_height: 0.1–0.5 metres
   ultimate_spread: 0.1–0.5 metres
   time_to_ultimate_height: 1 year
-  harmful_effects: None
   native_to_uk: false
   lime_avoiding: false
   agm: false
