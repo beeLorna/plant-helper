@@ -4,19 +4,34 @@
 
     <p><%= link_to "Quiz me!", plant_quiz_question_path %></p>
 
-    <% grouped_plants = @plants.group_by {|plant| plant.week }%>
-    <% grouped_plants.reverse_each do |week, plants| %>
-      <h2>Week <%= week %></h2>
-      <% plants.each do |plant| %>
-      <ul>
-          <li>
-            <span class="botanical_name">
-              <%= link_to plant.botanical_name, plant_path(plant) %>
-            </span>
-          </li>
-        </ul>
-      <% end %>
+    <%= form_with url: root_path, method: :get do |form| %>
+      <p>
+        Filter by:
+        <%= form.select :filter_name, [["None", nil], ["Week", :week]] %>
+        <%= form.text_field :filter_value %>
+        <%= form.submit "Go" %>
+      </p>
     <% end %>
+
+    <table>
+      <thead>
+        <tr>
+          <th>Botanical name</th>
+          <th>Common name</th>
+          <th>Week</th>
+        </tr>
+      </thead>
+
+      <tbody>
+        <% @plants.each do |plant| %>
+          <tr>
+            <td class="botanical_name"><%= link_to plant.botanical_name, plant_path(plant) %></td>
+            <td class="common_name"><%= plant.common_name %></td>
+            <td class="week"><%= plant.week %></td>
+          <tr>
+        <% end %>
+      </tbody>
+    </table>
   </div>
 
   <div class="column_container">
