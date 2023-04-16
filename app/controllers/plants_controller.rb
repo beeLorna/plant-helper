@@ -6,20 +6,24 @@ class PlantsController < ApplicationController
   end
 
   def index
-    @plants = if params[:filter_name].present? && params[:filter_value].present?
-      Plant.where(
-        params[:filter_name].to_sym =>
-        # We optimistically convert to an integer and filter by both string and
-        # integer forms, so we can handle integer inputs automatically without
-        # any custom logic to do different things for different attributes.
-        [params[:filter_value], params[:filter_value].to_i]
-      )
-    else
-      Plant.all.order(week: :desc)
+    filter = {}
+    index_filter_params.each do |key, value|
+      only_key_match = /^only_(?<attribute_name>.+)$/.match(key)
+      if only_key_match && ActiveModel::Type::Boolean.new.cast(value)
+        filter[only_key_match[:attribute_name].to_sym] = true
+      end
     end
+
+    @plants = Plant.where(filter).order(week: :desc)
   end
 
   def show
     @plant = Plant.find(params[:id])
+  end
+
+  private
+
+  def index_filter_params
+    params.permit(:only_shuttleworth_cultivar)
   end
 end
