@@ -185,7 +185,8 @@
   week: 3
 
 - id: helleborus-x-hybridus
-  botanical_name: Helleborus x hybridus 'Harvington Pink' (suttleworth cv.)
+  botanical_name: Helleborus x hybridus 'Harvington Pink'
+  shuttleworth_cultivar: true
   pronunciation: hell-a-bor-us cross hybrid-us
   common_name: hybrid Lenton rose
   description: Harvington pink speckled is a clump-forming, semi-evergreen herbaceous perennial.
@@ -232,7 +233,6 @@
     - Serrate leaf margin
     - Reticulate leaf venation
   additional_information:
-    - Shuttleworth cultivar
     - Part of the Ranunculaceae family - Buttercup
     - Will tolerate a wide range of conditions
     - Does best in fertile, moisture-retentive, humus-rich but well-drained soil which is preferably heavy, and neutral or alkaline.
@@ -430,7 +430,8 @@
   week: 3
 
 - id: cornus-sanguinea
-  botanical_name: Cornus sanguinea 'Midwinter Fire' (suttleworth cv.)
+  botanical_name: Cornus sanguinea 'Midwinter Fire'
+  shuttleworth_cultivar: true
   pronunciation:
   common_name: common dogwood
   description: A spreading shrub to 2m tall, with orange-red and yellow young shoot. Grown for the coloured stems which are brightest in winter.
@@ -479,7 +480,6 @@
     - Elliptic leaf shape
     - Undulate leaf margin
   additional_information:
-    - Shuttleworth cultivar
     - Part of the Cornaceae family
   images:
     - plants/3/cornus-sanguinea/1.jpg

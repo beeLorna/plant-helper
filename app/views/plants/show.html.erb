@@ -4,6 +4,9 @@
     <h1>
       <span class="botanical_name"><%= @plant.botanical_name %></span>
     </h1>
+    <% if @plant.shuttleworth_cultivar %>
+      <p>Shuttleworth cultivar</p>
+    <% end %>
 
     <h2>How to pronounce</h2>
 

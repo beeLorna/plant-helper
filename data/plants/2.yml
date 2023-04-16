@@ -209,7 +209,8 @@
   week: 2
 
 - id: vinca-major
-  botanical_name: Vinca major 'Variegata' (shuttleworth cv.)
+  botanical_name: Vinca major 'Variegata'
+  shuttleworth_cultivar: true
   pronunciation: vin-ka major
   common_name: greater periwinkle
   description: A vigorous evergreen sub-shrub forming a clump of erect stems bearing glossy ovate leaves and solitary violet-blue flowers.
@@ -264,7 +265,6 @@
     - Pinnate leaf venation
     - Opposite leaf arrangement on stem
   additional_information:
-    - Shuttleworth cultivar
     - Is vigorous and can be invasive
     - Long rooting sterile stems makes it effective ground cover
     - Easy to grow in all but the driest soils
@@ -479,7 +479,8 @@
   week: 2
 
 - id: hedera-helix
-  botanical_name: Hedera helix 'Parsley Crested' (shuttleworth cv.)
+  botanical_name: Hedera helix 'Parsley Crested'
+  shuttleworth_cultivar: true
   pronunciation:
   common_name: common ivy
   description: A vigorous, self-clinging climber in its juvenile state, then produces bushy, non-clinging branches when becomes mature, along with flowers and fruits.
@@ -533,7 +534,6 @@
     - Palmate venation
     - Ovate leaf shape in adult leaves
   additional_information:
-    - Shuttleworth cultivar
     - Drought resistant
     - Valuable to wildlife, providing shelter, habitat, nectar, pollen and berries
     - Shade tolerant

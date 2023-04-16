@@ -354,6 +354,7 @@
 
 - id: lonicera-periclymenum
   botanical_name: Lonicera periclymenum 'Serotina'
+  shuttleworth_cultivar: true
   pronunciation: lo-NIS-eh-ra per-ee-KLY-men-um
   common_name: common honeysuckle
   description: A vigorous, twining, large, deciduous climber with dark green, oval leaves whitish beneath. Flowers to 4cm in length, fragrant, deep red-purple outside, yellow within, in terminal clusters. Berries red
@@ -406,7 +407,6 @@
     - Obovate leaf shape
     - Entire leaf margin
   additional_information:
-    - Shuttleworth cultivar
   images:
     - plants/12/lonicera-periclymenum/1.jpg
     - plants/12/lonicera-periclymenum/2.jpg
@@ -477,6 +477,7 @@
 
 - id: symphyotrichum-novi-belgii
   botanical_name: Symphyotrichum novi-belgii 'Fellowship'
+  shuttleworth_cultivar: true
   pronunciation: sim-fy-oh-TRY-kum NO-vee BEL-gee-eye
   common_name: New York aster
   description: An upright perennial to 90cm tall, with narrow leaves and sprays of double, clear pink flowers to 6cm wide in autumn
@@ -526,7 +527,6 @@
     - Lanceolate leaf shape
     - Entire leaf margin
   additional_information:
-    - Shuttleworth cultivar
     - This cultivar has pink flowers
     - Found in prairy planting
     - Needs regular dividing to regenerate, every 3 years

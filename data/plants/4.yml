@@ -64,7 +64,8 @@
   week: 4
 
 - id: sansevieria-trifasciate
-  botanical_name: Sansevieria trifasciate 'Variegata' (suttleworth cv.)
+  botanical_name: Sansevieria trifasciate 'Variegata'
+  shuttleworth_cultivar: true
   pronunciation:
   common_name: mother-in-law's tongue / snake plant
   description:

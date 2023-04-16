@@ -241,7 +241,8 @@
   week: 6
 
 - id: hamamelis-mollis
-  botanical_name: Hamamelis mollis 'Pallida' (suttleworth cv.)
+  botanical_name: Hamamelis mollis 'Pallida'
+  shuttleworth_cultivar: true
   pronunciation: ham-uh-MEH-lis MAW-liss
   common_name: Chinese witch hazel
   description: Pallida is a large deciduous shrub with a spreading crown and broad oval leaves turning yellow in autumn.
