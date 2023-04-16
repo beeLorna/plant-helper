@@ -1,181 +1,180 @@
-<div class="column_container">
-  <div>
-    <%= link_to "Back", root_path %>
-    <h1>
-      <span class="botanical_name"><%= @plant.botanical_name %></span>
-    </h1>
-    <% if @plant.shuttleworth_cultivar %>
-      <p>Shuttleworth cultivar</p>
-    <% end %>
+<%= link_to "Back", root_path %>
 
-    <h2>How to pronounce</h2>
+<h1 class="botanical_name"><%= @plant.botanical_name %></h1>
+<% if @plant.shuttleworth_cultivar %>
+  <p>Shuttleworth cultivar</p>
+<% end %>
 
-    <p><%= @plant.pronunciation %></p>
+<% if @plant.pronunciation %>
+  <p><%= @plant.pronunciation %></p>
+<% end %>
 
-    <h2>Common Name</h2>
+<p><%= @plant.common_name %></p>
 
-    <p><%= @plant.common_name %></p>
+<p><%= link_to "RHS plant page", @plant.rhs_url, target: :_blank %></p>
 
-    <h2>Family Name</h2>
-
-    <p><%= @plant.family_name %></p>
-
-    <h2>Description</h2>
-
-    <p><%= @plant.description %></p>
-  </div>
-
-  <div class="column_container">
-    <% @plant.images.each do |image| %>
-      <a href="<%= image_path image %>" target="_blank"><%= image_tag image %></a>
-    <% end %>
-  </div>
+<div>
+  <% @plant.images.each do |image| %>
+    <a href="<%= image_path image %>" target="_blank"><%= image_tag image %></a>
+  <% end %>
 </div>
 
-<div class="column_container">
-  <div>
-    <h2>Botanical Details</h2>
+<p><%= @plant.description %></p>
 
-    <dl>
-      <dt>Classification:</dt>
-      <dd><%= @plant.classification.join(", ") %></dd>
+<details open>
+  <summary><h2>Botanical Details</h2></summary>
+  <dl>
+    <dt>Family name</dt>
+    <dd><%= @plant.family_name %></dd>
 
-      <dt>Ultimate height:</dt>
-      <dd><%= @plant.ultimate_height %></dd>
+    <dt>Major plant group</dt>
+    <dd><%= @plant.major_plant_group %></dd>
 
-      <dt>Ultimate spread:</dt>
-      <dd><%= @plant.ultimate_spread %></dd>
+    <dt>Classification</dt>
+    <dd><%= @plant.classification.join(", ") %></dd>
 
-      <dt>Time to ultimate height:</dt>
-      <dd><%= @plant.time_to_ultimate_height %></dd>
+    <dt>Foliage type</dt>
+    <dd><%= @plant.foliage_type %></dd>
 
-      <dt>Harmful effects:</dt>
-      <dd><%= @plant.harmful_effects %></dd>
+    <dt>AGM?</dt>
+    <dd><%= @plant.agm.humanize %></dd>
 
-      <dt>Native to the UK:</dt>
-      <dd><%= @plant.native_to_uk.humanize %></dd>
+    <dt>Native to the UK?</dt>
+    <dd><%= @plant.native_to_uk.humanize %></dd>
+  </dl>
+</details>
 
-      <dt>Lime avoiding:</dt>
-      <dd><%= @plant.lime_avoiding.humanize %></dd>
+<details>
+  <summary><h2>Size</h2></summary>
+  <dl>
+    <dt>Ultimate height</dt>
+    <dd><%= @plant.ultimate_height %></dd>
 
-      <dt>AGM:</dt>
-      <dd><%= @plant.agm.humanize %></dd>
+    <dt>Ultimate spread</dt>
+    <dd><%= @plant.ultimate_spread %></dd>
 
-      <dt>Light requirements:</dt>
-      <dd><%= @plant.light_requirements.join(", ") %></dd>
+    <dt>Time to ultimate height</dt>
+    <dd><%= @plant.time_to_ultimate_height %></dd>
+  </dl>
+</details>
 
-      <dt>Hardiness level:</dt>
-      <dd><%= @plant.hardiness_level %></dd>
+<details>
+  <summary><h2>Growing Conditions</h2></summary>
+  <dl>
+    <dt>Lime avoiding?</dt>
+    <dd><%= @plant.lime_avoiding.humanize %></dd>
 
-      <dt>Exposure:</dt>
-      <dd><%= @plant.exposure.join(", ") %></dd>
+    <dt>Light requirements</dt>
+    <dd><%= @plant.light_requirements.join(", ") %></dd>
 
-      <dt>Major plant group:</dt>
-      <dd><%= @plant.major_plant_group %></dd>
+    <dt>Hardiness level</dt>
+    <dd><%= @plant.hardiness_level %></dd>
 
-      <dt>RHS plant page:</dt>
-      <dd><%= link_to @plant.rhs_url, @plant.rhs_url, target: :_blank %></dd>
-    </dl>
-  </div>
+    <dt>Exposure</dt>
+    <dd><%= @plant.exposure.join(", ") %></dd>
+  </dl>
+</details>
 
-  <div class="column_container">
-    <div>
-      <h2>Useages the plant is often selected for</h2>
+<details>
+  <summary><h2>Appearance</h2></summary>
+  <dl>
+    <dt>Growing habit</dt>
+    <dd><%= @plant.habit %></dd>
 
-      <dl>
-        <dt>Grown as a climber or a wall shrub:</dt>
-        <dd><%= @plant.climber_wall_shrub.humanize %></dd>
+    <dt>Has flowers?</dt>
+    <dd><%= @plant.flowers_present.humanize %></dd>
 
-        <dt>Grown for its fruits:</dt>
-        <dd><%= @plant.known_for_its_fruit.humanize %></dd>
-
-        <dt>Grown for its scent:</dt>
-        <dd><%= @plant.known_for_its_scent.humanize %></dd>
-
-        <dt>Good for ground cover:</dt>
-        <dd><%= @plant.ground_cover.humanize %></dd>
-
-        <dt>Grown for its flowers:</dt>
-        <dd><%= @plant.known_for_its_flowers.humanize %></dd>
-
-        <dt>Grown for its foliage:</dt>
-        <dd><%= @plant.known_for_its_foliage.humanize %></dd>
-
-        <dt>Foliage type:</dt>
-        <dd><%= @plant.foliage_type %></dd>
-
-        <dt>Considered a weed or invasive:</dt>
-        <dd><%= @plant.weed_invasive.humanize %></dd>
-
-        <dt>Seasonal short-term plant:</dt>
-        <dd><%= @plant.seasonal_short_term.humanize %></dd>
-
-        <dt>Winter interest:</dt>
-        <dd><%= @plant.winter_interest.humanize %></dd>
-
-        <dt>Beneficial to wildlife:</dt>
-        <dd><%= @plant.biodiversity_wildlife.humanize %></dd>
-
-        <dt>Used for interior landscapes:</dt>
-        <dd><%= @plant.interior_landscapes.humanize %></dd>
-
-        <dt>Suitable for hedging:</dt>
-        <dd><%= @plant.suitable_for_hedging.humanize %></dd>
-      </dl>
-    </div>
-  </div>
-
-  <div class="column_container">
-    <div>
-      <h2>Appearance</h2>
-
-      <dl>
-        <dt>Habit:</dt>
-        <dd><%= @plant.habit %></dd>
-
-        <dt>Flowers:</dt>
-        <dd><%= @plant.flowers_present.humanize %></dd>
-
-        <% if @plant.flowers_present == true %>
-          <dt>Flower description:</dt>
-          <dd><% @plant.flower_description.each do |info| %>
-            <li><%= info %></li>
-          <% end %>
-          </dd>
-        <% end %>
-
-        <dt>Fruit:</dt>
-        <dd><%= @plant.fruit_present.humanize %></dd>
-
-        <% if @plant.fruit_present == true %>
-          <dt>Fruit description:</dt>
-          <dd><% @plant.fruit_description.each do |info| %>
-            <li><%= info %></li>
-          <% end %>
-          </dd>
-        <% end %>
-
-        <dt>Leaf description:</dt>
-        <dd>
-          <% @plant.leaf_description.each do |info| %>
-            <li><%= info %></li>
-          <% end %>
-        </dd>
-      </dl>
-    </div>
-  </div>
-
-  <% if @plant.additional_information %>
-    <div class="column_container">
-      <div>
-        <h2>Additional information</h2>
-
+    <% if @plant.flowers_present %>
+      <dt>Flower description</dt>
+      <dd>
         <ul>
-          <% @plant.additional_information.each do |info| %>
+          <% @plant.flower_description.each do |info| %>
             <li><%= info %></li>
           <% end %>
         </ul>
-      </div>
-    </div>
-  <% end %>
-</div>
+      </dd>
+    <% end %>
+
+    <dt>Has fruit?</dt>
+    <dd><%= @plant.fruit_present.humanize %></dd>
+
+    <% if @plant.fruit_present %>
+      <dt>Fruit description</dt>
+      <dd>
+        <ul>
+          <% @plant.fruit_description.each do |info| %>
+            <li><%= info %></li>
+          <% end %>
+        </ul>
+      </dd>
+    <% end %>
+
+    <dt>Leaf description</dt>
+    <dd>
+      <ul>
+        <% @plant.leaf_description.each do |info| %>
+          <li><%= info %></li>
+        <% end %>
+      </ul>
+    </dd>
+  </dl>
+</details>
+
+<% if @plant.harmful_effects %>
+  <details>
+    <summary><h2>Harmful Effects</h2></summary>
+    <p><%= @plant.harmful_effects %></p>
+  </details>
+<% end %>
+
+<details>
+  <summary><h2>Common Selection Reasons</h2></summary>
+  <dl>
+    <dt>For its flowers?</dt>
+    <dd><%= @plant.known_for_its_flowers.humanize %></dd>
+
+    <dt>For its foliage?</dt>
+    <dd><%= @plant.known_for_its_foliage.humanize %></dd>
+
+    <dt>For its fruits?</dt>
+    <dd><%= @plant.known_for_its_fruit.humanize %></dd>
+
+    <dt>For its scent?</dt>
+    <dd><%= @plant.known_for_its_scent.humanize %></dd>
+
+    <dt>As climber or wall shrub?</dt>
+    <dd><%= @plant.climber_wall_shrub.humanize %></dd>
+
+    <dt>For ground cover?</dt>
+    <dd><%= @plant.ground_cover.humanize %></dd>
+
+    <dt>For hedging?</dt>
+    <dd><%= @plant.suitable_for_hedging.humanize %></dd>
+
+    <dt>For interior landscapes?</dt>
+    <dd><%= @plant.interior_landscapes.humanize %></dd>
+
+    <dt>As seasonal short-term plant?</dt>
+    <dd><%= @plant.seasonal_short_term.humanize %></dd>
+
+    <dt>For winter interest?</dt>
+    <dd><%= @plant.winter_interest.humanize %></dd>
+
+    <dt>Beneficial to wildlife?</dt>
+    <dd><%= @plant.biodiversity_wildlife.humanize %></dd>
+
+    <dt>Considered a weed or invasive?</dt>
+    <dd><%= @plant.weed_invasive.humanize %></dd>
+  </dl>
+</details>
+
+<% if @plant.additional_information %>
+  <details>
+    <summary><h2>Additional Information</h2></summary>
+    <ul>
+      <% @plant.additional_information.each do |info| %>
+        <li><%= info %></li>
+      <% end %>
+    </ul>
+  </details>
+<% end %>
