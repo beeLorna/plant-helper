@@ -19,6 +19,7 @@
           <th>Botanical name</th>
           <th>Common name</th>
           <th>Week</th>
+          <th>Shuttleworth cv.</th>
         </tr>
       </thead>
 
@@ -28,6 +29,11 @@
             <td class="botanical_name"><%= link_to plant.botanical_name, plant_path(plant) %></td>
             <td class="common_name"><%= plant.common_name %></td>
             <td class="week"><%= plant.week %></td>
+            <td class="shuttleworth_cultivar">
+              <% if plant.shuttleworth_cultivar %>
+                ✔
+              <% end %>
+            </td>
           <tr>
         <% end %>
       </tbody>
