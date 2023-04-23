@@ -1,0 +1,591 @@
+- id: astrantia-major
+  botanical_name: Astrantia major 'Button Cerise'
+  shuttleworth_cultivar: true
+  pronunciation: as-tran-tia major
+  common_name: greater masterwort
+  description: An erect, clump-forming perennial with scarcely 3-5-lobed leaves, and flower stems to 60cm, bearing flower heads in stalked, compound umbels. Clusters of tiny, whitish-green flowers are surrounded by petal-like bracteoles which are whitish, tinged with green and pink, with conspicuous veining. Several subspecies of this plant have contributed to the many garden selections
+  classification:
+    - Perennial
+  family_name: Apiaceae
+  ultimate_height: 0.5–1 metres
+  ultimate_spread: 0.1–0.5 metres
+  time_to_ultimate_height: 2–5 years
+  native_to_uk: false
+  lime_avoiding: true
+  agm: false
+  light_requirements:
+    - Full sun
+    - Partial sun
+  hardiness_level: H7
+  exposure:
+    - Exposed
+    - Sheltered
+  major_plant_group: Angiosperm
+  rhs_url: https://www.rhs.org.uk/plants/1870/astrantia-major/details
+  climber_wall_shrub: false
+  known_for_its_fruit: false
+  known_for_its_scent: false
+  ground_cover: false
+  known_for_its_flowers: true
+  known_for_its_foliage: false
+  foliage_type: Deciduous
+  weed_invasive: false
+  seasonal_short_term: false
+  winter_interest: false
+  biodiversity_wildlife: true
+  interior_landscapes: false
+  suitable_for_hedging: false
+  habit: Bushy
+  flowers_present: true
+  flower_description:
+    - flower heads in stalked, compound umbels
+    - Clusters of tiny, whitish-green flowers are surrounded by petal-like bracteoles
+  fruit_present: false
+  fruit_description:
+  leaf_description:
+    - palmately lobed basal leaves
+  additional_information:
+    - Likes chalk and sandy soils
+    - Does well in shade
+    - Flower for a long time
+  images:
+    - plants/13/astrantia-major/1.jpg
+    - plants/13/astrantia-major/2.jpg
+    - plants/13/astrantia-major/3.jpg
+    - plants/13/astrantia-major/4.jpg
+    - plants/13/astrantia-major/5.jpg
+    - plants/13/astrantia-major/6.jpg
+  week: 13
+
+- id: canna-indica
+  botanical_name: Canna indica 'Mactro'
+  shuttleworth_cultivar: true
+  pronunciation: KAN-uh IN-dih-kuh
+  common_name: Indian shot
+  description: Upright perennial to 1.5m tall, with striking green and gold striped lance-shaped leaves. Large golden-yellow flowers with dark orange speckled throats are produced on upright stems in the summer.
+  classification:
+    - Perennial
+    - Rhizome
+  family_name: Cannaceae
+  ultimate_height: 1.5–2.5 metres
+  ultimate_spread: 0.1–0.5 metres
+  time_to_ultimate_height: 2–5 years
+  native_to_uk: false
+  lime_avoiding: false
+  agm: false
+  light_requirements:
+    - Full sun
+  hardiness_level: H3
+  exposure:
+    - Sheltered
+  major_plant_group: Angiosperm
+  rhs_url: https://www.rhs.org.uk/plants/177887/canna-indica-tropicanna-gold-mactro-(pbr)/details
+  climber_wall_shrub: false
+  known_for_its_fruit: false
+  known_for_its_scent: false
+  ground_cover: false
+  known_for_its_flowers: true
+  known_for_its_foliage: true
+  foliage_type: Deciduous
+  weed_invasive: false
+  seasonal_short_term: true
+  winter_interest: false
+  biodiversity_wildlife: false
+  interior_landscapes: false
+  suitable_for_hedging: false
+  habit: Clump forming
+  flowers_present: true
+  flower_description:
+    - The flower is a single terminal spike-like inflorescence at the top of the stalk.
+  fruit_present: false
+  fruit_description:
+  leaf_description:
+    - Simple leaf form
+    - Alternate leaf arrangement
+    - Elliptical leaf shape
+    - Entire leaf margin
+  additional_information:
+    - Likes a lot of moisture
+    - Can grow in most pH's
+  images:
+    - plants/13/canna-indica/1.jpg
+    - plants/13/canna-indica/2.jpg
+    - plants/13/canna-indica/3.jpg
+  week: 13
+
+- id: cosmos-bipinnatus
+  botanical_name: Cosmos bipinnatus
+  pronunciation: COS-mos bye-pin-NAY-tus
+  common_name: Cosmea
+  description: A tall, bushy annual to 2.5m, with very finely divided, mid-green leaves, and large flowers to 8cm across, usually white or pink the wide outer rays surround a central disc of tightly clustered, usually yellow, inner disc florets. Flowering late summer and into autumn, until frost occurs. Many named cultivars and selections are available, including doubles, forms with tubular rays, and picotee colours
+  classification:
+    - Annual
+  family_name: Asteraceae
+  ultimate_height: 1.5–2.5 metres
+  ultimate_spread: 0.1–0.5 metres
+  time_to_ultimate_height: 1-2 years
+  native_to_uk: false
+  lime_avoiding: false
+  agm: false
+  light_requirements:
+    - Full sun
+  hardiness_level: H3
+  exposure:
+    - Exposed
+    - Sheltered
+  major_plant_group: Angiosperm
+  rhs_url: https://www.rhs.org.uk/plants/30717/cosmos-bipinnatus/details
+  climber_wall_shrub: false
+  known_for_its_fruit: false
+  known_for_its_scent: false
+  ground_cover: false
+  known_for_its_flowers: true
+  known_for_its_foliage: false
+  foliage_type: Deciduous
+  weed_invasive: false
+  seasonal_short_term: true
+  winter_interest: false
+  biodiversity_wildlife: true
+  interior_landscapes: false
+  suitable_for_hedging: false
+  habit: Columnar upright
+  flowers_present: true
+  flower_description:
+    - Flower head
+    - Saucer-shaped daisy-like blooms
+  fruit_present: false
+  fruit_description:
+  leaf_description:
+    - Compound leaf form
+    - Opposite leaf arrangement
+    - Pinnatisect leaf shape
+    - Entire leaf margin
+  additional_information:
+    - Grow in moderately fertile, moist, but well-drained soil in full sun.
+    - Deadhead flowers to prologue flowering season.
+    - Leave a few seedheads to ripen to selfseed if required
+  images:
+    - plants/13/cosmos-bipinnatus/1.jpg
+    - plants/13/cosmos-bipinnatus/2.jpg
+    - plants/13/cosmos-bipinnatus/3.jpg
+    - plants/13/cosmos-bipinnatus/4.jpg
+  week: 13
+
+- id: echinacea-purpurea
+  botanical_name: Echinacea purpurea 'Little Magnus'
+  shuttleworth_cultivar: true
+  pronunciation: ek-in-AY-shee-ah pur-PUR-ee-ah
+  common_name: purple coneflower
+  description: Little Magnus is a compact cultivar, reaching just 45cm high, with toothed, dark green leaves. Flowers are made up of large, pink, horizontal ray florets surrounding the dark orange-brown cones, in summer and autumn
+  classification:
+    - Perennial
+  family_name: Asteraceae
+  ultimate_height: 0.1–0.5 metres
+  ultimate_spread: 0.1–0.5 metres
+  time_to_ultimate_height: 2-5 years
+  native_to_uk: false
+  lime_avoiding: false
+  agm: false
+  light_requirements:
+    - Full sun
+    - Partial shade
+  hardiness_level: H5
+  exposure:
+    - Exposed
+    - Sheltered
+  major_plant_group: Angiosperm
+  rhs_url: https://www.rhs.org.uk/plants/249880/echinacea-purpurea-little-magnus-pbr/details
+  climber_wall_shrub: false
+  known_for_its_fruit: false
+  known_for_its_scent: false
+  ground_cover: false
+  known_for_its_flowers: true
+  known_for_its_foliage: false
+  foliage_type: Deciduous
+  weed_invasive: false
+  seasonal_short_term: false
+  winter_interest: false
+  biodiversity_wildlife: true
+  interior_landscapes: false
+  suitable_for_hedging: false
+  habit: Bushy
+  flowers_present: true
+  flower_description:
+    - Flower head
+    - Flowers occur singly atop stiff stems.
+    - Has domed, purplish-brown, spiny disc flowers in the center.
+    - Has drooping, lavender rays around them in daisy-like fashion.
+  fruit_present: false
+  fruit_description:
+  leaf_description:
+    - Simple leaf form
+    - Alternate leaf arrangement
+    - Lanceolate leaf shape
+    - Dentate to entire leaf margin
+  additional_information:
+    - Good for cottage, prairy and wildlife gardens.
+    - Good cut flower
+    - Seed heads are good for winter structure
+  images:
+    - plants/13/echinacea-purpurea/1.jpg
+    - plants/13/echinacea-purpurea/2.jpg
+    - plants/13/echinacea-purpurea/3.jpg
+  week: 13
+
+- id: heliotropium-arborescens
+  botanical_name: Heliotropium arborescens
+  pronunciation: hee-lee-oh-TROH-pee-um ar-bor-ESS-enz
+  common_name: common heliotrope
+  description: tender perennial shrub grown as a summer annual or container plant.
+  classification:
+    - Perennial
+  family_name: Boraginaceae
+  ultimate_height: 0.1–0.5 metres
+  ultimate_spread: 0.1–0.5 metres
+  time_to_ultimate_height: 1-2 years
+  harmful_effects: All parts of the plant are poisonous, but toxic to humans only if consumed in large quantities
+  native_to_uk: false
+  lime_avoiding: false
+  agm: false
+  light_requirements:
+    - Full sun
+    - Partial shade
+  hardiness_level: H
+  exposure:
+    - Exposed
+    - Sheltered
+  major_plant_group: Angiosperm
+  rhs_url: https://www.rhs.org.uk/plants/90613/heliotropium-arborescens/details
+  climber_wall_shrub: false
+  known_for_its_fruit: false
+  known_for_its_scent: true
+  ground_cover: false
+  known_for_its_flowers: true
+  known_for_its_foliage: false
+  foliage_type: Deciduous
+  weed_invasive: false
+  seasonal_short_term: true
+  winter_interest: false
+  biodiversity_wildlife: true
+  interior_landscapes: false
+  suitable_for_hedging: false
+  habit: Bushy
+  flowers_present: true
+  flower_description:
+    - Flowers smell sweet like cherries
+    - Flowers grow in clusters
+    - Tiny flowers which are formed in a dome or flattened flower head.
+    - Flowers are small, on a slender, coiled, stem.
+    - The buds are a deep lilac and lighten with age to almost white.
+  fruit_present: false
+  fruit_description:
+  leaf_description:
+    - Simple leaf form
+    - Alternate leaf arrangement
+    - Ovate leaf shape
+  additional_information:
+    - Often used as bedding
+    - Likes dry, sandy sites
+    - Flowers are particularly attractive to butterflies.
+    - Was popular in the Victorian era
+  images:
+    - plants/13/heliotropium-arborescens/1.jpg
+    - plants/13/heliotropium-arborescens/2.jpg
+    - plants/13/heliotropium-arborescens/3.jpg
+    - plants/13/heliotropium-arborescens/4.jpg
+  week: 13
+
+- id: lobelia-cardinalis
+  botanical_name: Lobelia cardinalis
+  pronunciation: low-BEE-lee-ah kar-dih-NAL-iss
+  common_name: cardinal flower
+  description: L. cardinalis is an erect, clump-forming herbaceous perennial to 90cm in height, with rather glossy bright green oblong leaves and brilliant scarlet, two-lipped flowers 5cm in length in terminal spikes
+  classification:
+    - Perennial
+    - Aquatic
+  family_name: Campanulaceae
+  ultimate_height: 0.5–1 metres
+  ultimate_spread: 0.1–0.5 metres
+  time_to_ultimate_height: 2-5 years
+  harmful_effects: Ingestion may cause severe discomfort. Wear gloves and wash hands after handling
+  native_to_uk: false
+  lime_avoiding: true
+  agm: false
+  light_requirements:
+    - Full sun
+    - Partial shade
+  hardiness_level: H3
+  exposure:
+    - Exposed
+    - Sheltered
+  major_plant_group: Angiosperm
+  rhs_url: https://www.rhs.org.uk/plants/10394/lobelia-cardinalis/details
+  climber_wall_shrub: false
+  known_for_its_fruit: false
+  known_for_its_scent: false
+  ground_cover: false
+  known_for_its_flowers: true
+  known_for_its_foliage: true
+  foliage_type: Deciduous
+  weed_invasive: false
+  seasonal_short_term: false
+  winter_interest: false
+  biodiversity_wildlife: false
+  interior_landscapes: false
+  suitable_for_hedging: false
+  habit: Clump forming
+  flowers_present: true
+  flower_description:
+    - Raceme inflorescence
+    - Erect, terminal spikes (racemes) of large, cardinal red flowers
+    - Each flower is tubular 2 lipped about 1.5 inches long.
+  fruit_present: false
+  fruit_description:
+  leaf_description:
+    - Simple leaf form
+    - Alternate leaf arrangement
+    - Lanceolate leaf shape
+    - Serrate leaf margin
+    - Has dramatic foliage
+  additional_information:
+    - Needs winter protection
+    - Can be grown as a pond marginal plant or in a bog garden
+  images:
+    - plants/13/lobelia-cardinalis/1.jpg
+    - plants/13/lobelia-cardinalis/2.jpg
+    - plants/13/lobelia-cardinalis/3.jpg
+    - plants/13/lobelia-cardinalis/4.jpg
+    - plants/13/lobelia-cardinalis/5.jpg
+  week: 13
+
+- id: matteuccia-struthiopteris
+  botanical_name: Matteuccia struthiopteris
+  pronunciation: ma-TOOKS-ah struth-ee-op-TER-iss
+  common_name: shuttlecock fern
+  description: A deciduous, stoloniferous fern forming colonies of erect rosettes to 1.5m in height, with lance-shaped, bright green, bipinnatifid sterile fronds surrounding shorter, brownish fertile fronds
+  classification:
+    - Perennial
+    - Fern
+  family_name: Onocleaceae
+  ultimate_height: 1–1.5 metres
+  ultimate_spread: 1.5–2.5 metres
+  time_to_ultimate_height: 5–10 years
+  native_to_uk: false
+  lime_avoiding: true
+  agm: true
+  light_requirements:
+    - Deep shade
+    - Partial shade
+  hardiness_level: H5
+  exposure:
+    - Sheltered
+  major_plant_group: Pteridophytes
+  rhs_url: https://www.rhs.org.uk/plants/10920/matteuccia-struthiopteris/details
+  climber_wall_shrub: false
+  known_for_its_fruit: false
+  known_for_its_scent: false
+  ground_cover: false
+  known_for_its_flowers: false
+  known_for_its_foliage: true
+  foliage_type: Deciduous
+  weed_invasive: false
+  seasonal_short_term: false
+  winter_interest: false
+  biodiversity_wildlife: false
+  interior_landscapes: false
+  suitable_for_hedging: false
+  habit: Suckering
+  flowers_present: false
+  flower_description:
+  fruit_present: false
+  fruit_description:
+  leaf_description:
+    - Compound leaf form
+    - Fronds
+    - Oblong leaf shape
+    - Dentate leaf margin
+    - Vase-shaped clump of arching, oblong, lance shaped fronds
+  additional_information:
+    - Easy to grow in most cool, moist, shaded sites
+    - Useful for very wet sites
+  images:
+    - plants/13/matteuccia-struthiopteris/1.jpg
+    - plants/13/matteuccia-struthiopteris/2.jpg
+    - plants/13/matteuccia-struthiopteris/3.jpg
+    - plants/13/matteuccia-struthiopteris/4.jpg
+    - plants/13/matteuccia-struthiopteris/5.jpg
+  week: 13
+
+- id: nigella-damascena
+  botanical_name: Nigella damascena
+  pronunciation: nye-JELL-ah dam-ass-SEE-nah
+  common_name: love-in-a-mist
+  description: An upright, bushy annual to 50cm, with feathery foliage. Pale blue flowers 4cm across are borne in summer followed by decorative, inflated seed capsules.
+  classification:
+    - Annual
+  family_name: Ranunculaceae
+  ultimate_height: 0.1–0.5 metres
+  ultimate_spread: 0.1–0.5 metres
+  time_to_ultimate_height: 1–2 years
+  native_to_uk: false
+  lime_avoiding: false
+  agm: false
+  light_requirements:
+    - Fall sun
+  hardiness_level: H3
+  exposure:
+    - Sheltered
+  major_plant_group: Angiosperm
+  rhs_url: https://www.rhs.org.uk/plants/121186/nigella-damascena/details
+  climber_wall_shrub: false
+  known_for_its_fruit: false
+  known_for_its_scent: false
+  ground_cover: false
+  known_for_its_flowers: true
+  known_for_its_foliage: false
+  foliage_type: Deciduous
+  weed_invasive: false
+  seasonal_short_term: false
+  winter_interest: false
+  biodiversity_wildlife: false
+  interior_landscapes: false
+  suitable_for_hedging: false
+  habit: Bushy
+  flowers_present: true
+  flower_description:
+    - Flower head
+    - Each solitary blue flower appears to sit on a bed of lacy (and misty) foliage
+  fruit_present: true
+  fruit_description:
+    - inflated seed capsules
+  leaf_description:
+    - Simple leaf form
+    - Linear leaf shape
+  additional_information:
+    - Grow in any well-drained soil in full sun
+    - Good for cut flowers
+    - Good for dried flower arrangements
+  images:
+    - plants/13/nigella-damascena/1.jpg
+    - plants/13/nigella-damascena/2.jpg
+    - plants/13/nigella-damascena/3.jpg
+    - plants/13/nigella-damascena/4.jpg
+    - plants/13/nigella-damascena/5.jpg
+  week: 13
+
+- id: phlox-paniculata
+  botanical_name: Phlox paniculata 'Ditomfav'
+  shuttleworth_cultivar: true
+  pronunciation: FLOKS pan-ik-yoo-LAY-tah
+  common_name: perennial phlox
+  description: A compact, upright herbaceous perennial to 60cm high, with narrowly elliptic, toothed dark green leaves. Produces rounded clusters of fragrant pale pink flowers in midsummer
+  classification:
+    - Perennial
+  family_name: Polemoniaceae
+  ultimate_height: 0.5–1 metres
+  ultimate_spread: 0.5–1 metres
+  time_to_ultimate_height: 2–5 years
+  native_to_uk: false
+  lime_avoiding: false
+  agm: true
+  light_requirements:
+    - Fall sun
+    - Partial shade
+  hardiness_level: H7
+  exposure:
+    - Exposed
+    - Sheltered
+  major_plant_group: Angiosperm
+  rhs_url: https://www.rhs.org.uk/plants/302644/phlox-paniculata-ditomfav-(pbr)/details
+  climber_wall_shrub: false
+  known_for_its_fruit: false
+  known_for_its_scent: false
+  ground_cover: false
+  known_for_its_flowers: true
+  known_for_its_foliage: false
+  foliage_type: Deciduous
+  weed_invasive: false
+  seasonal_short_term: false
+  winter_interest: false
+  biodiversity_wildlife: true
+  interior_landscapes: false
+  suitable_for_hedging: false
+  habit: Columnar upright
+  flowers_present: true
+  flower_description:
+    - Panicle inflorescence
+  fruit_present: false
+  fruit_description:
+  leaf_description:
+    - Simple leaf form
+    - Opposite leaf arrangement
+    - Elliptical leaf shape
+    - Entire leaf margin
+  additional_information:
+    - Plant Breeders Rights
+  images:
+    - plants/13/phlox-paniculata/1.jpg
+    - plants/13/phlox-paniculata/2.jpg
+    - plants/13/phlox-paniculata/3.jpg
+    - plants/13/phlox-paniculata/4.jpg
+    - plants/13/phlox-paniculata/5.jpg
+  week: 13
+
+- id: tagetes-erecta
+  botanical_name: Tagetes erecta
+  pronunciation: tah-JEE-tees ee-RECK-tah
+  common_name: African marigold
+  description: A bushy annual from 50 to 120cm high with pinnate leaves divided into lanceolate leaflets up to 5cm long. Double flowers 5-10cm wide in shades of yellow, orange and white are produced from summer into autumn; both leaves and flowers are aromatic when crushed or brushed
+  classification:
+    - Annual
+  family_name: Asteraceae
+  ultimate_height: 1–1.5 metres
+  ultimate_spread: 0.1–0.5 metres
+  time_to_ultimate_height: 1-2 years
+  harmful_effects: Foliage may aggravate skin allergies. Wear gloves and other protective equipment when handling
+  native_to_uk: false
+  lime_avoiding: true
+  agm: false
+  light_requirements:
+    - Fall sun
+  hardiness_level: H2
+  exposure:
+    - Exposed
+    - Sheltered
+  major_plant_group: Angiosperm
+  rhs_url: https://www.rhs.org.uk/plants/151627/tagetes-erecta/details
+  climber_wall_shrub: false
+  known_for_its_fruit: false
+  known_for_its_scent: false
+  ground_cover: false
+  known_for_its_flowers: true
+  known_for_its_foliage: false
+  foliage_type: Deciduous
+  weed_invasive: false
+  seasonal_short_term: false
+  winter_interest: false
+  biodiversity_wildlife: true
+  interior_landscapes: false
+  suitable_for_hedging: false
+  habit: Bushy
+  flowers_present: true
+  flower_description:
+    - Flower head
+    - Double flowers 5-10cm wide in shades of yellow, orange and white.
+  fruit_present: false
+  fruit_description:
+  leaf_description:
+    - Compound leaf form
+    - Leaves opposite in arrangement at the bottom and alternate above.
+    - Lanceolate leaf shape
+    - Lobed leaf margin
+  additional_information:
+    - Leaves and flowers are fragrant when brushed or crushed
+  images:
+    - plants/13/tagetes-erecta/1.jpg
+    - plants/13/tagetes-erecta/2.jpg
+    - plants/13/tagetes-erecta/3.jpg
+    - plants/13/tagetes-erecta/4.jpg
+    - plants/13/tagetes-erecta/5.jpg
+    - plants/13/tagetes-erecta/6.jpg
+  week: 13
