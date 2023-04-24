@@ -14,7 +14,7 @@ class PlantsController < ApplicationController
       end
     end
 
-    @plants = Plant.where(filter).order(week: :desc)
+    @plants = Plant.where(filter).sort_by(&:week).reverse
   end
 
   def show
