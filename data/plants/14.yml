@@ -1,0 +1,598 @@
+- id: magnolia-stellata
+  botanical_name: Magnolia stellata
+  pronunciation: mag-NO-li-a ste-LAH-ta
+  common_name: star magnolia
+  description: A slow-growing medium-sized deciduous shrub of broadly rounded habit. Leaves narrowly obovate. Flowers white, to 10cm in width, with up to 18 narrowly oblong, spreading white tepals, in early spring
+  classification:
+    - Shrub
+  family_name: Magnoliaceae
+  ultimate_height: 1.5–2.5 metres
+  ultimate_spread: 2.5–4 metres
+  time_to_ultimate_height: 10-20 years
+  native_to_uk: false
+  lime_avoiding: true
+  agm: false
+  light_requirements:
+    - Fall sun
+    - Partial shade
+  hardiness_level: H6
+  exposure:
+    - Sheltered
+  major_plant_group: Angiosperm
+  rhs_url: https://www.rhs.org.uk/plants/10721/magnolia-stellata/details
+  climber_wall_shrub: false
+  known_for_its_fruit: false
+  known_for_its_scent: false
+  ground_cover: false
+  known_for_its_flowers: true
+  known_for_its_foliage: false
+  foliage_type: Deciduous
+  weed_invasive: false
+  seasonal_short_term: false
+  winter_interest: false
+  biodiversity_wildlife: false
+  interior_landscapes: false
+  suitable_for_hedging: false
+  habit: Bushy
+  flowers_present: true
+  flower_description:
+    - The terminal flower buds are fuzzy.
+    - The flowers are 10cm wide.
+    - There are 12 to 18 petals (tepals) that are narrowly oblong and spreading.
+    - The flowers are showy, fragrant, star-shaped, usually white, and bloom in the late winter to early spring before the leaves emerge.
+  fruit_present: false
+  fruit_description:
+  leaf_description:
+    - Simple leaf form
+    - Alternate leaf arrangement
+    - Obovate leaf shape
+    - Entire leaf margin
+    - Initially emerge bronze colour
+  additional_information:
+    - Needs shelter from cold winds.
+    - Late frosts may damage flower buds.
+    - Will grow in alkaline soil that is moisture retentive.
+    - Pollinated by beetles.
+  images:
+    - plants/14/magnolia-stellata/1.jpg
+    - plants/14/magnolia-stellata/2.jpg
+    - plants/14/magnolia-stellata/3.jpg
+    - plants/14/magnolia-stellata/4.jpg
+    - plants/14/magnolia-stellata/5.jpg
+  week: 14
+
+- id: typha-angustifolia
+  botanical_name: Typha angustifolia
+  pronunciation: TY-fuh an-gus-tee-FOH-lee-uh
+  common_name: lesser bulrush
+  description: an invasive, deciduous perennial forming an extensive stand of long, arching, linear leaves, with cylindrical brown flower-spikes on erect stems in summer
+  classification:
+    - Aquatic
+  family_name: Typhaceae
+  ultimate_height: 1–1.5 metres
+  ultimate_spread: 2.5–4 metres
+  time_to_ultimate_height: 5-10 years
+  native_to_uk: false
+  lime_avoiding: false
+  agm: false
+  light_requirements:
+    - Fall sun
+  hardiness_level: H7
+  exposure:
+    - Exposed
+    - Sheltered
+  major_plant_group: Angiosperm
+  rhs_url: https://www.rhs.org.uk/plants/18565/typha-angustifolia/details
+  climber_wall_shrub: false
+  known_for_its_fruit: false
+  known_for_its_scent: false
+  ground_cover: false
+  known_for_its_flowers: true
+  known_for_its_foliage: false
+  foliage_type: Deciduous
+  weed_invasive: false
+  seasonal_short_term: false
+  winter_interest: false
+  biodiversity_wildlife: false
+  interior_landscapes: false
+  suitable_for_hedging: false
+  habit: Tufted
+  flowers_present: true
+  flower_description:
+    - Spike inflorescence
+    - Compact, cylindrical brown cattail composed of hundreds of minute flowers with staminate flowers above and pistillate flowers below.
+    - There is a dividing line between the two of 1cm or more.
+  fruit_present: false
+  fruit_description:
+  leaf_description:
+    - Simple leaf form
+    - Linear leaf shape
+    - Entire leaf margin
+    - Tall narrow stiff green leaves arise from a vegetative shoot at the base of the plant.
+  additional_information:
+    - Likes poorly drained soil
+    - Marginal pond plant
+  images:
+    - plants/14/typha-angustifolia/1.jpg
+    - plants/14/typha-angustifolia/2.jpg
+    - plants/14/typha-angustifolia/3.jpg
+    - plants/14/typha-angustifolia/4.jpg
+  week: 14
+
+- id: oenothera-biennis
+  botanical_name: Oenothera biennis
+  pronunciation: ee-no-THEE-ruh by-EN-iss
+  common_name: common evening primrose
+  description: an erect biennial to 1.5m, with a basal rosette of oblong leaves and long, leafy racemes of bowl-shaped, fragrant, yellow flowers which open in the evening in summer and autumn
+  classification:
+    - Biennial
+  family_name: Onagraceae
+  ultimate_height: 1–1.5 metres
+  ultimate_spread: 0.1–0.5 metres
+  time_to_ultimate_height: 1-2 years
+  native_to_uk: false
+  lime_avoiding: true
+  agm: false
+  light_requirements:
+    - Fall sun
+    - Partial shade
+  hardiness_level: H7
+  exposure:
+    - Sheltered
+  major_plant_group: Angiosperm
+  rhs_url: https://www.rhs.org.uk/plants/86498/oenothera-biennis-common-evening-primrose-coffee-plant/details
+  climber_wall_shrub: false
+  known_for_its_fruit: false
+  known_for_its_scent: false
+  ground_cover: false
+  known_for_its_flowers: true
+  known_for_its_foliage: false
+  foliage_type: Deciduous
+  weed_invasive: false
+  seasonal_short_term: false
+  winter_interest: false
+  biodiversity_wildlife: false
+  interior_landscapes: false
+  suitable_for_hedging: false
+  habit: Columnar upright
+  flowers_present: true
+  flower_description:
+    - Cross flower shape
+    - 4 to 5 petals
+    - V / trumpet shaped flower head
+  fruit_present: false
+  fruit_description:
+  leaf_description:
+    - Basal rosette of shallow-toothed, lanceolate shaped leaves.
+    - Stalkless
+  additional_information:
+    - Flowers open at dusk
+    - Pollinated by moths
+    - Has a sweet smell
+    - Can tolerate poor soils
+  images:
+    - plants/14/oenothera-biennis/1.jpg
+    - plants/14/oenothera-biennis/2.jpg
+    - plants/14/oenothera-biennis/3.jpg
+    - plants/14/oenothera-biennis/4.jpg
+    - plants/14/oenothera-biennis/5.jpg
+    - plants/14/oenothera-biennis/6.jpg
+    - plants/14/oenothera-biennis/7.jpg
+  week: 14
+
+- id: phlomis-fruticosa
+  botanical_name: Phlomis fruticosa
+  pronunciation:
+  common_name: Jerusalem sage
+  description: a small spreading evergreen shrub, the erect shoots bearing sage-like, grey-green ovate leaves to 12cm in length. Flowers 3cm in length, hooded, deep yellow, in whorls in the upper leaf axils from early summer
+  classification:
+    - Shrub
+  family_name: Lamiaceae
+  ultimate_height: 0.5–1 metres
+  ultimate_spread: 1–1.5 metres
+  time_to_ultimate_height: 5-10 years
+  native_to_uk: false
+  lime_avoiding: true
+  agm: true
+  light_requirements:
+    - Fall sun
+  hardiness_level: H5
+  exposure:
+    - Sheltered
+  major_plant_group: Angiosperm
+  rhs_url: https://www.rhs.org.uk/plants/12700/phlomis-fruticosa/details
+  climber_wall_shrub: false
+  known_for_its_fruit: false
+  known_for_its_scent: false
+  ground_cover: false
+  known_for_its_flowers: true
+  known_for_its_foliage: true
+  foliage_type: Evergreen
+  weed_invasive: false
+  seasonal_short_term: false
+  winter_interest: false
+  biodiversity_wildlife: true
+  interior_landscapes: false
+  suitable_for_hedging: false
+  habit: Bushy
+  flowers_present: true
+  flower_description:
+    - Spike inflorescence
+    - Tubular, drooping flowers
+    - Blooms are arranged in tiers
+    - They grow in whorls
+  fruit_present: false
+  fruit_description:
+  leaf_description:
+    - Simple leaf form
+    - Opposite leaf arrangement
+    - They have a fuzzy, soft wooly, or felt-like texture with a pleasant scent
+    - Ovate to lanceolate in shape
+    - Greyish-green in colour
+  additional_information:
+    - Mediterranean plant
+    - Drought resistant
+    - Seed heads provide winter interest
+    - Small hairs on leaves can be a skin irritant
+  images:
+    - plants/14/phlomis-fruticosa/1.jpg
+    - plants/14/phlomis-fruticosa/2.jpg
+    - plants/14/phlomis-fruticosa/3.jpg
+    - plants/14/phlomis-fruticosa/4.jpg
+    - plants/14/phlomis-fruticosa/5.jpg
+    - plants/14/phlomis-fruticosa/6.jpg
+    - plants/14/phlomis-fruticosa/7.jpg
+  week: 14
+
+- id: caltha-palustris
+  botanical_name: Caltha palustris
+  pronunciation: KAL-tha pal-US-triss
+  common_name: marsh marigold
+  description: A rhizomatous herbaceous perennial to 50cm, with rounded, rich green leaves and clusters of deep yellow flowers 4cm in width
+  classification:
+    - Perennial
+    - Aquatic
+  family_name: Ranunculaceae
+  ultimate_height: 0.1–0.5 metres
+  ultimate_spread: 0.1–0.5 metres
+  time_to_ultimate_height: 2-5 years
+  native_to_uk: true
+  lime_avoiding: true
+  agm: false
+  light_requirements:
+    - Fall sun
+  hardiness_level: H7
+  exposure:
+    - Exposed
+  major_plant_group: Angiosperm
+  rhs_url: https://www.rhs.org.uk/plants/2803/i-caltha-palustris-i/details
+  climber_wall_shrub: false
+  known_for_its_fruit: false
+  known_for_its_scent: false
+  ground_cover: false
+  known_for_its_flowers: true
+  known_for_its_foliage: false
+  foliage_type: Deciduous
+  weed_invasive: false
+  seasonal_short_term: false
+  winter_interest: false
+  biodiversity_wildlife: true
+  interior_landscapes: false
+  suitable_for_hedging: false
+  habit: Clump forming
+  flowers_present: true
+  flower_description:
+    - 4cm in diameter with five to nine shiny waxy deep yellow petal-like sepals.
+    - Blooms in spring (April-June).
+  fruit_present: false
+  fruit_description:
+  leaf_description:
+    - Long-stalked, roundish to cordate, basal heart-shaped leaves
+    - Upper stem leaves are smaller and stalkless.
+  additional_information:
+    - Within the buttercup family
+    - Requires constant moisture
+    - Grow in an open site in rich boggy soil at the water's edge in full sun
+  images:
+    - plants/14/caltha-palustris/1.jpg
+    - plants/14/caltha-palustris/2.jpg
+    - plants/14/caltha-palustris/3.jpg
+    - plants/14/caltha-palustris/4.jpg
+    - plants/14/caltha-palustris/5.jpg
+  week: 14
+
+- id: corydalis-flexuosa
+  botanical_name: Corydalis flexuosa
+  pronunciation:
+  common_name: blue corydalis
+  description: A herbaceous perennial to 30cm in height, dying down in summer, with divided glaucous leaves, sometimes tinged purple, and clusters of two-lipped blue flowers with white throats in spring and early summer
+  classification:
+    - Perennial
+    - Alpine
+  family_name: Papaveraceae
+  ultimate_height: 0.1–0.5 metres
+  ultimate_spread: 0.1–0.5 metres
+  time_to_ultimate_height: 2-5 years
+  native_to_uk: false
+  lime_avoiding: false
+  agm: false
+  light_requirements:
+    - Partial shade
+  hardiness_level: H5
+  exposure:
+    - Exposed
+    - Sheltered
+  major_plant_group: Angiosperm
+  rhs_url: https://www.rhs.org.uk/plants/23474/corydalis-flexuosa/details
+  climber_wall_shrub: false
+  known_for_its_fruit: false
+  known_for_its_scent: false
+  ground_cover: false
+  known_for_its_flowers: true
+  known_for_its_foliage: false
+  foliage_type: Deciduous
+  weed_invasive: false
+  seasonal_short_term: false
+  winter_interest: false
+  biodiversity_wildlife: false
+  interior_landscapes: false
+  suitable_for_hedging: false
+  habit: Clump forming
+  flowers_present: true
+  flower_description:
+    - Flowers sit on pedicles, which sit alternately on the peduncle at the top.
+    - Flowers are tubular in shape
+    - True-blue
+  fruit_present: false
+  fruit_description:
+  leaf_description:
+    - Compoud leaf form
+    - Sometimes tinged purple
+  additional_information:
+    - Like humus-rich soil
+    - Grows on woodland edges
+    - Good for wildflower meadows, cottage gardens, rock gardens, under planting for roses and shrubs
+  images:
+    - plants/14/corydalis-flexuosa/1.jpg
+    - plants/14/corydalis-flexuosa/2.jpg
+    - plants/14/corydalis-flexuosa/3.jpg
+    - plants/14/corydalis-flexuosa/4.jpg
+    - plants/14/corydalis-flexuosa/5.jpg
+  week: 14
+
+- id: centaurea-cyanus
+  botanical_name: Centaurea cyanus
+  pronunciation: sen-TAR-ee-ah sigh-AN-us
+  common_name: cornflower
+  description: An upright annual to 75cm, with simple or slightly lobed leaves and solitary deep blue flower-heads 3-4cm across in late spring and summer
+  classification:
+    - Annual
+    - Forb
+  family_name: Asteraceae
+  ultimate_height: 0.1–0.5 metres
+  ultimate_spread: 0.1–0.5 metres
+  time_to_ultimate_height: 1-2 years
+  native_to_uk: true
+  lime_avoiding: true
+  agm: false
+  light_requirements:
+    - Full sun
+  hardiness_level: H6
+  exposure:
+    - Exposed
+    - Sheltered
+  major_plant_group: Angiosperm
+  rhs_url: https://www.rhs.org.uk/plants/46174/centaurea-cyanus/details
+  climber_wall_shrub: false
+  known_for_its_fruit: false
+  known_for_its_scent: false
+  ground_cover: false
+  known_for_its_flowers: true
+  known_for_its_foliage: false
+  foliage_type: Deciduous
+  weed_invasive: false
+  seasonal_short_term: true
+  winter_interest: false
+  biodiversity_wildlife: true
+  interior_landscapes: false
+  suitable_for_hedging: false
+  habit: Columnar upright
+  flowers_present: true
+  flower_description:
+    - Cyme inflorescence
+    - An intense blue color arranged in heads approximately 4cm in diameter
+    - A ring of a few large, spreading ray florets surrounding a central cluster of disc florets
+  fruit_present: false
+  fruit_description:
+  leaf_description:
+    - Simple leaf form
+    - Alternate leaf arrangement
+    - Lanceolate / pinnatified leaf shape
+    - Pointed at the tip that are sparsely to moderately covered in long, matted hairs
+  additional_information:
+    - Good for cut flowers
+    - Good for wildlife gardens
+  images:
+    - plants/14/centaurea-cyanus/1.jpg
+    - plants/14/centaurea-cyanus/2.jpg
+    - plants/14/centaurea-cyanus/3.jpg
+    - plants/14/centaurea-cyanus/4.jpg
+    - plants/14/centaurea-cyanus/5.jpg
+    - plants/14/centaurea-cyanus/6.jpg
+  week: 14
+
+- id: salvia-nemorosa
+  botanical_name: Salvia nemorosa 'Mai Nacht'
+  shuttleworth_cultivar: true
+  pronunciation: SAL-vee-uh nem-o-RO-sah
+  common_name: Balkan clary
+  description: Compact perennial with neat, dark green foliage and dense racemes of deep violet flowers in early summer
+  classification:
+    - Perennial
+  family_name: Lamiaceae
+  ultimate_height: 0.5–1 metres
+  ultimate_spread: 0.1–0.5 metres
+  time_to_ultimate_height: 2-5 years
+  native_to_uk: false
+  lime_avoiding: false
+  agm: true
+  light_requirements:
+    - Full sun
+    - Partial shade
+  hardiness_level: H7
+  exposure:
+    - Exposed
+    - Sheltered
+  major_plant_group: Angiosperm
+  rhs_url: https://www.rhs.org.uk/plants/284967/salvia-nemorosa-mai-nacht/details
+  climber_wall_shrub: false
+  known_for_its_fruit: false
+  known_for_its_scent: false
+  ground_cover: false
+  known_for_its_flowers: true
+  known_for_its_foliage: false
+  foliage_type: Deciduous
+  weed_invasive: false
+  seasonal_short_term: false
+  winter_interest: false
+  biodiversity_wildlife: true
+  interior_landscapes: false
+  suitable_for_hedging: false
+  habit: Clump forming
+  flowers_present: true
+  flower_description:
+    - Raceme inflorescence
+    - Flowers are tube-shaped and two-lipped (smaller upper and larger lower lip)
+  fruit_present: false
+  fruit_description:
+  leaf_description:
+    - Opposite leaf arrangement
+    - Crenate leaf margin
+  additional_information:
+    - Has square stems
+    - A good doer
+    - Can be a host to the frog hopper
+  images:
+    - plants/14/salvia-nemorosa/1.jpg
+    - plants/14/salvia-nemorosa/2.jpg
+    - plants/14/salvia-nemorosa/3.jpg
+    - plants/14/salvia-nemorosa/4.jpg
+  week: 14
+
+- id: dahlia-bishop-of-llandaff
+  botanical_name: Dahlia 'Bishop of Llandaff'
+  pronunciation:
+  common_name: Dahlia 'Bishop of Llandaff'
+  description:  Herbaceous perennial to 1m in height, with deep blackish-red foliage and semi-double brilliant red flowers 6cm in width
+  classification:
+    - Perennial
+    - Tuber
+  family_name: Asteraceae
+  ultimate_height: 0.5–1 metres
+  ultimate_spread: 0.1–0.5 metres
+  time_to_ultimate_height: 1-2 years
+  harmful_effects: All parts may cause severe discomfort if ingested and may irritate skin
+  native_to_uk: false
+  lime_avoiding: false
+  agm: true
+  light_requirements:
+    - Full sun
+  hardiness_level: H3
+  exposure:
+    - Sheltered
+  major_plant_group: Angiosperm
+  rhs_url: https://www.rhs.org.uk/plants/96238/dahlia-bishop-of-llandaff-(p)/details
+  climber_wall_shrub: false
+  known_for_its_fruit: false
+  known_for_its_scent: false
+  ground_cover: false
+  known_for_its_flowers: true
+  known_for_its_foliage: true
+  foliage_type: Deciduous
+  weed_invasive: false
+  seasonal_short_term: true
+  winter_interest: false
+  biodiversity_wildlife: true
+  interior_landscapes: false
+  suitable_for_hedging: false
+  habit: Columnar upright
+  flowers_present: true
+  flower_description:
+    - Semi-double brilliant red flowers 6cm in width
+  fruit_present: false
+  fruit_description:
+  leaf_description:
+    - Deep blackish-red foliage
+    - Simple leaf form towards the top of the plant
+    - Pinnatley compound leaf form towards the base fo the plant
+    - Opposite leaf arrangement
+  additional_information:
+    - Grown for its flowers and foliage
+    - Good for cut flowers
+  images:
+    - plants/14/dahlia-bishop-of-llandaff/1.jpg
+    - plants/14/dahlia-bishop-of-llandaff/2.jpg
+    - plants/14/dahlia-bishop-of-llandaff/3.jpg
+    - plants/14/dahlia-bishop-of-llandaff/4.jpg
+    - plants/14/dahlia-bishop-of-llandaff/5.jpg
+  week: 14
+
+- id: eryngium-giganteum
+  botanical_name: Eryngium giganteum
+  pronunciation: er-RIN-jee-um
+  common_name: Silver ghost
+  description:  A robust biennial or short-lived perennial forming a rosette of heart-shaped basal leaves, and spiny stem leaves, with cone-like umbels of tiny blue flowers sitting within a rosette of spiny silvery-grey bracts
+  classification:
+    - Perennial
+    - Biennial
+  family_name: Apiaceae
+  ultimate_height: 0.5–1 metres
+  ultimate_spread: 0.1–0.5 metres
+  time_to_ultimate_height: 2-5 years
+  native_to_uk: false
+  lime_avoiding: true
+  agm: true
+  light_requirements:
+    - Full sun
+  hardiness_level: H6
+  exposure:
+    - Exposed
+    - Sheltered
+  major_plant_group: Angiosperm
+  rhs_url: https://www.rhs.org.uk/plants/6785/i-eryngium-giganteum-i/details
+  climber_wall_shrub: false
+  known_for_its_fruit: false
+  known_for_its_scent: false
+  ground_cover: false
+  known_for_its_flowers: true
+  known_for_its_foliage: true
+  foliage_type: Deciduous
+  weed_invasive: false
+  seasonal_short_term: false
+  winter_interest: true
+  biodiversity_wildlife: true
+  interior_landscapes: false
+  suitable_for_hedging: false
+  habit: Bushy
+  flowers_present: true
+  flower_description:
+    - Egg shaped flower head
+    - Tightly packed with flowers
+    - Starts out pale green, then changing to a steel blue
+  fruit_present: false
+  fruit_description:
+  leaf_description:
+    - Prickly
+    - Rosette of heart-shaped basal leaves
+    - Spiny stem leaves
+  additional_information:
+    - Drought resistant
+    - Good as a cut flower
+    - Self seeds well in lighter soils
+    - Prefers poor soils
+  images:
+    - plants/14/eryngium-giganteum/1.jpg
+    - plants/14/eryngium-giganteum/2.jpg
+    - plants/14/eryngium-giganteum/3.jpg
+    - plants/14/eryngium-giganteum/4.jpg
+  week: 14
