@@ -1,0 +1,689 @@
+- id: urtica-dioica
+  botanical_name: Urtica dioica
+  pronunciation: UR-ti-kuh dy-oh-EE-kuh
+  common_name: common stinging nettle
+  description: A perennial herb growing nearly worldwide. There are 5 subspecies of which 4 have stinging hairs
+  classification:
+    - Perennial
+  family_name: Urticaceae
+  ultimate_height: 1-1.5 metres
+  ultimate_spread: 0.5-1 metres
+  time_to_ultimate_height: 2-5 years
+  native_to_uk: true
+  lime_avoiding: false
+  agm: false
+  light_requirements:
+    - Full sun
+    - Partial shade
+    - Deep shade
+  hardiness_level: H7
+  exposure:
+    - Exposed
+    - Sheltered
+  major_plant_group: Angiosperm
+  rhs_url: https://www.rhs.org.uk/weeds/nettles-as-weeds
+  climber_wall_shrub: false
+  known_for_its_fruit: false
+  known_for_its_scent: false
+  ground_cover: false
+  known_for_its_flowers: false
+  known_for_its_foliage: false
+  foliage_type: Deciduous
+  weed_invasive: true
+  seasonal_short_term: false
+  winter_interest: false
+  biodiversity_wildlife: true
+  interior_landscapes: false
+  suitable_for_hedging: false
+  habit: Clump forming
+  flowers_present: true
+  flower_description:
+    - Spike inflorescence
+    - Tiny green or white flowers are borne in dense whorled clusters in the leaf axils and stem tips.
+  fruit_present: false
+  fruit_description:
+  leaf_description:
+    - Simple leaf form
+    - Opposite leaf arrangement
+    - Ovate leaf shape
+    - Serrate leaf margin
+    - Has hairs which are stinging hairs
+  additional_information:
+    - Doesn't do well in areas of drought
+    - Grows on deep, rich, moist soil
+    - Flowers are wind pollinated
+    - Naturally occurs in moist sites along streas, meadows, ditches, in woodland clearing and in disturbed areas.
+  images:
+    - plants/15/urtica-dioica/1.jpg
+    - plants/15/urtica-dioica/2.jpg
+    - plants/15/urtica-dioica/3.jpg
+    - plants/15/urtica-dioica/4.jpg
+    - plants/15/urtica-dioica/5.jpg
+  week: 15
+
+- id: leucanthemum-vulgare
+  botanical_name: Leucanthemum vulgare
+  pronunciation: lew-KAN-theh-mum vul-GAIR-ee
+  common_name: ox-eye daisy
+  description: A rhizomatous perennial with dark green spoon-shaped leaves and solitary white, daisy-like flowerheads with yellow disk florets, in late spring and early summer
+  classification:
+    - Perennial
+    - Forb
+  family_name: Asteraceae
+  ultimate_height: 0.5-1 metres
+  ultimate_spread: 0.1-0.5 metres
+  time_to_ultimate_height: 2-5 years
+  native_to_uk: true
+  lime_avoiding: false
+  agm: false
+  light_requirements:
+    - Full sun
+    - Partial shade
+  hardiness_level: H7
+  exposure:
+    - Exposed
+    - Sheltered
+  major_plant_group: Angiosperm
+  rhs_url: https://www.rhs.org.uk/plants/32804/leucanthemum-vulgare-ox-eye-daisy-big-daisy/details
+  climber_wall_shrub: false
+  known_for_its_fruit: false
+  known_for_its_scent: false
+  ground_cover: false
+  known_for_its_flowers: true
+  known_for_its_foliage: false
+  foliage_type: Deciduous
+  weed_invasive: false
+  seasonal_short_term: true
+  winter_interest: false
+  biodiversity_wildlife: true
+  interior_landscapes: false
+  suitable_for_hedging: false
+  habit: Clump forming
+  flowers_present: true
+  flower_description:
+    - White rays with flattened yellow center disk flowers
+    - Long lasting
+  fruit_present: false
+  fruit_description:
+  leaf_description:
+    - Simple leaf form
+    - Rosulate leaf arrangement
+    - Basal, toothed, spatulate to ovate leaves.
+    - Longer leaves at the base of the plant
+    - Smaller leaves may be pinnatified
+  additional_information:
+    - Considered more a biennial
+    - Self seeds well
+  images:
+    - plants/15/leucanthemum-vulgare/1.jpg
+    - plants/15/leucanthemum-vulgare/2.jpg
+    - plants/15/leucanthemum-vulgare/3.jpg
+    - plants/15/leucanthemum-vulgare/4.jpg
+    - plants/15/leucanthemum-vulgare/5.jpg
+  week: 15
+
+- id: buddleja-davidii
+  botanical_name: Buddleja davidii
+  pronunciation: bud-LAY-yah dah-VID-ee-eye
+  common_name: butterfly bush
+  description: A large, fast-growing, deciduous shrub, to 3m tall, with long, arching shoots and lance-shaped, pointed, green or grey-green leaves up to 25cm long. From summer to autumn it bears dense sprays, 30cm or more long, of small, fragrant flowers in various shades of purple
+  classification:
+    - Shrub
+  family_name: Scrophulariaceae
+  ultimate_height: 2.4-4 metres
+  ultimate_spread: 4-8 metres
+  time_to_ultimate_height: 5-10 years
+  native_to_uk: false
+  lime_avoiding: false
+  agm: false
+  light_requirements:
+    - Full sun
+    - Partial shade
+  hardiness_level: H6
+  exposure:
+    - Exposed
+    - Sheltered
+  major_plant_group: Angiosperm
+  rhs_url: https://www.rhs.org.uk/plants/2448/i-buddleja-davidii-i/details
+  climber_wall_shrub: false
+  known_for_its_fruit: false
+  known_for_its_scent: false
+  ground_cover: false
+  known_for_its_flowers: true
+  known_for_its_foliage: false
+  foliage_type: Deciduous
+  weed_invasive: true
+  seasonal_short_term: false
+  winter_interest: false
+  biodiversity_wildlife: true
+  interior_landscapes: false
+  suitable_for_hedging: false
+  drought_resistant: true
+  habit: Bushy
+  flowers_present: true
+  flower_description:
+    - Panicle inflorescence
+    - Fragrant
+    - Purple
+  fruit_present: false
+  fruit_description:
+  leaf_description:
+    - Simple leaf form
+    - Opposite leaf arrangement
+    - Grey/silver colour on back of leaf
+    - Rough feel
+  additional_information:
+    - Flowers on this years growth
+    - Good source of catapiller food
+    - Good for pollinators
+    - Good for coastal locations
+  images:
+    - plants/15/buddleja-davidii/1.jpg
+    - plants/15/buddleja-davidii/2.jpg
+    - plants/15/buddleja-davidii/3.jpg
+    - plants/15/buddleja-davidii/4.jpg
+  week: 15
+
+- id: betula-pendula
+  botanical_name: Betula pendula
+  pronunciation: BET-yoo-luh PEND-yoo-luh
+  common_name: silver birch
+  description: Elegant, narrowly conical, deciduous tree up to 25m in height, with slender drooping twigs. Peeling white bark, becomes black and rugged at the base. Diamond-shaped, toothed, mid-green leaves, turn yellow in autumn. Flowers in catkins are yellow-brown and appear in early spring
+  classification:
+    - Tree
+  family_name: Betulaceae
+  ultimate_height: Higher than 12 metres
+  ultimate_spread: Wider than 8 metres
+  time_to_ultimate_height: 20-50 years
+  native_to_uk: true
+  lime_avoiding: false
+  agm: false
+  light_requirements:
+    - Full sun
+    - Partial shade
+  hardiness_level: H7
+  exposure:
+    - Exposed
+    - Sheltered
+  major_plant_group: Angiosperm
+  rhs_url: https://www.rhs.org.uk/plants/2261/betula-pendula/details
+  climber_wall_shrub: false
+  known_for_its_fruit: false
+  known_for_its_scent: false
+  ground_cover: false
+  known_for_its_flowers: false
+  known_for_its_foliage: false
+  foliage_type: Deciduous
+  weed_invasive: false
+  seasonal_short_term: false
+  winter_interest: true
+  biodiversity_wildlife: false
+  interior_landscapes: false
+  suitable_for_hedging: false
+  habit: Pendulous weeping
+  flowers_present: true
+  flower_description:
+    - Catkin inflorescence
+    - Tiny monoecious flowers appear in early spring in separate catkins on the same tree
+    - Yellowish-brown male flowers in drooping catkins
+    - Greenish female flowers in smaller, upright catkins
+  fruit_present: false
+  fruit_description:
+  leaf_description:
+    - Simple leaf form
+    - Alternate leaf arrangement
+    - Ovate leaf shape
+    - Doubly serrate leaf margin
+  additional_information:
+    - Fast growing
+    - When pruned it losses a lot of sap easily
+  images:
+    - plants/15/betula-pendula/1.jpg
+    - plants/15/betula-pendula/2.jpg
+    - plants/15/betula-pendula/3.jpg
+    - plants/15/betula-pendula/4.jpg
+    - plants/15/betula-pendula/5.jpg
+  week: 15
+
+- id: ranunculus-repens
+  botanical_name: Ranunculus repens
+  pronunciation: ra-NUN-ku-lus
+  common_name: creeping buttercup
+  description: A potentially invasive plant in the garden, spreading by stems that root at the nodes. Leaves are hairy, rough-edged and sometimes with white markings. They are three-lobed, with the central lobe being stalked. Flowers of five-petalled, glossy, yellow cups are borne in summer
+  classification:
+    - Perennial
+    - Forbs
+  family_name: Ranunculaceae
+  ultimate_height: 0.1–0.5 metres
+  ultimate_spread: 0.1–0.5 metres
+  time_to_ultimate_height: 1-2 years
+  native_to_uk: true
+  lime_avoiding: true
+  agm: false
+  light_requirements:
+    - Full sun
+    - Partial shade
+  hardiness_level: H7
+  exposure:
+    - Exposed
+    - Sheltered
+  major_plant_group: Angiosperm
+  rhs_url: https://www.rhs.org.uk/plants/14373/i-ranunculus-repens-i/details
+  climber_wall_shrub: false
+  known_for_its_fruit: false
+  known_for_its_scent: false
+  ground_cover: false
+  known_for_its_flowers: false
+  known_for_its_foliage: false
+  foliage_type: Deciduous
+  weed_invasive: true
+  seasonal_short_term: false
+  winter_interest: false
+  biodiversity_wildlife: true
+  interior_landscapes: false
+  suitable_for_hedging: false
+  habit: Matforming
+  flowers_present: true
+  flower_description:
+    - Flowers of five-petalled, glossy, yellow cups
+  fruit_present: false
+  fruit_description:
+  leaf_description:
+    - Pinnately compound leaf form
+    - Three-lobed, central lobed being stalked
+  additional_information:
+    - Good indicator of damp ground
+    - Likes to be disturbed much
+  images:
+    - plants/15/ranunculus-repens/1.jpg
+    - plants/15/ranunculus-repens/2.jpg
+    - plants/15/ranunculus-repens/3.jpg
+    - plants/15/ranunculus-repens/4.jpg
+  week: 15
+
+- id: wisteria-sinensis
+  botanical_name: Wisteria sinensis
+  pronunciation: wis-TEER-ee-uh sy-NEN-sis
+  common_name: Chinese wisteria
+  description: A large deciduous climber with twining stems, dark green, pinnate leaves and drooping racemes to 30cm in length, of fragrant, mauve or lilac-coloured flowers opening before the leaves
+  classification:
+    - Perennial
+  family_name: Fabaceae
+  ultimate_height: Higher than 12 metres
+  ultimate_spread: Wider than 8 metres
+  time_to_ultimate_height: 10-20 years
+  harmful_effects: All parts may cause severe discomfort if ingested.
+  native_to_uk: false
+  lime_avoiding: false
+  agm: false
+  light_requirements:
+    - Full sun
+    - Partial shade
+  hardiness_level: H6
+  exposure:
+    - Sheltered
+  major_plant_group: Angiosperm
+  rhs_url: https://www.rhs.org.uk/plants/19126/wisteria-sinensis/details
+  climber_wall_shrub: true
+  known_for_its_fruit: false
+  known_for_its_scent: true
+  ground_cover: false
+  known_for_its_flowers: true
+  known_for_its_foliage: true
+  foliage_type: Deciduous
+  weed_invasive: false
+  seasonal_short_term: false
+  winter_interest: false
+  biodiversity_wildlife: false
+  interior_landscapes: false
+  suitable_for_hedging: false
+  habit: Climbing
+  flowers_present: true
+  flower_description:
+    - Raceme inflorescence
+    - Drooping racemes to 30cm in length
+    - Fragrant mauve or lilac-coloured flowers
+    - Flowers open before leaves
+  fruit_present: false
+  fruit_description:
+  leaf_description:
+    - Pinnately compound leaves
+    - Alternate leaf arrangement
+  additional_information:
+    - Can be grown informally as a large tree or more formally against a house wall.
+    - Has a tricky pruning regime
+    - Has twining stems
+  images:
+    - plants/15/wisteria-sinensis/1.jpg
+    - plants/15/wisteria-sinensis/2.jpg
+    - plants/15/wisteria-sinensis/3.jpg
+    - plants/15/wisteria-sinensis/4.jpg
+    - plants/15/wisteria-sinensis/5.jpg
+    - plants/15/wisteria-sinensis/6.jpg
+  week: 15
+
+- id: crataegus-monogyna
+  botanical_name: Crataegus monogyna
+  pronunciation: krah-TEE-gus
+  common_name: common hawthorn
+  description: Rounded deciduous tree to about 10m in height, with thorny branches and glossy, deeply lobed dark green leaves, colouring gold in autumn. Flat sprays of fragrant, creamy-white flowers with pink anthers, are produced in late spring, followed by plentiful dark red berries in autumn
+  classification:
+    - Tree
+  family_name: Rosaceae
+  ultimate_height: 4–8 metres
+  ultimate_spread: 4–8 metres
+  time_to_ultimate_height: 20-50 years
+  harmful_effects: Fruit is for ornamental purposes only. Ingestion may cause mild stomach upset.
+  native_to_uk: true
+  lime_avoiding: false
+  agm: false
+  light_requirements:
+    - Full sun
+    - Partial shade
+  hardiness_level: H7
+  exposure:
+    - Exposed
+    - Sheltered
+  major_plant_group: Angiosperm
+  rhs_url: https://www.rhs.org.uk/plants/4775/crataegus-monogyna/details
+  climber_wall_shrub: false
+  known_for_its_fruit: true
+  known_for_its_scent: false
+  ground_cover: false
+  known_for_its_flowers: false
+  known_for_its_foliage: false
+  foliage_type: Deciduous
+  weed_invasive: false
+  seasonal_short_term: false
+  winter_interest: false
+  biodiversity_wildlife: true
+  interior_landscapes: false
+  suitable_for_hedging: true
+  habit: Bushy
+  flowers_present: true
+  flower_description:
+    - Hawthorns are hermaphrodite, meaning both male and female reproductive parts are contained within each flower.
+    - Highly scented
+    - White or occasionally pink with five petals
+    - Grow in flat-topped clusters.
+  fruit_present: true
+  fruit_description:
+    - Once pollinated by insects, they develop into deep-red fruits known as 'haws'.
+  leaf_description:
+    - Around 6cm in length
+    - Comprised of toothed lobes, which cut at least halfway to the middle or 'mid-rib'.
+    - They turn yellow before falling in autumn
+  additional_information:
+    - Known for attracting bees, beneficial insects, birds, butterflies/moths and other pollinators.
+    - It is a caterpillar food plant, has nectar/pollen rich flowers, provides shelter and habitat, has seeds for birds.
+    - Makes a good wildlife hedge.
+    - Its dense thorny habit makes it an excellent habitat for nesting or roosting birds.
+    - Makes an ideal boundary hedge that will help keep unwelcome visitors out of the garden
+  images:
+    - plants/15/crataegus-monogyna/1.jpg
+    - plants/15/crataegus-monogyna/2.jpg
+    - plants/15/crataegus-monogyna/3.jpg
+    - plants/15/crataegus-monogyna/4.jpg
+    - plants/15/crataegus-monogyna/5.jpg
+    - plants/15/crataegus-monogyna/6.jpg
+    - plants/15/crataegus-monogyna/7.jpg
+  week: 15
+
+- id: pulsatilla-vulgaris
+  botanical_name: Pulsatilla vulgaris
+  pronunciation: pul-sa-TIL-uh vul-GAIR-iss
+  common_name: pasqueflower
+  description: A perennial to 20cm, forming a clump of finely dissected basal leaves, silky when young. Flowers 5-9cm in width, erect or nodding, violet, followed by silky fruiting heads
+  classification:
+    - Alpine
+  family_name: Ranunculaceae
+  ultimate_height: 0.1–0.5 metres
+  ultimate_spread: 0.1–0.5 metres
+  time_to_ultimate_height: 2-5 years
+  native_to_uk: false
+  lime_avoiding: false
+  agm: false
+  light_requirements:
+    - Full sun
+  hardiness_level: H5
+  exposure:
+    - Exposed
+    - Sheltered
+  major_plant_group: Angiosperm
+  rhs_url: https://www.rhs.org.uk/plants/14184/pulsatilla-vulgaris/details
+  climber_wall_shrub: false
+  known_for_its_fruit: false
+  known_for_its_scent: false
+  ground_cover: false
+  known_for_its_flowers: true
+  known_for_its_foliage: false
+  foliage_type: Deciduous
+  weed_invasive: false
+  seasonal_short_term: false
+  winter_interest: false
+  biodiversity_wildlife: false
+  interior_landscapes: false
+  suitable_for_hedging: false
+  habit: Clump forming
+  flowers_present: true
+  flower_description:
+    - Bell flower head
+    -  5-9cm in width
+    - Erect or nodding
+    - Violet
+    - Very silky on the under surfaces
+    - Flowers are followed by equally-ornamental, plume-like seedheads (reminiscent of some clematis) in fluffy spherical clusters.
+  fruit_present: false
+  fruit_description:
+  leaf_description:
+    - Leaves are soft
+    - Dissected basal leaves, silky when young
+    - A rosette of finely-divided, stalked leaves, covered with silky hairs (furry).
+    - Fern-like, alternate or whorled, and are attractive even when plant is not flowering
+  additional_information:
+    - Resents disturbance
+    - Can be hard to establish
+    - Grow in very well-drained soil in full sun
+    - Suitable for rock garden, scree or alpine bed.
+  images:
+    - plants/15/pulsatilla-vulgaris/1.jpg
+    - plants/15/pulsatilla-vulgaris/2.jpg
+    - plants/15/pulsatilla-vulgaris/3.jpg
+    - plants/15/pulsatilla-vulgaris/4.jpg
+    - plants/15/pulsatilla-vulgaris/5.jpg
+    - plants/15/pulsatilla-vulgaris/6.jpg
+    - plants/15/pulsatilla-vulgaris/7.jpg
+  week: 15
+
+- id: ginkgo-biloba
+  botanical_name: Ginkgo biloba
+  pronunciation: GIN-koh bih-LOW-bah
+  common_name: maidenhair tree
+  description: A deciduous tree to 25m, conical when young, becoming more irregular with age. Leaves to 12cm in width, fan-shaped and often bilobed, turning clear yellow in autumn. Unpleasantly scented dull yellow fruits in autumn on female plants
+  classification:
+    - Tree
+  family_name: Ginkgoaceae
+  ultimate_height: Higher than 12 metres
+  ultimate_spread: 4–8 metres
+  time_to_ultimate_height: 20-50 years
+  native_to_uk: false
+  lime_avoiding: false
+  agm: false
+  light_requirements:
+    - Full sun
+  hardiness_level: H6
+  exposure:
+    - Exposed
+    - Sheltered
+  major_plant_group: Gymnosperm
+  rhs_url: https://www.rhs.org.uk/plants/7990/ginkgo-biloba/details
+  climber_wall_shrub: false
+  known_for_its_fruit: false
+  known_for_its_scent: false
+  ground_cover: false
+  known_for_its_flowers: false
+  known_for_its_foliage: true
+  foliage_type: Deciduous
+  weed_invasive: false
+  seasonal_short_term: false
+  winter_interest: false
+  biodiversity_wildlife: false
+  interior_landscapes: false
+  suitable_for_hedging: false
+  drought_resistant: true
+  habit: Columnar upright
+  flowers_present: true
+  flower_description:
+    - Ginkgos are gymnosperms and do not produce "flowers".
+    - They are dioecious with separate male and female trees.
+    - Male plants produce small pollen cones with sporophylls.
+    - Female plants produce ovules at the end of a stalk.
+  fruit_present: true
+  fruit_description:
+    - As a gymnosperm, Ginkgo does not produce fruit but its seeds (only on female trees) are fruit like.
+    - Plumlike, yellow-orange colour.
+    - The outer has fleshy pulp foul-smelling when ripe.
+    - The inner wall hard, smooth, and cream colored.
+    - When the seeds fall to the ground they can be quite messy.
+  leaf_description:
+    - Emerald green in colour, yellow autumn colour
+    - Fan-shaped
+    - Alternate leaf arrangement
+    - Simple leaf form
+    - In clusters of three to five.
+  additional_information:
+    - Tolerant of atmospheric pollution
+    - Pre-historic
+    - First introduced to England in 1762 in Kew gardens. This tree is still standing there.
+    - Tolerant of heat
+    - Drought resistant
+    - Oldest recorded Ginkgo tree is 3,500 years old.
+    - It is the only living connection between ferns and conifers.
+  images:
+    - plants/15/ginkgo-biloba/1.jpg
+    - plants/15/ginkgo-biloba/2.jpg
+    - plants/15/ginkgo-biloba/3.jpg
+    - plants/15/ginkgo-biloba/4.jpg
+    - plants/15/ginkgo-biloba/5.jpg
+    - plants/15/ginkgo-biloba/6.jpg
+    - plants/15/ginkgo-biloba/7.jpg
+  week: 15
+
+- id: prunella-vulgaris
+  botanical_name: Prunella vulgaris
+  pronunciation: proo-NELL-uh vul-GAIR-iss
+  common_name: selfheal
+  description: A creeping perennial to 30cm, with rooting stems bearing oblong or ovate leaves and short erect spikes of deep violet, rarely pink or white, tubular flowers in summer and early autumn
+  classification:
+    - Perennial
+    - Forb
+  family_name: Lamiaceae
+  ultimate_height: 0.1–0.5 metres
+  ultimate_spread: 0.1–0.5 metres
+  time_to_ultimate_height: 2-5 years
+  native_to_uk: true
+  lime_avoiding: false
+  agm: false
+  light_requirements:
+    - Full sun
+    - Partial shade
+  hardiness_level: H5
+  exposure:
+    - Exposed
+    - Sheltered
+  major_plant_group: Angiosperm
+  rhs_url: https://www.rhs.org.uk/plants/13944/prunella-vulgaris/details
+  climber_wall_shrub: false
+  known_for_its_fruit: false
+  known_for_its_scent: false
+  ground_cover: false
+  known_for_its_flowers: true
+  known_for_its_foliage: false
+  foliage_type: Semi-evergreen
+  weed_invasive: false
+  seasonal_short_term: false
+  winter_interest: false
+  biodiversity_wildlife: true
+  interior_landscapes: false
+  suitable_for_hedging: false
+  habit: Matforming
+  flowers_present: true
+  flower_description:
+    - Spike inflorescence
+    - Small bluish to lavender or whitish flowers in a cylinder-shaped head.
+    - Large greenish or purple-tinged, bristly fringed bracts
+  fruit_present: false
+  fruit_description:
+  leaf_description:
+    - Opposite leaf arrangement
+    - Elliptical leaf shape
+    - Entire leaf margin
+    - Hair
+  additional_information:
+    - Has square stems
+    - Is a creeping perennial
+    - Survives regular mowing
+    - A perennial wildflower
+    - Known for medicinal purposes
+  images:
+    - plants/15/prunella-vulgaris/1.jpg
+    - plants/15/prunella-vulgaris/2.jpg
+    - plants/15/prunella-vulgaris/3.jpg
+    - plants/15/prunella-vulgaris/4.jpg
+    - plants/15/prunella-vulgaris/5.jpg
+  week: 15
+
+- id: primula-vulgaris
+  botanical_name: Primula vulgaris
+  pronunciation: proo-NELL-uh vul-GAIR-iss
+  common_name: primrose
+  description: A perennial forming a rosette of tongue-shaped leaves, with many scented, usually primrose-yellow flowers 2.5-3.5cm across, in early spring
+  classification:
+    - Perennial
+  family_name: Primulaceae
+  ultimate_height: Up to 10cm
+  ultimate_spread: 0–0.1 metre
+  time_to_ultimate_height: 2-5 years
+  native_to_uk: true
+  lime_avoiding: false
+  agm: true
+  light_requirements:
+    - Full sun
+    - Partial shade
+  hardiness_level: H7
+  exposure:
+    - Sheltered
+  major_plant_group: Angiosperm
+  rhs_url: https://www.rhs.org.uk/plants/13901/i-primula-vulgaris-i-(pr-prim)/details
+  climber_wall_shrub: false
+  known_for_its_fruit: false
+  known_for_its_scent: false
+  ground_cover: false
+  known_for_its_flowers: true
+  known_for_its_foliage: false
+  foliage_type: Semi-evergreen
+  weed_invasive: false
+  seasonal_short_term: false
+  winter_interest: false
+  biodiversity_wildlife: true
+  interior_landscapes: false
+  suitable_for_hedging: false
+  habit: Clump forming
+  flowers_present: true
+  flower_description:
+    - Funnel flower shape
+  fruit_present: false
+  fruit_description:
+  leaf_description:
+    - Crinkled obovate leaves grow in a rosette.
+    - Hairs on the undersides and toothed margins.
+  additional_information:
+    - Likes shade, moist conditions
+    - Easy to self seed
+    - Good catapillar food
+  images:
+    - plants/15/primula-vulgaris/1.jpg
+    - plants/15/primula-vulgaris/2.jpg
+    - plants/15/primula-vulgaris/3.jpg
+    - plants/15/primula-vulgaris/4.jpg
+  week: 15
