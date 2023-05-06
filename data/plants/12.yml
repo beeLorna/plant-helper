@@ -209,6 +209,7 @@
   biodiversity_wildlife: true
   interior_landscapes: false
   suitable_for_hedging: false
+  drought_resistant: true
   habit: Clumping, dense, erect
   flowers_present: true
   flower_description:
@@ -227,7 +228,6 @@
   additional_information:
     - Each stem lasts 2 years
     - Stem grows first year, then flowers the second year.
-    - Drought resistance
     - Good for coastal and gravel gardens
   images:
     - plants/12/euphorbia-characias/1.jpg
@@ -269,6 +269,7 @@
   biodiversity_wildlife: true
   interior_landscapes: false
   suitable_for_hedging: true
+  drought_resistant: true
   habit: Bushy
   flowers_present: true
   flower_description:
@@ -283,7 +284,6 @@
     - Lanceolate leaf shape
     - Entire leaf margin
   additional_information:
-    - Drought resistance
     - Good for low hedging - Hidcot is a good variety for this
     - Doesn't like heavy wet soil
   images:

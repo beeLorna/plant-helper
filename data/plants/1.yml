@@ -225,6 +225,7 @@
   biodiversity_wildlife: true
   interior_landscapes: false
   suitable_for_hedging: true
+  drought_resistant: true
   habit: Bushy
   flowers_present: true
   flower_description:
@@ -291,6 +292,7 @@
   biodiversity_wildlife: false
   interior_landscapes: false
   suitable_for_hedging: false
+  drought_resistant: true
   habit: Bushy
   flowers_present: true
   flower_description:
@@ -357,6 +359,7 @@
   biodiversity_wildlife: false
   interior_landscapes: false
   suitable_for_hedging: false
+  drought_resistant: true
   habit: Tufted
   flowers_present: true
   flower_description:
@@ -372,7 +375,6 @@
     - Long, sword-shaped, in dense clusters at the branch tips
   additional_information:
     - Root hardy
-    - Drought resistant
     - Good for coastal areas
     - Originates from New Zealand
     - Palm-like evergreen

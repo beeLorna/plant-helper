@@ -169,6 +169,12 @@
 
         <dt>Considered a weed or invasive?</dt>
         <dd><%= boolean_as_unicode(@plant.weed_invasive) %></dd>
+
+        <% if @plant.drought_resistant %>
+          <dt>Drought resistant?</dt>
+          <dd><%= boolean_as_unicode(@plant.drought_resistant) %></dd>
+        <% end %>
+
       </dl>
     </details>
 

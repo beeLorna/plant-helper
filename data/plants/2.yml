@@ -102,6 +102,7 @@
   biodiversity_wildlife: false
   interior_landscapes: false
   suitable_for_hedging: true
+  drought_resistant: true
   habit: Bushy
   flowers_present: true
   flower_description:
@@ -377,6 +378,7 @@
   biodiversity_wildlife: false
   interior_landscapes: false
   suitable_for_hedging: false
+  drought_resistant: true
   habit: Bushy
   flowers_present: true
   flower_description:
@@ -402,7 +404,6 @@
     - Known as the 'wonder-herb
     - Edible leaves
     - New growth is soft and flexible but older stems become woody and form trunks with time
-    - Rosemary is drought-tolerant
   images:
     - plants/2/salvia-rosmarinus/1.jpg
     - plants/2/salvia-rosmarinus/2.jpg
@@ -511,6 +512,7 @@
   biodiversity_wildlife: true
   interior_landscapes: false
   suitable_for_hedging: false
+  drought_resistant: true
   habit: Climbing
   flowers_present: true
   flower_description:
@@ -528,7 +530,6 @@
     - Palmate venation
     - Ovate leaf shape in adult leaves
   additional_information:
-    - Drought resistant
     - Valuable to wildlife, providing shelter, habitat, nectar, pollen and berries
     - Shade tolerant
     - Easy to grow

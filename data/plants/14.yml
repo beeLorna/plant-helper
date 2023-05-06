@@ -214,6 +214,7 @@
   biodiversity_wildlife: true
   interior_landscapes: false
   suitable_for_hedging: false
+  drought_resistant: true
   habit: Bushy
   flowers_present: true
   flower_description:
@@ -231,7 +232,6 @@
     - Greyish-green in colour
   additional_information:
     - Mediterranean plant
-    - Drought resistant
     - Seed heads provide winter interest
     - Small hairs on leaves can be a skin irritant
   images:
@@ -573,6 +573,7 @@
   biodiversity_wildlife: true
   interior_landscapes: false
   suitable_for_hedging: false
+  drought_resistant: true
   habit: Bushy
   flowers_present: true
   flower_description:
@@ -586,7 +587,6 @@
     - Rosette of heart-shaped basal leaves
     - Spiny stem leaves
   additional_information:
-    - Drought resistant
     - Good as a cut flower
     - Self seeds well in lighter soils
     - Prefers poor soils
