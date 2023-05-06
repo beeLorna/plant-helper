@@ -7,6 +7,7 @@
     <details>
       <summary>Filter</summary>
       <p><%= form.check_box :only_shuttleworth_cultivar %> <%= form.label :only_shuttleworth_cultivar, "Only show Shuttleworth cultivars" %></p>
+      <p><%= form.check_box :only_drought_resistant %> <%= form.label :only_drought_resistant, "Only show drought resistant plants" %></p>
       <%= form.submit "Go", name: nil %>
     </details>
   <% end %>
@@ -19,6 +20,7 @@
       <th>Common name</th>
       <th>Week</th>
       <th>Shuttleworth cv.</th>
+      <th>Drought resistant</th>
     </tr>
   </thead>
 
@@ -30,6 +32,11 @@
         <td class="week"><%= plant.week %></td>
         <td class="shuttleworth_cultivar">
           <% if plant.shuttleworth_cultivar %>
+            ✔
+          <% end %>
+        </td>
+        <td class="drought_resistant">
+          <% if plant.drought_resistant %>
             ✔
           <% end %>
         </td>
