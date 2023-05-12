@@ -1,0 +1,366 @@
+- id: campsis-radicans
+  botanical_name: Campsis radicans 'Flava'
+  shuttleworth_cultivar: true
+  pronunciation: KAMP-sis RAD-ih-kans
+  common_name: trumpet vine
+  description: A large, vigorous deciduous climber with strongly toothed leaflets and trumpet-shaped, deep yellow flowers to 8cm in length
+  classification:
+    - Shurb
+  family_name: Bignoniaceae
+  ultimate_height: 8–12 metres
+  ultimate_spread: 2.5–4 metres
+  time_to_ultimate_height: 5–10 years
+  native_to_uk: false
+  lime_avoiding: false
+  agm: false
+  light_requirements:
+    - Full sun
+  hardiness_level: H4
+  exposure:
+    - Sheltered
+  major_plant_group: Angiosperm
+  rhs_url: https://www.rhs.org.uk/plants/329666/campsis-radicans-flava/details
+  climber_wall_shrub: true
+  known_for_its_fruit: false
+  known_for_its_scent: false
+  ground_cover: false
+  known_for_its_flowers: true
+  known_for_its_foliage: false
+  foliage_type: Deciduous
+  weed_invasive: false
+  seasonal_short_term: false
+  winter_interest: false
+  biodiversity_wildlife: true
+  interior_landscapes: false
+  suitable_for_hedging: false
+  habit: Climbing
+  flowers_present: true
+  flower_description:
+    - Trumpet flower shape
+  fruit_present: false
+  fruit_description:
+  leaf_description:
+    - Compound leaf form
+    - Opposite leaf arrangement
+    - Serrate leaf margin
+  additional_information:
+    - Needs a long period of warmth for flowering
+    - It is in the same family as the Indian bean tree, Catalpa bignonioides.
+  images:
+    - plants/16/campsis-radicans/1.jpg
+    - plants/16/campsis-radicans/2.jpg
+    - plants/16/campsis-radicans/3.jpg
+    - plants/16/campsis-radicans/4.jpg
+    - plants/16/campsis-radicans/5.jpg
+    - plants/16/campsis-radicans/6.jpg
+  week: 16
+
+- id: iris-pseudacorus
+  botanical_name: Iris pseudacorus
+  pronunciation:
+  common_name: yellow iris
+  description: A vigorous herbaceous perennial forming extensive colonies to 1.5m in height, with bright yellow flowers up to 10cm in width, the falls with brown veining in the centre, in mid and late summer
+  classification:
+    - Perennial
+    - Aquatic
+    - Rhizome
+  family_name: Iridaceae
+  ultimate_height: 1–1.5 metres
+  ultimate_spread: 1–1.5 metres
+  time_to_ultimate_height: 2–5 years
+  harmful_effects: Ingestion may cause severe discomfort.
+  native_to_uk: true
+  lime_avoiding: false
+  agm: false
+  light_requirements:
+    - Full sun
+    - Partial shade
+  hardiness_level: H7
+  exposure:
+    - Exposed
+    - Sheltered
+  major_plant_group: Angiosperm
+  rhs_url: https://www.rhs.org.uk/plants/9334/i-iris-pseudacorus-i/details
+  climber_wall_shrub: false
+  known_for_its_fruit: false
+  known_for_its_scent: false
+  ground_cover: false
+  known_for_its_flowers: true
+  known_for_its_foliage: true
+  foliage_type: Deciduous
+  weed_invasive: false
+  seasonal_short_term: false
+  winter_interest: false
+  biodiversity_wildlife: true
+  interior_landscapes: false
+  suitable_for_hedging: false
+  habit: Suckering
+  flowers_present: true
+  flower_description:
+    - Panicle flower
+    - Bright yellow flowers up to 10cm in width
+  fruit_present: false
+  fruit_description:
+  leaf_description:
+    - Simple leaf form
+    - Whorled leaf arrangement
+    - Linear leaf shape
+    - Erect sword-shaped leaves are up to 90cm long and 3cm wide.
+  additional_information:
+    - Grow in wet, deep, acid, humus-rich soil in full sun or partial shade.
+    - It thrives at the margins of large ponds or streams
+    - Vigorous
+    - Prone to botritus
+  images:
+    - plants/16/iris-pseudacorus/1.jpg
+    - plants/16/iris-pseudacorus/2.jpg
+    - plants/16/iris-pseudacorus/3.jpg
+    - plants/16/iris-pseudacorus/4.jpg
+  week: 16
+
+- id: metasequoia-glyptostroboides
+  botanical_name: Metasequoia glyptostroboides
+  pronunciation: met-uh-see-KWOY-uh glip-toh-stroh-BOY-deez
+  common_name: dawn redwood
+  description: A vigorous, fast-growing conifer with fibrous, orange-brown bark, making a large, narrowly conical tree to 25m tall. Soft, bright green leaflets are held in two opposite ranks, giving the leaves a feathery appearance. Unusually for a conifer, this species is deciduous and the foliage takes on a tawny brown colour before dropping in autumn. An excellent specimen tree to grow where space is not an issue
+  classification:
+    - Tree
+  family_name: Cupressaceae
+  ultimate_height: Higher than 12 metres
+  ultimate_spread: 2.5–4 metres
+  time_to_ultimate_height: 20–50 years
+  native_to_uk: false
+  lime_avoiding: false
+  agm: false
+  light_requirements:
+    - Full sun
+  hardiness_level: H7
+  exposure:
+    - Exposed
+    - Sheltered
+  major_plant_group: Gynosperm
+  rhs_url: https://www.rhs.org.uk/plants/11093/metasequoia-glyptostroboides/details
+  climber_wall_shrub: false
+  known_for_its_fruit: false
+  known_for_its_scent: false
+  ground_cover: false
+  known_for_its_flowers: true
+  known_for_its_foliage: true
+  foliage_type: Deciduous
+  weed_invasive: false
+  seasonal_short_term: false
+  winter_interest: false
+  biodiversity_wildlife: true
+  interior_landscapes: false
+  suitable_for_hedging: false
+  habit: Columnar upright
+  flowers_present: false
+  flower_description:
+  fruit_present: true
+  fruit_description:
+    - Has cones
+    - Female cones are pendulous, dark brown, ellipsois or "barrel-like"
+    - Male cones are globose and 1.5cm long
+  leaf_description:
+    - Needles
+    - Opposite leaf arrangement
+    - Feathery
+  additional_information:
+    - Conifer
+    - Has cones
+    - Tolerant of water logging
+    - Tolerant of pollution
+    - Will tolerate dry and chalky soils although growth will be slower
+    - Genus was thought to have been extinct until it was found in China in the 1940's
+    - Had red bark
+    - Rusty pink autumn colour
+  images:
+    - plants/16/metasequoia-glyptostroboides/1.jpg
+    - plants/16/metasequoia-glyptostroboides/2.jpg
+    - plants/16/metasequoia-glyptostroboides/3.jpg
+    - plants/16/metasequoia-glyptostroboides/4.jpg
+    - plants/16/metasequoia-glyptostroboides/5.jpg
+    - plants/16/metasequoia-glyptostroboides/6.jpg
+    - plants/16/metasequoia-glyptostroboides/7.jpg
+    - plants/16/metasequoia-glyptostroboides/8.jpg
+  week: 16
+
+- id: miscanthus-sinensis
+  botanical_name: Miscanthus sinensis 'Red Chief'
+  shuttleworth_cultivar: true
+  pronunciation: miss-KANTH-us sih-NEN-sis
+  common_name: eulalia
+  description: A clump-forming, deciduous grass, to 1.5m tall, with narrow, arching leaves which turn yellow in autumn, fading to pale brown in winter. Feathery flower panicles open deep red in late summer and early autumn, fading to silver and remaining on the plant over winter
+  classification:
+    - Perennial
+  family_name: Poaceae
+  ultimate_height: 1–1.5 metres
+  ultimate_spread: 0.5–1 metres
+  time_to_ultimate_height: 2–5 years
+  native_to_uk: false
+  lime_avoiding: false
+  agm: false
+  light_requirements:
+    - Full sun
+  hardiness_level: H6
+  exposure:
+    - Exposed
+    - Sheltered
+  major_plant_group: Angiosperm
+  rhs_url: https://www.rhs.org.uk/plants/271977/miscanthus-sinensis-red-chief/details
+  climber_wall_shrub: false
+  known_for_its_fruit: false
+  known_for_its_scent: false
+  ground_cover: false
+  known_for_its_flowers: false
+  known_for_its_foliage: true
+  foliage_type: Deciduous
+  weed_invasive: false
+  seasonal_short_term: false
+  winter_interest: false
+  biodiversity_wildlife: false
+  interior_landscapes: false
+  suitable_for_hedging: false
+  drought_resistant: true
+  habit: Bushy
+  flowers_present: true
+  flower_description:
+  - Inflorescences a terminal panical of spikelets that unfurl atop the central vertical stalks
+  fruit_present: false
+  fruit_description:
+  leaf_description:
+    - Narrow arching blades
+  additional_information:
+    - Seeds heads are very attractive
+    - Red rust colour
+    - Prune back in spring, just before they come into growth
+  images:
+    - plants/16/miscanthus-sinensis/1.jpg
+    - plants/16/miscanthus-sinensis/2.jpg
+    - plants/16/miscanthus-sinensis/3.jpg
+    - plants/16/miscanthus-sinensis/4.jpg
+  week: 16
+
+- id: acer-palmatum
+  botanical_name: Acer palmatum
+  pronunciation: AY-ser pahl-MAY-tum
+  common_name: Japanese maple
+  description: A variable small tree with small, deeply 5 to 7-lobed leaves often colouring well in autumn. Small red flowers in spring are followed by winged, red or green fruits
+  classification:
+    - Tree
+  family_name: Sapindaceae
+  ultimate_height: 4–8 metres
+  ultimate_spread: 4–8 metres
+  time_to_ultimate_height: 10–20 years
+  native_to_uk: false
+  lime_avoiding: false
+  agm: false
+  light_requirements:
+    - Full sun
+    - Partial shade
+  hardiness_level: H6
+  exposure:
+    - Sheltered
+  major_plant_group: Angiosperm
+  rhs_url: https://www.rhs.org.uk/plants/225/i-acer-palmatum-i/details
+  climber_wall_shrub: false
+  known_for_its_fruit: false
+  known_for_its_scent: false
+  ground_cover: false
+  known_for_its_flowers: false
+  known_for_its_foliage: true
+  foliage_type: Deciduous
+  weed_invasive: false
+  seasonal_short_term: false
+  winter_interest: false
+  biodiversity_wildlife: false
+  interior_landscapes: false
+  suitable_for_hedging: false
+  habit: Bushy
+  flowers_present: false
+  flower_description:
+  fruit_present: false
+  fruit_description:
+  leaf_description:
+    - Simple leaf form
+    - Opposite leaf arrangement
+    - Palmasect leaf shape
+    - Lobed leaf margin
+    - Their colour varies from green during summer to yellow, bronze, purple to red fall colour
+  additional_information:
+    - Dappled shade is best
+    - Grown around other trees
+    - Prefer soil pH acid to neutral
+    - Potential to be wind scortched and sun scortched
+  images:
+    - plants/16/acer-palmatum/1.jpg
+    - plants/16/acer-palmatum/2.jpg
+    - plants/16/acer-palmatum/3.jpg
+    - plants/16/acer-palmatum/4.jpg
+    - plants/16/acer-palmatum/5.jpg
+  week: 16
+
+- id: cotinus-coggygria
+  botanical_name: Cotinus coggygria
+  pronunciation: ko-TYE-nus kog-GY-gree-uh
+  common_name: smoke tree
+  description: A large, bushy, deciduous shrub to 5m, with rounded leaves turning yellow, orange and red in autumn. Large feathery inflorescences are buff at first, later greyish
+  classification:
+    - Tree
+  family_name: Anacardiaceae
+  ultimate_height: 4–8 metres
+  ultimate_spread: 4–8 metres
+  time_to_ultimate_height: 5–10 years
+  native_to_uk: false
+  lime_avoiding: false
+  agm: false
+  light_requirements:
+    - Full sun
+    - Partial shade
+  hardiness_level: H5
+  exposure:
+    - Exposed
+    - Sheltered
+  major_plant_group: Angiosperm
+  rhs_url: https://www.rhs.org.uk/plants/4552/cotinus-coggygria/details
+  climber_wall_shrub: false
+  known_for_its_fruit: false
+  known_for_its_scent: false
+  ground_cover: false
+  known_for_its_flowers: false
+  known_for_its_foliage: true
+  foliage_type: Deciduous
+  weed_invasive: false
+  seasonal_short_term: false
+  winter_interest: false
+  biodiversity_wildlife: false
+  interior_landscapes: false
+  suitable_for_hedging: false
+  habit: Bushy
+  flowers_present: true
+  flower_description:
+    - Panicle inflorescence
+    - Small, yellow flowers are inconspicuous but are cloudy wispy looking with pink hairs on flower stalks that form off of current season growth.
+    - Panicles are 15-20cm long providing a show in the summer.
+    - Panicles of smoky pink flowers.
+  fruit_present: false
+  fruit_description:
+  leaf_description:
+    - Simple leaf form
+    - Alternate leaf arrangement
+    - Obovate leaf shape
+    - Well defined parallel veins
+  additional_information:
+    - Prune hard for larger leaves
+    - Flowers look like puff of smoke
+    - A good doer
+    - Good with most soils
+    - Can grow quite large but can be kept smaller by pruning
+  images:
+    - plants/16/cotinus-coggygria/1.jpg
+    - plants/16/cotinus-coggygria/2.jpg
+    - plants/16/cotinus-coggygria/3.jpg
+    - plants/16/cotinus-coggygria/4.jpg
+    - plants/16/cotinus-coggygria/5.jpg
+    - plants/16/cotinus-coggygria/6.jpg
+  week: 16
