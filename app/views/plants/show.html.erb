@@ -124,12 +124,32 @@
       </dl>
     </details>
 
-    <% if @plant.harmful_effects %>
+
       <details open>
-        <summary><h2>Harmful Effects</h2></summary>
-        <p><%= @plant.harmful_effects %></p>
+        <summary><h2>Things to consider</h2></summary>
+        <dl>
+          <dt>Considered a weed or invasive?</dt>
+          <dd><%= boolean_as_unicode(@plant.weed_invasive) %></dd>
+
+          <% if @plant.harmful_effects %>
+            <dt class="long">Harmful Effects</dt>
+            <dd class="long"><%= @plant.harmful_effects %></dd>
+          <% end %>
+        </dl>
       </details>
-    <% end %>
+
+    <details open>
+      <summary><h2>Specialised Selection Reasons</h2></summary>
+      <dl>
+        <dt>Beneficial to wildlife?</dt>
+        <dd><%= boolean_as_unicode(@plant.biodiversity_wildlife) %></dd>
+
+        <% if @plant.drought_resistant %>
+          <dt>Drought resistant?</dt>
+          <dd><%= boolean_as_unicode(@plant.drought_resistant) %></dd>
+        <% end %>
+      </dl>
+    </details>
 
     <details open>
       <summary><h2>Common Selection Reasons</h2></summary>
@@ -164,16 +184,6 @@
         <dt>For winter interest?</dt>
         <dd><%= boolean_as_unicode(@plant.winter_interest) %></dd>
 
-        <dt>Beneficial to wildlife?</dt>
-        <dd><%= boolean_as_unicode(@plant.biodiversity_wildlife) %></dd>
-
-        <dt>Considered a weed or invasive?</dt>
-        <dd><%= boolean_as_unicode(@plant.weed_invasive) %></dd>
-
-        <% if @plant.drought_resistant %>
-          <dt>Drought resistant?</dt>
-          <dd><%= boolean_as_unicode(@plant.drought_resistant) %></dd>
-        <% end %>
 
       </dl>
     </details>
