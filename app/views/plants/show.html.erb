@@ -148,6 +148,11 @@
           <dt>Drought resistant?</dt>
           <dd><%= boolean_as_unicode(@plant.drought_resistant) %></dd>
         <% end %>
+
+        <% if @plant.waterlogging_resistant %>
+          <dt>Waterlogging resistant?</dt>
+          <dd><%= boolean_as_unicode(@plant.waterlogging_resistant) %></dd>
+        <% end %>
       </dl>
     </details>
 

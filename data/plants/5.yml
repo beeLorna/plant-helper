@@ -94,6 +94,7 @@
   biodiversity_wildlife: false
   interior_landscapes: false
   suitable_for_hedging: false
+  waterlogging_resistant: true
   habit: Clump forming
   flowers_present: false
   flower_description:
@@ -404,6 +405,7 @@
   biodiversity_wildlife: false
   interior_landscapes: false
   suitable_for_hedging: false
+  waterlogging_resistant: true
   habit: Clump forming
   flowers_present: true
   flower_description:
