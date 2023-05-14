@@ -2,7 +2,7 @@
   botanical_name: Cuprocyparis leylandii
   pronunciation: KOO-pro-ke-PA-ris ley-land-ee-eye
   common_name: Leyland cypress
-  description: A large, fast-growing, dense conifer of columnar habit which can reach heights in excess of 30m if unchecked.
+  description: A large, fast-growing, dense conifer of columnar habit which can reach heights in excess of 30m if unchecked. Its dense foliage forms flattened, slightly drooping sprays of scale-like leaves
   classification:
     - Tree
   family_name: Cupressaceae
@@ -62,7 +62,7 @@
   botanical_name: Araucaria araucana
   pronunciation: Ah-raw-care-ee-ah ah-raw-cana
   common_name: Monkey puzzle
-  description: A stately evergreen tree with branches clothed in sharply pointed, triangular dark green leaves. Mature plants may bear cones on the upper branches, male and female usually on separate trees.
+  description: A stately evergreen tree with branches clothed in sharply pointed, triangular dark green leaves. Mature plants may bear cones on the upper branches, male and female usually on separate trees
   classification:
     - Tree
   family_name: Araucariaceae
@@ -121,7 +121,7 @@
   botanical_name: Arbutus unedo
   pronunciation: Ar-boo-tus u-nad-o
   common_name: Strawberry tree
-  description: Spreading, evergreen, shrubby tree, about 8m tall, with rough shredding red-brown bark and mid-green leathery leaves. Flowers are urn-shaped and white, sometimes pink tinged, appearing in panicles to 5cm long as the strawberry-like red fruits, from the previous years flowers, ripen.
+  description: Spreading, evergreen, shrubby tree, about 8m tall, with rough shredding red-brown bark and mid-green leathery leaves. Flowers are urn-shaped and white, sometimes pink tinged, appearing in panicles to 5cm long as the strawberry-like red fruits, from the previous years flowers, ripen
   classification:
     - Tree
     - Shrub
@@ -192,7 +192,7 @@
   botanical_name: Berberis dawinii
   pronunciation: ber-beris darwin-ee-eye
   common_name: Darwin's Barberry
-  description: A dense, medium-sized evergreen shrub.
+  description: A dense, medium-sized evergreen shrub, with dark glossy green, broadly oblong, sparsely-spined leaves, and drooping racemes of rich orange flowers, tinged red in bud, followed by blue-black berries
   classification:
     - Shrub
   family_name: Berberidaceae
@@ -262,7 +262,7 @@
   botanical_name: Choisya ternata 'Sundance'
   pronunciation: coy-sia ter-nata
   common_name: Mexican orange blossom
-  description: A medium-sized evergreen shrub of rounded habit with glossy, aromatic bright yellow, ternate leaves and small clusters of fragrant white flowers.
+  description: A medium-sized evergreen shrub of rounded habit with glossy, aromatic bright yellow, ternate leaves and small clusters of fragrant white flowers
   classification:
     - Shrub
   family_name: Rutaceae
@@ -329,7 +329,7 @@
   botanical_name: Cordyline australis
   pronunciation: cord-a-lin-eh
   common_name: Cabbage palm
-  description: A small evergreen tree with several stout branches arising from a single trunk.
+  description: A small evergreen tree with several stout branches arising from a single trunk. Leaves long, sword-shaped, in dense clusters at the branch tips. Large panicles of small, fragrant cream flowers
   classification:
     - Tree
   family_name: Asparagaceae
@@ -392,7 +392,7 @@
   botanical_name: Sarcococca confusa
   pronunciation: sarco-coh-ca
   common_name: Sweet box
-  description: S. confusa is a bushy evergreen shrub to 2m, with glossy, deep green, wavy ovate leaves 3-5cm in length and, in winter, inconspicuous, very sweetly scented, creamy-white flowers, followed by glossy black berries.
+  description: A bushy evergreen shrub to 2m, with glossy, deep green, wavy ovate leaves 3-5cm in length and, in winter, inconspicuous, very sweetly scented, creamy-white flowers, followed by glossy black berries
   classification:
     - Shrub
   family_name: Buxaceae
@@ -456,7 +456,7 @@
   botanical_name: Viburnum davidii
   pronunciation: dah-vid-ee-eye
   common_name: David viburnum
-  description: A small spreading evergreen shrub, with elliptic, deep green, leathery, three-veined leaves and flattened heads of small dull white flowers followed on cross-pollinated plants by long-lasting 'metallic' blue-black berries.
+  description: A small spreading evergreen shrub, with elliptic, deep green, leathery, three-veined leaves and flattened heads of small dull white flowers followed on cross-pollinated plants by long-lasting 'metallic' blue-black berries
   classification:
     - Shrub
   family_name: Viburnaceae

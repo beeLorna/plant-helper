@@ -2,7 +2,7 @@
   botanical_name: Agave americana
   pronunciation: ah-GAH-vay a-mer-ih-KAH-na
   common_name: century plant
-  description: An evergreen perennial forming handsome rosettes of spiny-edged, grey-green leaves.
+  description: An evergreen perennial forming handsome rosettes of spiny-edged, grey-green leaves. Panicles to 8m in length, of greenish-yellow flowers 8cm in length, are produced only by old plants
   classification:
     - Succulent
     - House
@@ -66,7 +66,7 @@
   botanical_name: Cyclamen hederifolium
   pronunciation: SICK-la-men hed-er-ih-FOH-lee-um
   common_name: ivy-leaved cyclamen
-  description: A perennial to 12cm, with somewhat ivy-shaped leaves patterned with silvery-green, and pink, sometimes fragrant, flowers 2.5cm in width, darker around the mouth, opening before or with the leaves.
+  description: A perennial to 12cm, with somewhat ivy-shaped leaves patterned with silvery-green, and pink, sometimes fragrant, flowers 2.5cm in width, darker around the mouth, opening before or with the leaves
   classification:
     - Tuber
   family_name: Primulaceae
@@ -125,7 +125,7 @@
   botanical_name: Ophiopogon planiscapus 'Kokuryū'
   pronunciation: OFFY-op-o-gone plan-i-scape-us co-KU-re-u
   common_name: black mondo
-  description: Kokuryu is an evergreen perennial to 20cm, forming dense tufts of arching, narrowly strap-shaped.
+  description: An evergreen perennial to 20cm, forming dense tufts of arching, narrowly strap-shaped, leathery black leaves 20-30cm in length. Racemes of small purplish flowers, followed by glossy black berries
   classification:
     - Perennial
   family_name: Asparagaceae
@@ -186,7 +186,7 @@
   shuttleworth_cultivar: true
   pronunciation: hell-a-bor-us cross hybrid-us
   common_name: hybrid Lenton rose
-  description: Harvington pink speckled is a clump-forming, semi-evergreen herbaceous perennial.
+  description: A clump-forming, semi-evergreen herbaceous perennial, up to 45cm high, with deep green leaves and outward-facing, saucer-shaped, pink flowers that are heavily-speckled with purplish red, from late winter to spring
   classification:
     - Perennial
   family_name: Ranunculaceae
@@ -245,7 +245,7 @@
   botanical_name: Fatsia japonica
   pronunciation:
   common_name: Japanese aralia
-  description: A medium-sized evergreen shrub of open, spreading habit, with palmately-lobed leaves to 45cm in width and small white flowers in globose clusters. Fruits small, black.
+  description: A medium-sized evergreen shrub of open, spreading habit, with palmately-lobed leaves to 45cm in width and small white flowers in globose clusters. Fruits small, black
   classification:
     - Shrub
   family_name: Araliaceae
@@ -306,7 +306,7 @@
   botanical_name: Photinia x fraseri 'Red Robin'
   pronunciation: fo-TIN-ee-ah cross FRA-seh-ree
   common_name: Christmas berry 'Red Robin'
-  description: A dense, medium-sized evergreen shrub with an erect habit.
+  description: A dense, medium-sized evergreen shrub with an erect habit, with glossy, elliptic leaves to 10cm in length, bright red when young, later dark green. Clusters of creamy-white flowers appear in spring if left unpruned
   classification:
     - Shrub
   family_name: Rosaceae
@@ -371,7 +371,7 @@
   botanical_name: Phyllostachys aurea
   pronunciation: phill-o-stack-ee-us aw-ree-ah
   common_name: fish-pole bamboo
-  description: A graceful evergreen bamboo producing large clumps of bright green canes 2.5-3.5m high becoming yellowish with age and exposure.
+  description: A graceful evergreen bamboo producing large clumps of bright green canes 2.5-3.5m high becoming yellowish with age and exposure. Leaves linear-lanceolate are yellow to golden-green , to 18cm in length
   classification:
     - Perennial
   family_name: Poaceae
@@ -428,7 +428,7 @@
   shuttleworth_cultivar: true
   pronunciation:
   common_name: common dogwood
-  description: A spreading shrub to 2m tall, with orange-red and yellow young shoot. Grown for the coloured stems which are brightest in winter.
+  description: A spreading shrub to 2m tall, with orange-red and yellow young shoots bearing oval leaves and insignificant white flowers in summer; grown for the coloured stems which are brightest in winter
   classification:
     - Shrub
   family_name: Cornaceae

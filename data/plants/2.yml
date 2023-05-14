@@ -2,7 +2,7 @@
   botanical_name: Asplenium scolopendrium
   pronunciation: ASs-plen-ium skull-a-pen-dree-um
   common_name: hart's tongue fern
-  description: An evergreen fern forming a rosette of arching, rich green, strap-shaped fronds 30-75cm in length. Spores borne in conspicuous transverse stripes beneath the fronds.
+  description: An evergreen fern forming a rosette of arching, rich green, strap-shaped fronds 30-75cm in length, the margins often undulate. Spores borne in conspicuous transverse stripes beneath the fronds
   classification:
     - Perennial
     - Fern
@@ -68,7 +68,7 @@
   botanical_name: Taxus baccata
   pronunciation: tax-us bh-CAR-ta
   common_name: common yew
-  description: A medium-sized bushy evergreen tree with narrow, leathery, very dark green leaves arranged in two rows on the shoots, and insignificant flowers followed on female plants by fleshy red fruits.
+  description: A medium-sized bushy evergreen tree with narrow, leathery, very dark green leaves arranged in two rows on the shoots, and insignificant flowers followed on female plants by fleshy red fruits
   classification:
     - Tree
   family_name: Taxaceae
@@ -145,7 +145,7 @@
   botanical_name: Skimmia japonica
   pronunciation: SKIM-ee-ah ja-PON-i-ka
   common_name: Japanese skimmia
-  description: A variable, evergreen, densely-branched, dome-shaped shrub, low and creeping or erect, from 0.5m to 7m in height (but typically up to 1.5m in cultivation).
+  description: A variable, evergreen, densely-branched, dome-shaped shrub, low and creeping or erect, from 0.5m to 7m in height (but typically up to 1.5m in cultivation), with slightly-aromatic, dark green, leathery, obovate to elliptic leaves. White flowers in spring, sometimes flushed pink or red on the outside, appear in panicles at the ends of branches; male flowerheads are large and conspicuous, up to 8cm long, and very sweetly-scented, while the smaller fragrant female flowerheads are followed, if pollinated, by brilliantly bright red fruits, 8mm across, which usually last until the next flowers appear the following spring
   classification:
     - Shrub
   family_name: Rutaceae
@@ -212,7 +212,7 @@
   shuttleworth_cultivar: true
   pronunciation: vin-ka major
   common_name: greater periwinkle
-  description: A vigorous evergreen sub-shrub forming a clump of erect stems bearing glossy ovate leaves and solitary violet-blue flowers.
+  description: A vigorous evergreen sub-shrub forming a clump of erect stems bearing glossy ovate leaves and solitary violet-blue flowers 4cm wide in the leaf axils, with long rooting sterile stems making effective ground cover
   classification:
     - Sub-shrub
     - Shrub
@@ -278,7 +278,7 @@
   botanical_name: Buxus sempervirens
   pronunciation: bux-us SEM-per-VEE-rehns
   common_name: common box
-  description: A slow-growing, evergreen tree. Mature trees can grow to a height of 12m. They have a compact habit, with smooth grey bark which fissures with age, and green, downy stems.
+  description: A large, evergreen shrub or small tree to 5m tall, with glossy, dark green leaves to 3cm long, and small, yellowish flowers in clusters, produced in the leaf axils during spring
   classification:
     - Tree
     - Shrub
@@ -348,7 +348,7 @@
   botanical_name: Salvia rosmarinus
   pronunciation: sal-via roz-ma-rine-us
   common_name: rosemary
-  description: A bushy mediterranean shrub with a dense, leafy habit. It is known for its culinary useages and aromatic smell.
+  description: A bushy shrub with a dense, leafy habit, to 2m x 2m but variable in size. Linear dark green leaves 1.5-5cm long have recurved margins and pale, felty undersides. Flowers usually pale violet-blue and white. Flowering starts in spring but is often repeated at differing times of year. Both habit and flower colour can be variable, from prostrate to upright, from deep blue to paler and white tones, pink or purple
   classification:
     - Shrub
   family_name: Lamiaceae
@@ -415,7 +415,7 @@
   botanical_name: Abelia x grandiflora
   pronunciation: uh-BEEL-ee-uh gran-dif-FLOR-uh
   common_name: glossy abelia
-  description: A medium-sized semi-evergreen shrub, with arching branches, bearing small glossy oval leaves and clusters of pale pink, slightly fragrant flowers over a long period from mid-summer.
+  description: A medium-sized semi-evergreen shrub to 3m, with arching branches, bearing small glossy oval leaves and clusters of pale pink, slightly fragrant flowers over a long period from mid-summer
   classification:
     - Shrub
   family_name: Caprifoliaceae
@@ -479,7 +479,7 @@
   shuttleworth_cultivar: true
   pronunciation:
   common_name: common ivy
-  description: A vigorous, self-clinging climber in its juvenile state, then produces bushy, non-clinging branches when becomes mature, along with flowers and fruits.
+  description: A vigorous, self-clinging climber with three- to five-lobed, glossy, evergreen leaves, often with pale green veins, and some reddish or bronzy colours in autumn. Mature plants produce bushy, non-clinging branches with diamond-shaped leaves, and small, nectar-rich, greenish-yellow flowers in clusters of rounded heads in autumn, followed by black berries in winter
   classification:
     - Perennial
   family_name: Araliaceae

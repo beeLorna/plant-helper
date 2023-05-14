@@ -63,7 +63,7 @@
   botanical_name: Elymus repens
   pronunciation: elle-em-us rep-ens
   common_name: crouch grass, twitch
-  description: A fast-growing perennial grass.
+  description: A fast-growing perennial grass with pale, hairy sheaths on the lower leaves and flat green leaf blades to 40cm long. Produces upright flower spikes to 120cm high in late summer. Each plant forms a dense network of pale yellow or straw-coloured rhizomatous roots, that enable it to spread rapidly in lawns and borders
   classification:
     - Perennial
   family_name: Poaceae
@@ -120,7 +120,7 @@
   botanical_name: Fagus sylvatica
   pronunciation: faye-gus sal-vat-i-kah
   common_name: common beech
-  description: Large, vigorous deciduous tree reaching 30m in height, with a broad, spreading crown. Leaves broadly elliptic, yellow-green in spring, rich golden copper to russet-brown in autumn. Small, green flowers in early spring, are followed by bristly fruits (nuts).
+  description: Large, vigorous deciduous tree reaching 30m in height, with a broad, spreading crown. Leaves broadly elliptic, yellow-green in spring, rich golden copper to russet-brown in autumn. Small, green flowers in early spring, are followed by bristly fruits (nuts)
   classification:
     - Tree
   family_name: Fagaceae
@@ -185,7 +185,7 @@
   botanical_name: Liriope muscari
   pronunciation: luh-RYE-oh-pee
   common_name: big blue lilyturf
-  description: L. muscari is an evergreen tuberous perennial forming a dense clump of narrow, arching, leathery, dark green leaves, with small violet-purple flowers carried in dense, erect spikes to 30cm in height in autumn, followed by black berries.
+  description: An evergreen tuberous perennial forming a dense clump of narrow, arching, leathery, dark green leaves, with small violet-purple flowers carried in dense, erect spikes to 30cm in height in autumn, followed by black berries
   classification:
     - Perennial
   family_name: Asparagaceae
@@ -245,7 +245,7 @@
   botanical_name: Monstera deliciosa
   pronunciation: mon-STER-ah de-lis-ee-OH-sah
   common_name: Swiss cheese plant
-  description: M. deliciosa is an evergreen shrub to 5m or more, climbing by aerial roots, with heart-shaped, pinnatisect and often perforated, glossy deep green leaves to 90cm; flower spathes 30cm, white, followed by cone-like cream fruit.
+  description: An evergreen shrub to 5m or more, climbing by aerial roots, with heart-shaped, pinnatisect and often perforated, glossy deep green leaves to 90cm; flower spathes 30cm, white, followed by cone-like cream fruit
   classification:
     - Shrub
     - Houseplant
@@ -308,7 +308,7 @@
   botanical_name: Plantago major
   pronunciation: plan-TA-go major
   common_name: greater plantain / cart track plant
-  description: A low-growing herbaceous perennial with a rosette of broad, oval, dark green leaves, with pale green veins and stems. Produces leafless spikes of small, tightly clustered brownish purple flowers on upright stems up to 20cm high.
+  description: A low-growing herbaceous perennial with a rosette of broad, oval, dark green leaves, with pale green veins and stems. Produces leafless spikes of small, tightly clustered brownish purple flowers on upright stems up to 20cm high
   classification:
     - Perennial
     - Forb
@@ -374,7 +374,7 @@
   botanical_name: Ceratophyllum demersum
   pronunciation: sarah-toe-phill-um dem-er-sum
   common_name: hornwort
-  description: C. demersum is a submerged perennial with forked, dark green leaves, with tiny flowers in summer.
+  description: A submerged perennial with forked, dark green leaves, with tiny flowers in summer
   classification:
     - Perennial
     - Aquatic
@@ -430,7 +430,7 @@
   botanical_name: Spathiphyllum wallisii
   pronunciation: spaff-if-eye-lum wall-iss-ee-i
   common_name: peace lily
-  description: S. wallisii is an evergreen perennial with erect, lance-shaped, glossy dark green leaves, and ovate white flowering spathes to 15cm in length, each with a slender cream spadix within.
+  description: An evergreen perennial with erect, lance-shaped, glossy dark green leaves, and ovate white flowering spathes to 15cm in length, each with a slender cream spadix within
   classification:
     - Perennial
     - Houseplant
