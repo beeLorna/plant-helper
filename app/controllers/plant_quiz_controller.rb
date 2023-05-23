@@ -2,7 +2,7 @@ class PlantQuizController < ApplicationController
   QUESTION_COMBINATIONS = [
     {question_attribute: :common_name, answer_attribute: :botanical_name},
     {question_attribute: :botanical_name, answer_attribute: :common_name},
-    {question_attribute: :description, answer_attribute: :common_name}
+    {question_attribute: :description, answer_attribute: :botanical_name}
   ].freeze
 
   def question
