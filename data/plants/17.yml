@@ -1,0 +1,298 @@
+- id: rhinanthus-minor
+  botanical_name: Rhinanthus minor
+  pronunciation:
+  common_name: yellow rattle
+  description: An annual to 30cm with simple or branched stems bearing narrowly lance-shaped leaves and tubular, 2-lipped yellow flowers with brown or purple teeth, within a bladdery, inflated calyx
+  classification:
+    - Annual
+    - Forb
+  family_name: Orobanchaceae
+  ultimate_height: 0.1-0.5 metres
+  ultimate_spread: 0–0.1 metres
+  time_to_ultimate_height: 1-2 years
+  native_to_uk: true
+  lime_avoiding: false
+  agm: false
+  light_requirements:
+    - Full sun
+  hardiness_level: H5
+  exposure:
+    - Exposed
+    - Sheltered
+  major_plant_group: Angiosperm
+  rhs_url: https://www.rhs.org.uk/plants/64224/rhinanthus-minor/details
+  climber_wall_shrub: false
+  known_for_its_fruit: false
+  known_for_its_scent: false
+  ground_cover: false
+  known_for_its_flowers: false
+  known_for_its_foliage: false
+  foliage_type: Deciduous
+  weed_invasive: false
+  seasonal_short_term: true
+  winter_interest: false
+  biodiversity_wildlife: true
+  interior_landscapes: false
+  suitable_for_hedging: false
+  habit: Columnar upright
+  flowers_present: true
+  flower_description:
+    - Tubular
+    - 2-lipped yellow flowers
+    - Protrude from an inflated green calyx
+    - Borne in a terminal raceme
+  fruit_present: false
+  fruit_description:
+  leaf_description:
+    - Simple leaf form
+    - Opposite leaf arrangement
+    - Serrated leaf margin
+    - Deep dark-green veins
+  additional_information:
+    - Semi-parasitic to all plants (not just grasses)
+    - Used in wildflower meadows to weaken grass growth
+    - When the flowers of yellow-rattle fade, the brown calyxes (containing the sepals) in which the tiny seeds ripen can be seen and heard and give a distinctive 'rattle'.
+  images:
+    - plants/17/rhinanthus-minor/1.jpg
+    - plants/17/rhinanthus-minor/2.jpg
+    - plants/17/rhinanthus-minor/3.jpg
+    - plants/17/rhinanthus-minor/4.jpg
+    - plants/17/rhinanthus-minor/5.jpg
+    - plants/17/rhinanthus-minor/6.jpg
+    - plants/17/rhinanthus-minor/7.jpg
+  week: 17
+
+- id: stipa-gigantea
+  botanical_name: Stipa gigantea
+  pronunciation:
+  common_name: golden oats
+  description: A robust tufted evergreen grass to 2m, with arching linear green leaves and large panicles of oat-like, long-awned purplish flowers which ripen to gold
+  classification:
+    - Perennial
+  family_name: Poaceae
+  ultimate_height: 1.5-2.5 metres
+  ultimate_spread: 0.5-1 metres
+  time_to_ultimate_height: 2-5 years
+  native_to_uk: false
+  lime_avoiding: false
+  agm: true
+  light_requirements:
+    - Full sun
+  hardiness_level: H4
+  exposure:
+    - Sheltered
+  major_plant_group: Angiosperm
+  rhs_url: https://www.rhs.org.uk/plants/17802/stipa-gigantea/details
+  climber_wall_shrub: false
+  known_for_its_fruit: false
+  known_for_its_scent: false
+  ground_cover: false
+  known_for_its_flowers: true
+  known_for_its_foliage: true
+  foliage_type: Evergreen
+  weed_invasive: false
+  seasonal_short_term: false
+  winter_interest: true
+  biodiversity_wildlife: false
+  interior_landscapes: false
+  suitable_for_hedging: false
+  habit: Tufted
+  flowers_present: true
+  flower_description:
+    - All erect stems of oat like feathery flowers which are a bright purple, changing with age to a gold colour
+  fruit_present: false
+  fruit_description:
+  leaf_description:
+    - Tall arching branches of linear green leaves
+  additional_information:
+    - Architectural
+    - Seed heads provide good winter interest
+    - Divide every few years to maintain vigour
+    - Remove dead foliage and old flowered stems in spring
+  images:
+    - plants/17/stipa-gigantea/1.jpg
+    - plants/17/stipa-gigantea/2.jpg
+    - plants/17/stipa-gigantea/3.jpg
+    - plants/17/stipa-gigantea/4.jpg
+    - plants/17/stipa-gigantea/5.jpg
+  week: 17
+
+- id: trachelospermum-jasminoides
+  botanical_name: Trachelospermum jasminoides
+  pronunciation: trah-key-low-SPER-mum jaz-min-OY-deez
+  common_name: star jasmine
+  description: Vigorous, evergreen, woody climber about 9m in height, with twining stems, glossy dark green, oval leaves to 10cm in length, often turning deep bronze-red in winter and clusters of very fragrant, white flowers 2.5cm in width produced in mid to late summer
+  classification:
+    - Perennial
+  family_name: Apocynaceae
+  ultimate_height: 8-12 metres
+  ultimate_spread: 4-8 metres
+  time_to_ultimate_height: 5-10 years
+  native_to_uk: false
+  lime_avoiding: false
+  agm: true
+  light_requirements:
+    - Full sun
+    - Partial shade
+  hardiness_level: H4
+  exposure:
+    - Sheltered
+  major_plant_group: Angiosperm
+  rhs_url: https://www.rhs.org.uk/plants/18287/trachelospermum-jasminoides/details
+  climber_wall_shrub: true
+  known_for_its_fruit: false
+  known_for_its_scent: false
+  ground_cover: false
+  known_for_its_flowers: true
+  known_for_its_foliage: true
+  foliage_type: Evergreen
+  weed_invasive: false
+  seasonal_short_term: false
+  winter_interest: true
+  biodiversity_wildlife: false
+  interior_landscapes: false
+  suitable_for_hedging: false
+  habit: Climbing
+  flowers_present: true
+  flower_description:
+    - Cyme inflorescence
+    - Fragrant
+    - Star flower shape
+  fruit_present: false
+  fruit_description:
+  leaf_description:
+    - Simple leaf form
+  additional_information:
+    - Can be grown in shade
+    - It is tolerant of heavy shade
+    - Not actually a jasmine
+  images:
+    - plants/17/trachelospermum-jasminoides/1.jpg
+    - plants/17/trachelospermum-jasminoides/2.jpg
+    - plants/17/trachelospermum-jasminoides/3.jpg
+    - plants/17/trachelospermum-jasminoides/4.jpg
+    - plants/17/trachelospermum-jasminoides/5.jpg
+    - plants/17/trachelospermum-jasminoides/6.jpg
+    - plants/17/trachelospermum-jasminoides/7.jpg
+  week: 17
+
+- id: acanthus-mollis
+  botanical_name: Acanthus mollis
+  pronunciation: a-KANTH-us MAW-liss
+  common_name: bear's breech
+  description: A vigorous plant with large, glossy dark green leaves, pinnately lobed and, in late summer, tall racemes of white flowers with dusky purple bracts
+  classification:
+    - Perennial
+  family_name: Acanthaceae
+  ultimate_height: 1-1.5 metres
+  ultimate_spread: 1-1.5 metres
+  time_to_ultimate_height: 2-5 years
+  native_to_uk: false
+  lime_avoiding: false
+  agm: false
+  light_requirements:
+    - Full sun
+    - Partial shade
+    - Deep shade
+  hardiness_level: H6
+  exposure:
+    - Exposed
+    - Sheltered
+  major_plant_group: Angiosperm
+  rhs_url: https://www.rhs.org.uk/plants/155/acanthus-mollis/details
+  climber_wall_shrub: false
+  known_for_its_fruit: false
+  known_for_its_scent: false
+  ground_cover: false
+  known_for_its_flowers: true
+  known_for_its_foliage: false
+  foliage_type: Deciduous
+  weed_invasive: false
+  seasonal_short_term: false
+  winter_interest: false
+  biodiversity_wildlife: false
+  interior_landscapes: false
+  suitable_for_hedging: false
+  drought_resistant: true
+  habit: Columnar upright
+  flowers_present: true
+  flower_description:
+    - Raceme and spike inflorescence
+    - Tubular flower shape
+  fruit_present: false
+  fruit_description:
+  leaf_description:
+    - Leaves form a mounded basal cluster of deeply lobed and cut, shiny dark green leaves
+    - Simple leaf form
+    - Pinnatifid leaf shape
+  additional_information:
+    - Is prone to powdery mildew
+    - Can spread aggressively under ideal conditions
+  images:
+    - plants/17/acanthus-mollis/1.jpg
+    - plants/17/acanthus-mollis/2.jpg
+    - plants/17/acanthus-mollis/3.jpg
+    - plants/17/acanthus-mollis/4.jpg
+    - plants/17/acanthus-mollis/5.jpg
+    - plants/17/acanthus-mollis/6.jpg
+  week: 17
+
+- id: daucus-carota
+  botanical_name: Daucus carota
+  pronunciation: DAW-kus kar-OH-tah
+  common_name: wild carrot
+  description: A tap-rooted biennial, its solid, ridged stems reaching 75cm in height. In summer it bears white umbels, tinged with pink in bud and sometimes in flower and the very central floret is dark red. Only this flower produces nectar. It can be identified from other umbellifers by the 3 forked bracts below the flowerhead. After flowering, these turn inwards giving the appearance of delicate baskets. Flowers are enjoyed by pollen and nectar feeders
+  classification:
+    - Perennial
+    - Forb
+  family_name: Apiaceae
+  ultimate_height: 0.5-1 metres
+  ultimate_spread: 0.1–0.5 metres
+  time_to_ultimate_height: 1-2 years
+  native_to_uk: false
+  lime_avoiding: false
+  agm: false
+  light_requirements:
+    - Full sun
+  hardiness_level: H7
+  exposure:
+    - Exposed
+    - Sheltered
+  major_plant_group: Angiosperm
+  rhs_url: https://www.rhs.org.uk/plants/24469/daucus-carota/details
+  climber_wall_shrub: false
+  known_for_its_fruit: false
+  known_for_its_scent: false
+  ground_cover: false
+  known_for_its_flowers: true
+  known_for_its_foliage: false
+  foliage_type: Deciduous
+  weed_invasive: false
+  seasonal_short_term: false
+  winter_interest: false
+  biodiversity_wildlife: true
+  interior_landscapes: false
+  suitable_for_hedging: false
+  habit: Bushy
+  flowers_present: true
+  flower_description:
+    - Umbel inflorescence
+  fruit_present: false
+  fruit_description:
+  leaf_description:
+    - Compound leaf form
+    - Basal and alternate
+    - 2-pinnately divided
+    - Deeply cut into numerous narrow segments
+  additional_information:
+    - Can grow in chalky soils
+    - Has nice seed heads
+    - Found in wildflower meadows
+  images:
+    - plants/17/daucus-carota/1.jpg
+    - plants/17/daucus-carota/2.jpg
+    - plants/17/daucus-carota/3.jpg
+    - plants/17/daucus-carota/4.jpg
+    - plants/17/daucus-carota/5.jpg
+    - plants/17/daucus-carota/6.jpg
+  week: 17
