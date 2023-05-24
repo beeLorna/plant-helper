@@ -7,7 +7,14 @@
 
   <%= form.label @answer_attribute do %>
     <h2>What is the <em><%= @answer_attribute.to_s.humanize(capitalize: false) %></em> of the plant with this <em><%= @question_attribute.to_s.humanize(capitalize: false) %></em>?</h2>
-    <p class="<%= @question_attribute %>">“<%= @question_value %>”</p>
+    <% case @question_type %>
+    <% when PlantQuizController::QuestionType::TEXT %>
+      <p class="<%= @question_attribute %>">“<%= @question_value %>”</p>
+    <% when PlantQuizController::QuestionType::IMAGE %>
+      <figure>
+        <%= image_tag @question_value, class: @question_attribute %>
+      </figure>
+    <% end %>
   <% end %>
   <%= form.text_field @answer_attribute, style: "font-style: italic" %>
 
