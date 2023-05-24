@@ -1,8 +1,23 @@
 class PlantQuizController < ApplicationController
+  module QuestionType
+    TEXT = "text"
+    IMAGE = "image"
+
+    def for_attribute(attribute)
+      if [:images].include?(attribute)
+        return IMAGE
+      end
+
+      TEXT
+    end
+    module_function :for_attribute
+  end
+
   QUESTION_COMBINATIONS = [
     {question_attribute: :common_name, answer_attribute: :botanical_name},
     {question_attribute: :botanical_name, answer_attribute: :common_name},
-    {question_attribute: :description, answer_attribute: :botanical_name}
+    {question_attribute: :description, answer_attribute: :botanical_name},
+    {question_attribute: :images, answer_attribute: :botanical_name}
   ].freeze
 
   def question
@@ -24,7 +39,13 @@ class PlantQuizController < ApplicationController
     end
 
     @plant = Plant.all.sample
+
     @question_value = @plant[@question_attribute]
+    if @question_value.is_a?(Array)
+      @question_value = @question_value.sample
+    end
+
+    @question_type = QuestionType.for_attribute(@question_attribute)
   end
 
   def answer
