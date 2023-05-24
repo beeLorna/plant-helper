@@ -1,10 +1,17 @@
 <turbo-stream action="replace" target="result">
   <template>
     <div id="result">
-      <% if @given_answer == @expected_answer %>
+      <% case @result %>
+      <% when PlantQuizController::Result::CORRECT %>
         <p><strong>Correct!</strong></p>
-      <% else %>
-        <p><strong>Incorrect... Try again.</strong></p>
+      <% when PlantQuizController::Result::NEARLY_CORRECT %>
+        <p><strong>Nearly!</strong> Try again.</p>
+        <details>
+          <summary>The correct answer is...</summary>
+          <p class="<%= @answer_attribute %>"><%= @expected_answer %></p>
+        </details>
+      <% when PlantQuizController::Result::INCORRECT %>
+        <p><strong>Incorrect...</strong> Try again.</p>
         <details>
           <summary>The correct answer is...</summary>
           <p class="<%= @answer_attribute %>"><%= @expected_answer %></p>
