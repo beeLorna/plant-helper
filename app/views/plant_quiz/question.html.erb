@@ -16,7 +16,7 @@
       </figure>
     <% end %>
   <% end %>
-  <%= form.text_field @answer_attribute, style: "font-style: italic" %>
+  <%= form.text_field @answer_attribute, class: @answer_attribute %>
 
   <%= form.submit "Am I right?" %>
 <% end %>
