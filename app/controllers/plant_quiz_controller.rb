@@ -1,3 +1,5 @@
+require "facets/string/edit_distance"
+
 class PlantQuizController < ApplicationController
   module QuestionType
     TEXT = "text"
@@ -11,6 +13,12 @@ class PlantQuizController < ApplicationController
       TEXT
     end
     module_function :for_attribute
+  end
+
+  module Result
+    CORRECT = "correct"
+    NEARLY_CORRECT = "nearly correct"
+    INCORRECT = "incorrect"
   end
 
   QUESTION_COMBINATIONS = [
@@ -56,5 +64,13 @@ class PlantQuizController < ApplicationController
 
     @plant = Plant.find(plant_id)
     @expected_answer = @plant[@answer_attribute]
+
+    @result = if @given_answer == @expected_answer
+      Result::CORRECT
+    elsif @given_answer.edit_distance(@expected_answer) <= [@expected_answer.length / 3, 4].max
+      Result::NEARLY_CORRECT
+    else
+      Result::INCORRECT
+    end
   end
 end

@@ -40,6 +40,7 @@ gem "bootsnap", require: false
 # gem "sassc-rails"
 
 gem "active_hash"
+gem "facets", require: false # So we don't load all the facets we don't need
 gem "humanize_boolean"
 
 group :development, :test do
