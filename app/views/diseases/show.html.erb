@@ -1,0 +1,68 @@
+<%= link_to "Back", diseases_path %>
+
+<div class="show">
+  <div>
+    <h1 class="name"><%= @disease.name %></h1>
+
+    <p><%= link_to "RHS disease page", @disease.rhs_url, target: :_blank %></p>
+  </div>
+
+  <div class="show__photo-section">
+    <% @disease.images.each do |image| %>
+      <a class="show__photo-section__photo" href="<%= image_path image %>" target="_blank"><%= image_tag image %></a>
+    <% end %>
+  </div>
+
+  <div class="show__info-section">
+    <details class="wide" open>
+      <summary><h2>Description</h2></summary>
+      <ul>
+        <% @disease.description.each do |info| %>
+          <li><%= info %></li>
+        <% end %>
+      </ul>
+    </details>
+
+    <details open>
+      <summary><h2>Symptoms</h2></summary>
+      <ul>
+        <% @disease.symptoms.each do |info| %>
+          <li><%= info %></li>
+        <% end %>
+      </ul>
+    </details>
+
+    <details class="wide" open>
+      <summary><h2>Control Methods</h2></summary>
+      <dl>
+        <dt class="long">Non-chemical control</dt>
+        <dd class="long">
+          <ul>
+            <% @disease.non_chemical_control.each do |info| %>
+              <li><%= info %></li>
+            <% end %>
+          </ul>
+        </dd>
+        <dt class="long">Chemical control</dt>
+        <dd class="long">
+          <ul>
+            <% @disease.chemical_control.each do |info| %>
+              <li><%= info %></li>
+            <% end %>
+          </ul>
+        </dd>
+      </dl>
+    </details>
+
+    <% if @disease.additional_information %>
+      <details open>
+        <summary><h2>Additional Information</h2></summary>
+        <ul>
+          <% @disease.additional_information.each do |info| %>
+            <li><%= info %></li>
+          <% end %>
+        </ul>
+      </details>
+    <% end %>
+  </div>
+</div>

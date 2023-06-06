@@ -7,6 +7,8 @@ Rails.application.routes.draw do
 
   resources :pests, only: [:index, :show]
 
+  resources :diseases, only: [:index, :show]
+
   scope :plant_quiz, as: :plant_quiz do
     get :question, to: "plant_quiz#question"
     post :answer, to: "plant_quiz#answer"

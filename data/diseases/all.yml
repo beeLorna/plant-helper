@@ -1,0 +1,53 @@
+- id: honey-fungus
+  name: Honey Fungus
+  rhs_url: https://www.rhs.org.uk/disease/honey-fungus
+  description:
+    - Honey fungus is the common name to a group of fungi in the genus Armillaria.
+    - It spreads underground and attacks and kills the roots of many woody and perennial plants.
+    - There are no plants that are completely immune to it, but there are some that are only rarely observed to be affected.
+    - It is the most destructive fungal disease in UK gardens, however some species are more damaging than others.
+    - The fungus spreads by direct contact between the roots of infected and non infected plants, and also by the black root-like rhizomorphs.
+    - The rhizomorphs are often known as bootlaces an dspread from the infected roots, normally in the top 15cm of soil but they can be as deep as 45cm.
+    - The rhizomorphs can spread by up to 1m per year and plants as far away as 30m from the initial source of infection can be attacked in time.
+    - Through recent research it is now thought that the spores of the honey coloured muchrooms also play a part in the spread of the disease.
+  symptoms:
+    - "Above ground:
+      - Upper parts of the plant die. Sometimes suddenly during periods of hot dry weather, indicating failure of the root system; sometimes more gradually with branches dying back over several years
+      - Smaller, paler-than-average leaves
+      - Failure to flower or unusually heavy flowering followed by an unusually heavy crop of fruit (usually just before death of the plant)
+      - Premature autumn colour
+      - Cracking and bleeding of the bark at the base of the stem
+      - If suitable conditions permit, mushrooms are produced in autumn from infected plant material
+      - The presence of a creamy white mycelium (a paper thin layer of fungal tissue) beneath the bark at the base of the plant and occasionally spreading up to 1m up the trunk. It has a strong mushroom smell. This is the most characteristic symptom that helps diagnosis."
+    - "Below gorund:
+      - Presence of dead and decaying roots
+      - The presence of black rhizomorphs - sometimes protruding from the roots"
+  non_chemical_control:
+    - A physical barrier such as a 45cm deep vertical strip of butyl rubber (pond lining) or heavy duty plastic sheet buried in the soil will block the rhizomorphs from spreading.
+    - Regular deep cultivation will break up rhizomorphs and limit spread.
+    - Avoid the most susceptible plants
+    - Use plants considered to be less affected
+  chemical_control:
+    - There are no chemical controls
+  additional_information:
+    - "Some less affected plants include:
+      - Arbutus sp
+      - Buxus sempervirens
+      - Chaenomles sp
+      - Cordyline sp
+      - Erica sp
+      - Jasminum sp
+      - Hypeicum sp
+      - Sarcococca sp
+      - Fuchsia sp
+      - Griselinia sp
+      - Rosmarinus sp
+      - Taxus sp
+      - Lavandula sp
+      - Lonicera sp
+      - Clematis sp
+      - Wisteria sp"
+    - "Some frequently affected plants include:
+      - Choisya sp
+      - "
+  images:

@@ -1,0 +1,9 @@
+<%= link_to "Back", root_path %>
+
+<h1>Diseases</h1>
+
+<ul>
+  <% @diseases.each do |disease| %>
+    <li class="name"><%= link_to disease.name, disease_path(disease) %></li>
+  <% end %>
+</ul>
