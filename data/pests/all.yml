@@ -1,0 +1,40 @@
+- id: slugs
+  name: Slugs
+  rhs_url: https://www.rhs.org.uk/biodiversity/slugs
+  description:
+    - Slugs are gastropods (which include snails)
+    - They are soft bodied animals belonging to the mollusc group
+    - They are consistently at the top of the RHS top ten list of pests
+    - There are 44 species of slugs in the UK
+    - Not all species cause damage to plants
+    - Many feed on dead plant material and are actually beneficial to the garden
+    - The range in size from a few mm to 12cm
+    - It is often the smaller ones which cause some of the most extensive damage
+    - They are active all year round (unlike snails), but warm damp conditions will see an increase
+    - Most slugs feed after dark but can be seen in wet weather
+    - Reproduction takes place mainly in spring and autumn when clusters of round whitish yellow eggs are laid in the soil or secluded damp spot
+  symptoms:
+    - Irregular holes in plant tissue caused by their rasping mouthparts
+    - Whole young plants can be completely eaten, seedlings are particulary at risk
+    - They will often leave behind a slime trail
+  non_chemical_control:
+    - Slugs are so abundant in gardens it is unreasonable to aim for complete removal and some damage has to be tolerated.
+    - Traps - beer traps, grapefruit/melon skins - check regularly
+    - Encourage predators - birds, frogs, hedgehogs, ground beetles, slow-worms.
+    - Barriers - including rough or sharp textured mulches, straw based mulch or other substances thought to be distasteful or strong smelling.
+    - Hand removal at night - torchlight search
+    - Plant out sturdy, young plantlets - not younger softer seedlings, cover with cloches
+    - Remove fallen leaves and dead plant material
+    - Don’t overuse high nitrogen feeds that promote soft sappy growth - more prone to damage
+    - Rake over soil to allow birds to eat exposed eggs
+  biological_control:
+    - A nematode (Phasmarhabditis hermaphrodita) that is watered onto the soil - it enters the slugs body and infects with a bacteria causing a fatal disease.
+    - Requires a warm moist soil (5-20C). It is more effective on lighter well drained soils and less successful on clay soils. Apply in the evenings.
+    - Can be used as a preventative (spring onwards) or once damage has been seen.
+  chemical_control:
+    - As of March 2021 there is only one type of slug pellet approved for use in gardens. It’s active ingredient is ferric phosphate.
+    - From 2020 pellets based on metaldehyde were banned.
+  additional_information:
+  images:
+    - pests/slugs/1.jpg
+    - pests/slugs/2.jpg

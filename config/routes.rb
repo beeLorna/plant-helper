@@ -5,6 +5,8 @@ Rails.application.routes.draw do
   root "root#home"
   resources :plants, only: [:index, :show]
 
+  resources :pests, only: [:index, :show]
+
   scope :plant_quiz, as: :plant_quiz do
     get :question, to: "plant_quiz#question"
     post :answer, to: "plant_quiz#answer"

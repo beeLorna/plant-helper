@@ -1,0 +1,9 @@
+<%= link_to "Back", root_path %>
+
+<h1>Pests</h1>
+
+<ul>
+  <% @pests.each do |pest| %>
+    <li class="name"><%= link_to pest.name, pest_path(pest) %></li>
+  <% end %>
+</ul>

@@ -1,0 +1,76 @@
+<%= link_to "Back", pests_path %>
+
+<div class="show">
+  <div>
+    <h1 class="name"><%= @pest.name %></h1>
+
+    <p><%= link_to "RHS pest page", @pest.rhs_url, target: :_blank %></p>
+  </div>
+
+  <div class="show__photo-section">
+    <% @pest.images.each do |image| %>
+      <a class="show__photo-section__photo" href="<%= image_path image %>" target="_blank"><%= image_tag image %></a>
+    <% end %>
+  </div>
+
+  <div class="show__info-section">
+    <details class="wide" open>
+      <summary><h2>Description</h2></summary>
+      <ul>
+        <% @pest.description.each do |info| %>
+          <li><%= info %></li>
+        <% end %>
+      </ul>
+    </details>
+
+    <details open>
+      <summary><h2>Symptoms</h2></summary>
+      <ul>
+        <% @pest.symptoms.each do |info| %>
+          <li><%= info %></li>
+        <% end %>
+      </ul>
+    </details>
+
+    <details class="wide" open>
+      <summary><h2>Control Methods</h2></summary>
+      <dl>
+        <dt class="long">Non-chemical control</dt>
+        <dd class="long">
+          <ul>
+            <% @pest.non_chemical_control.each do |info| %>
+              <li><%= info %></li>
+            <% end %>
+          </ul>
+        </dd>
+        <dt class="long">Biological control</dt>
+        <dd class="long">
+          <ul>
+            <% @pest.biological_control.each do |info| %>
+              <li><%= info %></li>
+            <% end %>
+          </ul>
+        </dd>
+        <dt class="long">Chemical control</dt>
+        <dd class="long">
+          <ul>
+            <% @pest.chemical_control.each do |info| %>
+              <li><%= info %></li>
+            <% end %>
+          </ul>
+        </dd>
+      </dl>
+    </details>
+
+    <% if @pest.additional_information %>
+      <details open>
+        <summary><h2>Additional Information</h2></summary>
+        <ul>
+          <% @pest.additional_information.each do |info| %>
+            <li><%= info %></li>
+          <% end %>
+        </ul>
+      </details>
+    <% end %>
+  </div>
+</div>
