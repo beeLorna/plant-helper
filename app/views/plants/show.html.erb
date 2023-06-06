@@ -1,6 +1,6 @@
 <%= link_to "Back", root_path %>
 
-<div class="plants-show">
+<div class="show">
   <div>
     <h1 class="botanical_name"><%= @plant.botanical_name %></h1>
     <% if @plant.shuttleworth_cultivar %>
@@ -16,15 +16,15 @@
     <p><%= link_to "RHS plant page", @plant.rhs_url, target: :_blank %></p>
   </div>
 
-  <div class="plants-show__photo-section">
+  <div class="show__photo-section">
     <% @plant.images.each do |image| %>
-      <a class="plants-show__photo-section__photo" href="<%= image_path image %>" target="_blank"><%= image_tag image %></a>
+      <a class="show__photo-section__photo" href="<%= image_path image %>" target="_blank"><%= image_tag image %></a>
     <% end %>
   </div>
 
   <p><%= @plant.description %></p>
 
-  <div class="plants-show__info-section">
+  <div class="show__info-section">
     <details open>
       <summary><h2>Botanical Details</h2></summary>
       <dl>

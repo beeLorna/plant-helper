@@ -1,4 +1,4 @@
-.plants-show {
+.show {
   display: flex;
   gap: 3rem;
   flex-direction: column;
@@ -15,7 +15,7 @@
       flex-shrink: 0;
       max-width: 80%;
 
-      > img {
+      >img {
         display: block;
         width: 20rem;
         max-width: 100%;
@@ -32,14 +32,18 @@
     justify-content: center;
     text-align: left;
 
-    > details {
+    >details {
       padding: 2em;
       width: 20em;
       max-width: 100%;
 
       background-color: #bcd6b4;
 
-      > summary {
+      &.wide {
+        width: 40em;
+      }
+
+      >summary {
         list-style: none;
         display: flex;
         align-items: center;
@@ -58,7 +62,7 @@
       }
 
       &[open] {
-        > summary {
+        >summary {
           margin-bottom: 2em;
 
           &::after {
