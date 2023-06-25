@@ -1,7 +1,22 @@
-table tbody tr:nth-child(odd) {
-  background-color: lightgrey;
+table th, table td {
+  padding: 0.25em 0.5em;
+  text-align: center;
 }
 
-table tbody td {
-  text-align: center;
+table th {
+  white-space: nowrap;
+}
+
+table th a {
+  font-weight: unset;
+  text-decoration: unset;
+  color: unset;
+
+  &:hover, &:focus {
+    text-decoration: underline;
+  }
+}
+
+table tbody tr:nth-child(odd) {
+  background-color: lightgrey;
 }

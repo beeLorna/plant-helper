@@ -14,7 +14,28 @@ class PlantsController < ApplicationController
       end
     end
 
-    @plants = Plant.where(filter).sort_by(&:week).reverse
+    @sort_by = :botanical_name
+    if index_sort_params[:sort_by]
+      @sort_by = index_sort_params[:sort_by].to_sym
+    end
+
+    @sort_order = :asc
+    if index_sort_params[:sort_order]
+      @sort_order = index_sort_params[:sort_order].to_sym
+    end
+
+    @plants = Plant.where(filter).sort_by { |plant|
+      attribute = plant[@sort_by]
+      if attribute.respond_to?(:downcase)
+        attribute = attribute.downcase
+      end
+
+      attribute
+    }
+
+    if @sort_order == :desc
+      @plants.reverse!
+    end
   end
 
   def show
@@ -25,5 +46,9 @@ class PlantsController < ApplicationController
 
   def index_filter_params
     params.permit(:only_shuttleworth_cultivar, :only_drought_resistant, :only_biodiversity_wildlife)
+  end
+
+  def index_sort_params
+    params.permit(:sort_by, :sort_order)
   end
 end

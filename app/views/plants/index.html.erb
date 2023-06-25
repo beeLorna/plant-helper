@@ -17,9 +17,17 @@
 <table>
   <thead>
     <tr>
-      <th>Botanical name</th>
-      <th>Common name</th>
-      <th>Week</th>
+      <% [:botanical_name, :common_name, :week].each do |attribute| %>
+        <th>
+          <%=
+            link_to "#{attribute.to_s.humanize} #{@sort_by == attribute ? (@sort_order == :asc ? "▼" : "▲") : "▽"}",
+              root_path(
+                sort_by: attribute,
+                sort_order: (@sort_by == attribute && @sort_order == :asc) ? :desc : :asc
+              )
+          %>
+        </th>
+      <% end %>
       <th>Shuttleworth cv.</th>
       <th>Drought resistant</th>
       <th>Beneficial to wildlife</th>
