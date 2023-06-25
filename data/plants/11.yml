@@ -35,6 +35,7 @@
   biodiversity_wildlife: true
   interior_landscapes: false
   suitable_for_hedging: false
+  drought_resistant: true
   habit: Clump forming
   flowers_present: true
   flower_description:
@@ -558,6 +559,7 @@
   biodiversity_wildlife: true
   interior_landscapes: false
   suitable_for_hedging: false
+  drought_resistant: true
   habit: Columnar upright
   flowers_present: true
   flower_description:

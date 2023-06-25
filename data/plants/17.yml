@@ -96,6 +96,7 @@
   biodiversity_wildlife: false
   interior_landscapes: false
   suitable_for_hedging: false
+  drought_resistant: true
   habit: Tufted
   flowers_present: true
   flower_description:
