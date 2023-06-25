@@ -45,7 +45,7 @@ class PlantsController < ApplicationController
   private
 
   def index_filter_params
-    params.permit(:only_shuttleworth_cultivar, :only_drought_resistant, :only_biodiversity_wildlife)
+    params.permit(:only_shuttleworth_cultivar, :only_drought_resistant, :only_waterlogging_resistant, :only_biodiversity_wildlife)
   end
 
   def index_sort_params
