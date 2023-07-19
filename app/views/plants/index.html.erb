@@ -10,6 +10,7 @@
       <p><%= form.check_box :only_drought_resistant %> <%= form.label :only_drought_resistant, "Only show drought resistant plants" %></p>
       <p><%= form.check_box :only_biodiversity_wildlife %> <%= form.label :only_biodiversity_wildlife, "Only show plants beneficial to wildlife" %></p>
       <p><%= form.check_box :only_waterlogging_resistant %> <%= form.label :only_waterlogging_resistant, "Only show waterlogging resistant plants" %></p>
+      <p><%= form.check_box :only_native_to_uk %> <%= form.label :only_native_to_uk, "Only show plants native to the UK" %></p>
       <%= form.submit "Go", name: nil %>
     </details>
   <% end %>
@@ -33,6 +34,7 @@
       <th>Drought resistant</th>
       <th>Waterlogging resistant</th>
       <th>Beneficial to wildlife</th>
+      <th>Native to the UK</th>
     </tr>
   </thead>
 
@@ -59,6 +61,11 @@
         </td>
         <td class="biodiversity_wildlife">
           <% if plant.biodiversity_wildlife %>
+            ✔
+          <% end %>
+        </td>
+        <td class="native_to_uk">
+          <% if plant.native_to_uk %>
             ✔
           <% end %>
         </td>
